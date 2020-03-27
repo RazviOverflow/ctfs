@@ -1,0 +1,2 @@
+We solved the challenge using multipsk (Windows). Using the PSK Panoramic feature (playing the .wav file and capturing it with
+the microphone)
