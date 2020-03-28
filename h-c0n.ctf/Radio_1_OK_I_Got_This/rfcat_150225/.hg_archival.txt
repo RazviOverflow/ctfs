@@ -1,0 +1,5 @@
+repo: e03e250c7be81f458e320865311a39bc8de14e4c
+node: 96e4efbaa25ed7b101043324fd6d2210b5c8216a
+branch: default
+latesttag: blackhat2012
+latesttagdistance: 203

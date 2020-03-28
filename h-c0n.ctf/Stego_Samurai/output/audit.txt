@@ -1,0 +1,25 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sun Jan 12 06:16:55 2020
+Invocation: foremost -i samurai.png 
+Output directory: /root/Desktop/h-c0n.ctf/Stego_Samurai/output
+Configuration file: /usr/local/etc/foremost.conf
+------------------------------------------------------------------
+File: samurai.png
+Start: Sun Jan 12 06:16:55 2020
+Length: 429 KB (439822 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000314.zip 	     272 KB 	     161106 	 
+1:	00000000.png 	     157 KB 	          0 	  (480 x 720)
+Finish: Sun Jan 12 06:16:55 2020
+
+2 FILES EXTRACTED
+	
+zip:= 1
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Sun Jan 12 06:16:55 2020

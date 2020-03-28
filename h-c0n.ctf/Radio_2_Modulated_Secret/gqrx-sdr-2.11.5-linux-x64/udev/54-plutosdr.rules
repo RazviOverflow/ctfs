@@ -1,0 +1,1 @@
+ATTR{idVendor}=="0456", ATTR{idProduct}=="b673", SYMLINK+="plutosdr-%k", MODE="660", GROUP="plugdev"

@@ -1,0 +1,1 @@
+ATTR{idVendor}=="04d8", ATTR{idProduct}=="fb31", SYMLINK+="fcdpp-%k", MODE="660", GROUP="plugdev"
