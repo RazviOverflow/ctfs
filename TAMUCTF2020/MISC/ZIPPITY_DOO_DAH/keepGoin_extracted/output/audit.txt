@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Thu Mar 26 15:24:13 2020
+Invocation: foremost random150.png 
+Output directory: /root/Desktop/TAMUCTF2020/MISC/ZIPPITY_DOO_DAH/keepGoin_extracted/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: random150.png
+Start: Thu Mar 26 15:24:13 2020
+Length: 344 KB (352840 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.png 	     344 KB 	          0 	  (744 x 389)
+Finish: Thu Mar 26 15:24:13 2020
+
+1 FILES EXTRACTED
+	
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Thu Mar 26 15:24:13 2020
