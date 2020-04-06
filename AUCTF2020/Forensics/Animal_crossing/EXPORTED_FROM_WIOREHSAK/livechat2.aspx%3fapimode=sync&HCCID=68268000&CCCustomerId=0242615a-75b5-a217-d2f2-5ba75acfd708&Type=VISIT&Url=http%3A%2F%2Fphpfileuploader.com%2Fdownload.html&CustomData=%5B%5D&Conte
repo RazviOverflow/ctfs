@@ -1,0 +1,129 @@
+
+
+   	// livechat by www.mylivechat.com/  2018-06-12
+
+   	
+
+
+	   MyLiveChat.Version =3007;
+	   MyLiveChat.FirstRequestTimeout =21600;
+	   MyLiveChat.NextRequestTimeout =43200;
+	   MyLiveChat.SyncType ="VISIT";
+	   MyLiveChat.SyncStatus ="READY";
+	   MyLiveChat.SyncUserName ="Guest_0242615a";
+	   MyLiveChat.SyncResult =null;
+	   MyLiveChat.HasReadyAgents =false;
+	   MyLiveChat.SourceUrl ="http://phpfileuploader.com/download.html";
+	   MyLiveChat.AgentTimeZone = parseInt("-4" || "-5");
+	   MyLiveChat.VisitorStatus ="VISIT";
+	   MyLiveChat.UrlBase ="http://chat1.mylivechat.com/livechat2/";
+	   MyLiveChat.SiteUrl ="http://chat1.mylivechat.com/";
+
+   	
+
+	   if (!MyLiveChat.AgentId) MyLiveChat.AgentId = MyLiveChat.RawAgentId;
+
+	   MyLiveChat.Departments = [];
+
+	   MyLiveChat.Departments.push({
+		   Name:"Support",
+		   Agents: [{
+			   Id:'User:1',
+			   Name:"admin",
+			   Online:false
+   			},{
+			   Id:'User:2',
+			   Name:"Kenneth",
+			   Online:false
+   			},{
+			   Id:'User:5',
+			   Name:"Karen",
+			   Online:false
+   			},{
+			   Id:'User:4',
+			   Name:"Jeff",
+			   Online:false
+   			},{
+			   Id:'User:7',
+			   Name:"Adam",
+			   Online:false
+   			},{
+			   Id:'User:9',
+			   Name:"TEST",
+			   Online:false
+   			},{
+			   Id:'User:10',
+			   Name:"Rhonda",
+			   Online:false
+   			},{
+			   Id:'User:3',
+			   Name:"Terry",
+			   Online:false
+   			}],
+		   Online:false
+   		});
+
+	   MyLiveChat.Departments.push({
+		   Name:"Sales",
+		   Agents: [{
+			   Id:'User:1',
+			   Name:"admin",
+			   Online:false
+   			},{
+			   Id:'User:2',
+			   Name:"Kenneth",
+			   Online:false
+   			},{
+			   Id:'User:3',
+			   Name:"Terry",
+			   Online:false
+   			},{
+			   Id:'User:9',
+			   Name:"TEST",
+			   Online:false
+   			},{
+			   Id:'User:10',
+			   Name:"Rhonda",
+			   Online:false
+   			},{
+			   Id:'User:7',
+			   Name:"Adam",
+			   Online:false
+   			},{
+			   Id:'User:5',
+			   Name:"Karen",
+			   Online:false
+   			}],
+		   Online:false
+   		});
+
+
+
+	   MyLiveChat.VisitorUrls = [];
+
+
+
+   	
+
+
+	   MyLiveChat.VisitorLocation ="US|United States|AL|Alabama|Auburn";
+	   MyLiveChat.LastLoadTime = new Date().getTime();
+	   MyLiveChat.VisitorDuration =49;
+	   MyLiveChat.VisitorEntryUrl ="http://phpfileuploader.com/download.html";
+	   MyLiveChat.VisitorReferUrl =null;
+
+	   MyLiveChat.VisitorUrls = [];
+
+
+
+   	
+	   MyLiveChat.VisitorUrls.push("http://phpfileuploader.com/download.html");
+   	
+
+	   MyLiveChat_Initialize();
+
+	   if (MyLiveChat.localStorage || MyLiveChat.userDataBehavior) {
+		   MyLiveChat_SyncToCPR();
+	   }
+
+   	
