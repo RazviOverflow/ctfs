@@ -1,0 +1,1 @@
+The flag is: tjctf{TH3_1llum1n4ti_I5_R3aL}
