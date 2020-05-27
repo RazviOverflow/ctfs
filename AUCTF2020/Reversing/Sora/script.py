@@ -1,3 +1,4 @@
+#RazviOverflow
 from pwn import *
 import string
 
@@ -19,6 +20,3 @@ binary = remote("challenges.auctf.com", 30004)
 print binary.recvuntil("!")
 binary.sendline(secret_decrypted)
 print binary.recvall()
-
-
-
