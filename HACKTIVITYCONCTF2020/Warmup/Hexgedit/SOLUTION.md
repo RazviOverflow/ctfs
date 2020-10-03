@@ -1,0 +1,1 @@
+flag{optical_hexadecimal_recognition_amirite}

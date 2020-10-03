@@ -1,0 +1,1 @@
+The challenge.7z file has another ZIP embedded. Unzip it and the embedded one. The embedded zip is password protected. The password is password.txt from the original file, i.e. give_me_the_flag. The flag is: tstlss{next_header_offset_is_a_nice_feature}

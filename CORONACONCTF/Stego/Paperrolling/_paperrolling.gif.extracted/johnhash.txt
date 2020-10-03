@@ -1,0 +1,1 @@
+C83BA.zip/flag.txt:$pkzip2$1*1*2*0*22*16*aaeea1ea*0*26*0*22*aaee*053b*26d9e3d1f22e4153aa31fb6791b8635b39b13bc880019026306d7f191e27267b1964*$/pkzip2$:flag.txt:C83BA.zip::C83BA.zip
