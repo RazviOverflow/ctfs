@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Thu Oct 22 15:47:19 2020
+Invocation: foremost jomoza.jpg 
+Output directory: /root/Desktop/CTFs/ctfs2/BITUPALICANTECTF2020/Bello_o_bestia/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: jomoza.jpg
+Start: Thu Oct 22 15:47:19 2020
+Length: 61 KB (62525 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.jpg 	      61 KB 	          0 	 
+Finish: Thu Oct 22 15:47:19 2020
+
+1 FILES EXTRACTED
+	
+jpg:= 1
+------------------------------------------------------------------
+
+Foremost finished at Thu Oct 22 15:47:19 2020
