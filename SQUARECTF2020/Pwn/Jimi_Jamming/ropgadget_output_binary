@@ -1,0 +1,74 @@
+Gadgets information
+============================================================
+0x000000000000128f : add al, ch ; retf
+0x00000000000011d3 : add byte ptr [rax], 0 ; add byte ptr [rax], al ; ret
+0x000000000000156c : add byte ptr [rax], al ; add byte ptr [rax], al ; endbr64 ; ret
+0x00000000000014f6 : add byte ptr [rax], al ; add byte ptr [rax], al ; pop rbp ; ret
+0x00000000000011d4 : add byte ptr [rax], al ; add byte ptr [rax], al ; ret
+0x0000000000001250 : add byte ptr [rax], al ; add dword ptr [rbp - 0x3d], ebx ; nop dword ptr [rax] ; ret
+0x000000000000156e : add byte ptr [rax], al ; endbr64 ; ret
+0x00000000000014f8 : add byte ptr [rax], al ; pop rbp ; ret
+0x00000000000011d6 : add byte ptr [rax], al ; ret
+0x000000000000100d : add byte ptr [rax], al ; test rax, rax ; je 0x101d ; call rax
+0x00000000000011c8 : add byte ptr [rax], al ; test rax, rax ; je 0x11df ; jmp rax
+0x0000000000001209 : add byte ptr [rax], al ; test rax, rax ; je 0x121f ; jmp rax
+0x0000000000001215 : add byte ptr [rax], r8b ; ret
+0x0000000000001251 : add byte ptr [rcx], al ; pop rbp ; ret
+0x00000000000011c7 : add byte ptr cs:[rax], al ; test rax, rax ; je 0x11e0 ; jmp rax
+0x0000000000001252 : add dword ptr [rbp - 0x3d], ebx ; nop dword ptr [rax] ; ret
+0x0000000000001017 : add esp, 8 ; ret
+0x0000000000001016 : add rsp, 8 ; ret
+0x0000000000001014 : call rax
+0x0000000000001573 : cli ; ret
+0x000000000000157b : cli ; sub rsp, 8 ; add rsp, 8 ; ret
+0x000000000000124e : cmc ; sub eax, 0x5d010000 ; ret
+0x000000000000144e : cmp dword ptr [rbp - 4], 7 ; jle 0x13f1 ; nop ; nop ; leave ; ret
+0x00000000000013aa : dec dword ptr [rcx - 0x366f0fbb] ; ret
+0x0000000000001570 : endbr64 ; ret
+0x000000000000154c : fisttp word ptr [rax - 0x7d] ; ret
+0x000000000000100b : fldcw word ptr [rdi] ; add byte ptr [rax], al ; test rax, rax ; je 0x101f ; call rax
+0x0000000000001207 : in eax, 0x2d ; add byte ptr [rax], al ; test rax, rax ; je 0x1221 ; jmp rax
+0x0000000000001012 : je 0x1018 ; call rax
+0x00000000000011cd : je 0x11da ; jmp rax
+0x000000000000120e : je 0x121a ; jmp rax
+0x0000000000001452 : jle 0x13ed ; nop ; nop ; leave ; ret
+0x00000000000011cf : jmp rax
+0x00000000000013af : leave ; ret
+0x0000000000001211 : loopne 0x1280 ; nop dword ptr [rax + rax] ; ret
+0x000000000000124c : mov byte ptr [rip + 0x2df5], 1 ; pop rbp ; ret
+0x00000000000013ab : mov dword ptr [rbp - 0x10], eax ; nop ; leave ; ret
+0x00000000000014f5 : mov eax, 0 ; pop rbp ; ret
+0x00000000000013ae : nop ; leave ; ret
+0x0000000000001454 : nop ; nop ; leave ; ret
+0x0000000000001213 : nop dword ptr [rax + rax] ; ret
+0x00000000000011d1 : nop dword ptr [rax] ; ret
+0x0000000000001212 : nop word ptr [rax + rax] ; ret
+0x000000000000120f : or bh, bh ; loopne 0x1282 ; nop dword ptr [rax + rax] ; ret
+0x000000000000155c : pop r12 ; pop r13 ; pop r14 ; pop r15 ; ret
+0x000000000000155e : pop r13 ; pop r14 ; pop r15 ; ret
+0x0000000000001560 : pop r14 ; pop r15 ; ret
+0x0000000000001562 : pop r15 ; ret
+0x000000000000155b : pop rbp ; pop r12 ; pop r13 ; pop r14 ; pop r15 ; ret
+0x000000000000155f : pop rbp ; pop r14 ; pop r15 ; ret
+0x0000000000001253 : pop rbp ; ret
+0x0000000000001563 : pop rdi ; ret
+0x0000000000001561 : pop rsi ; pop r15 ; ret
+0x000000000000155d : pop rsp ; pop r13 ; pop r14 ; pop r15 ; ret
+0x000000000000101a : ret
+0x0000000000001231 : ret 0x2d
+0x000000000000137b : ret 0x458b
+0x0000000000001291 : retf
+0x00000000000012d3 : retf 0x1088
+0x0000000000001011 : sal byte ptr [rdx + rax - 1], 0xd0 ; add rsp, 8 ; ret
+0x000000000000124f : sub eax, 0x5d010000 ; ret
+0x000000000000157d : sub esp, 8 ; add rsp, 8 ; ret
+0x000000000000157c : sub rsp, 8 ; add rsp, 8 ; ret
+0x0000000000001010 : test eax, eax ; je 0x101a ; call rax
+0x00000000000011cb : test eax, eax ; je 0x11dc ; jmp rax
+0x000000000000120c : test eax, eax ; je 0x121c ; jmp rax
+0x000000000000100f : test rax, rax ; je 0x101b ; call rax
+0x00000000000011ca : test rax, rax ; je 0x11dd ; jmp rax
+0x000000000000120b : test rax, rax ; je 0x121d ; jmp rax
+0x0000000000001453 : xchg eax, esp ; nop ; nop ; leave ; ret
+
+Unique gadgets found: 70
