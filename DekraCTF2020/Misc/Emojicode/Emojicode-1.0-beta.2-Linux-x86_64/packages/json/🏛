@@ -1,0 +1,183 @@
+📘
+  This package allows you to parse JSON.
+
+  Example:
+
+  ```
+  🍺 🔲 🍺⚪️🕊🌸 🔤{"a": 32, "b": 43, "c": -92}🔤❗️🍯🐚⚪️🍆➡️ dict
+
+  🍺🔲🐽dict 🔤b🔤❗️🔢  💭 Gets the value for b
+  ```
+📘
+
+📗
+  🚧🔸🌸 an error that occured when parsing a JSON text.
+📗
+🌍 🐇 🚧🔸🌸 🚧 🍇
+
+  🆕🎍🥡 message 🔡 
+🍉
+
+📗
+  🌸 represents a JSON parser. Its use is straightforward: It can either be used
+  with the shortcut type method ⚪️ that takes a string and returns the parsed
+  value, or you can instantiate it yourself and then call the method ⚪️ yourself.
+
+  On error, [[🚧🔸🌸]] is raised.
+📗
+🌍 🕊 🌸 🍇
+  🖍🆕 string 🧠
+  🖍🆕 count 🔢
+  🖍🆕 index 🔢 ⬅️ 0 
+
+  📗
+    Creates a 🌸 from the provided 🔡.
+  📗
+  🆕str 🔡 
+  📗
+    Creates a 🌸 from the provided 📇. The JSON text must be UTF-8 encoded.
+  📗
+  🆕 ▶️📇 data 📇 
+  📗
+    Parses the instance’s input and returns the represented value.
+  📗
+  🖍 ❗️ ⚪ ➡️ ⚪️🚧🚧🔸🌸 
+  📗
+    Returns the next byte that is not whitespace or raises an error if there
+    are no more bytes.
+  📗
+  🥯 ☣️ 🖍 🔒❗️ ⏭ ➡️ 💧🚧🚧🔸🌸  🍇
+    🔁 index ◀️ count 🍇
+      🐽🐚💧🍆string index❗️ ➡️ v
+      index ⬅️➕ 1
+      ↪️ ❎v 🙌 0x20 👐 v 🙌 0xA 👐 v 🙌 0x0D 👐 v 🙌 9❗️ 🍇
+        ↩️ v
+      🍉
+    🍉
+    🚨🆕🚧🔸🌸 🔤Unexpected end of input.🔤❗️
+  🍉
+  📗
+    Returns the next byte that is not whitespace without consuming it
+    or raises an error if there are no more bytes. Skipped whitespace is
+    consumed.
+  📗
+  🥯 ☣️ 🖍 🔒❓ ⏭ ➡️ 💧🚧🚧🔸🌸  🍇
+    🔁 index ◀️ count 🍇
+      🐽🐚💧🍆string index ❗️ ➡️ v
+      ↪️ ❎v 🙌 0x20 👐 v 🙌 0xA 👐 v 🙌 0x0D 👐 v 🙌 9❗️ 🍇
+        ↩️ v
+      🍉
+      index ⬅️➕ 1
+    🍉
+    🚨🆕🚧🔸🌸 🔤Unexpected end of input.🔤❗️
+  🍉
+  📗
+    Reads a string where the opening `"` has already been consumed.
+  📗
+  ☣️ 🖍 🔒❗️ 🔠 ➡️ 🔡🚧🚧🔸🌸 
+  📗 Parses the hexadecimal, four digit number after `\u`. 📗
+  ☣️ 🖍 🔒❗️ 🈯 ➡️ 🔢🚧🚧🔸🌸 
+  📗
+    Parses the escape sequence `\u` after `\u` itself has already been consumed.
+    Deals with surrogate pairs.
+  📗
+  ☣️ 🖍 🔒❗️ 🈲 ➡️ 🔢🚧🚧🔸🌸 
+  📗
+    Reads an integer, i.e. all digits from 0-9 until the end of the string or
+    another character is encountered, which will not be consumed.
+
+    `int` is the first digit if non-null.
+  📗
+  ☣️ 🖍 🔒❗️ 🔢 int 🔢 ➡️ 🔢
+  📗
+    Reads a number.
+  📗
+  ☣️ 🖍 🔒❗️ 💜 initial 🔢 neg 👌 ➡️ ⚪️🚧🚧🔸🌸 
+  📗
+    Parses the exponent after `e` or `E`, which must have been consumed.
+  📗
+  ☣️ 🖍 🔒❗️ 🏂 reali 💯 ➡️ 💯
+  ☣️ 🖍 🔒❗️ 🦷 expectation 💧 ➡️ ◼️🚧🚧🔸🌸 
+  🥯 ☣️ 🖍 🔒❗️ 🌕 v 💧 ➡️ ⚪️🚧🚧🔸🌸  🍇
+    ↪️ v🙌 0x22 🍇
+      ↩️🔺🔠❗️
+    🍉
+    🙅‍♀️↪️ v🙌 0x7B 🍇
+      🆕🍯🐚⚪️🍆❗️➡️🖍🆕a
+      ↪️ 🤜🔺⏭❓🤛🙌0x7D🍇
+        index ⬅️➕ 1
+        ↩️a
+      🍉
+      🔁👍🍇
+        🔺🦷👇0x22❗️
+        🔺🔠👇❗️ ➡️ key
+        🔺🦷👇0x3A❗️
+        🔺🔎👇❗️ ➡️ 🐽a key❗️
+        🔺⏭❗️➡️nv
+        ↪️ ❎nv🙌 0x2C❗️ 🍇
+          ↪️ ❎nv🙌0x7D❗️ 🍇
+            🚨🆕🚧🔸🌸 🔤Expected }.🔤❗️
+          🍉
+          ↩️a
+        🍉
+      🍉
+    🍉
+    🙅‍♀️↪️ v🙌 0x66 🍇
+      🔺🦷👇0x61❗️
+      🔺🦷👇0x6C❗️
+      🔺🦷👇0x73❗️
+      🔺🦷👇0x65❗️
+      ↩️👎
+    🍉
+    🙅‍♀️↪️ v🙌 0x6E 🍇
+      🔺🦷👇0x75❗️
+      🔺🦷👇0x6C❗️
+      🔺🦷👇0x6C❗️
+      ↩️🤷‍♂️
+    🍉
+    🙅‍♀️↪️ v🙌 0x74 🍇
+      🔺🦷👇0x72❗️
+      🔺🦷👇0x75❗️
+      🔺🦷👇0x65❗️
+      ↩️👍
+    🍉
+    🙅‍♀️↪️ v🙌 0x5B 🍇
+      🆕🍨🐚⚪️🍆❗️➡️🖍🆕a
+      🔺⏭👇❗️➡️gv
+      ↪️ gv🙌0x5D 🍇
+        ↩️a
+      🍉
+      🐻a 🔺🌕👇gv❗️❗️
+      🔁👍🍇
+        🔺⏭👇❗️➡️nv
+        ↪️ ❎nv🙌 0x2C❗️ 🍇
+          ↪️ ❎nv🙌0x5D❗️ 🍇
+            🚨🆕🚧🔸🌸 🔤Expected ].🔤❗️
+          🍉
+          ↩️a
+        🍉
+        🐻a 🔺🔎👇❗️❗️
+      🍉
+    🍉
+    🙅‍♀️↪️ v▶️🙌0x30 🤝 v ◀️🙌 0x39 🍇
+      ↩️🔺💜👇🔢v ➖ 0x30❗️👎❗
+    🍉
+    🙅‍♀️↪️ v 🙌 0x2D 🍇
+      ↩️🔺💜👇0👍❗
+    🍉
+    🚨🆕🚧🔸🌸 🔤Invalid JSON.🔤❗️
+  🍉
+  🥯 🖍 🔒❗️ 🔎 ➡️ ⚪️🚧🚧🔸🌸  🍇
+    ☣️🍇
+      ↩️🔺🌕👇🔺⏭❗️❗️
+    🍉
+  🍉
+  📗
+    Parses `string` and returns the represented value.
+  📗
+  🥯 🐇 ❗️ ⚪ string 🔡 ➡️ ⚪️🚧🚧🔸🌸  🍇
+    🆕🌸 string❗️ ➡️ 🖍🆕g
+    ↩️🔺⚪️g❗️
+  🍉
+🍉
+
