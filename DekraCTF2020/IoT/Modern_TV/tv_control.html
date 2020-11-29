@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>WebSocket demo</title>
+        <style type="text/css">
+            body {
+                font-family: "Courier New", sans-serif;
+                text-align: center;
+            }
+            table {
+                width: 150px;
+                height: 400px;
+                margin: auto;
+            }
+            .buttons {
+                font-size: 2em;
+                display: flex;
+                justify-content: center;
+            }
+            .button, .value {
+                border: medium solid;
+                min-height: 1em;
+                min-width: 1em;
+            }
+            .value {
+                margin: auto;
+                font-size: 40px;
+                line-height: 7;
+                width: 400px;
+            }
+            .button {
+                line-height: 1;
+                cursor: pointer;
+                user-select: none;
+            }
+            .minus {
+                color: red;
+            }
+            .plus {
+                color: green;
+            }
+            .value {
+                min-width: 2em;
+            }
+            .state {
+                font-size: 2em;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="value">?</div>
+        <br><br>
+        <table bgcolor="black">
+        <tr><td>
+        <div class="buttons">
+            <div class="minus button">-</div> 
+            <div class="plus button">+</div>
+        </div>
+        </td></tr>
+        </table>
+        <script>
+            var minus = document.querySelector('.minus'),
+                plus = document.querySelector('.plus'),
+                value = document.querySelector('.value'),
+                users = document.querySelector('.users'),
+                websocket = new WebSocket("ws://168.119.247.237:5006/?debug=1");
+            minus.onclick = function (event) {
+                websocket.send(JSON.stringify({action: 'minus'}));
+            }
+            plus.onclick = function (event) {
+                websocket.send(JSON.stringify({action: 'plus'}));
+            }
+            websocket.onmessage = function (event) {
+                data = JSON.parse(event.data);
+                switch (data.type) {
+                    case 'state':
+                        value.textContent = data.value;
+                        break;
+                    case 'users':
+                        users.textContent = (
+                            data.count.toString() + " user" +
+                            (data.count == 1 ? "" : "s"));
+                        break;
+                    default:
+                        console.error(
+                            "unsupported event", data);
+                }
+            };
+            //debug mode needs a value
+        </script>
+    </body>
+</html>
