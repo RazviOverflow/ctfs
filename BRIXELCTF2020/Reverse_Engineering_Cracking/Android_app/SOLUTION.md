@@ -1,0 +1,1 @@
+We used jadx-gui to decompile the apk and explore its classes. In the class Screen 1 there is the flag. Simply look for (CTRL+F) brixel and you'll find it. The flag is: brixelCTF{th3_4ndr0ids_y0u_4r3_l00k1ng_f0r}
