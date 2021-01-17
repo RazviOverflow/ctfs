@@ -1,0 +1,1 @@
+There is an obfuscated javascript that checks the inserted password against the one being calculated. Simply debug the javascript. Breakpoint it where the check is made, go to console and alert(newpassword). The flag is brixelctf{0bfuscati0n}

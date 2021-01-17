@@ -1,0 +1,5647 @@
+[+] Requesting get_called_class
+<!-- Let's pray for new year lucky things <3 -->
+
+
+
+
+[+] Requesting get_called_class as array
+<!-- Let's pray for new year lucky things <3 -->
+
+bool(false)
+
+[+] Requesting get_parent_class
+<!-- Let's pray for new year lucky things <3 -->
+
+
+
+
+[+] Requesting get_parent_class as array
+<!-- Let's pray for new year lucky things <3 -->
+
+bool(false)
+
+[+] Requesting get_included_files
+<!-- Let's pray for new year lucky things <3 -->
+
+Array
+
+
+[+] Requesting get_included_files as array
+<!-- Let's pray for new year lucky things <3 -->
+
+array(1) {
+  [0]=>
+  string(23) "/var/www/html/index.php"
+}
+
+[+] Requesting get_required_files
+<!-- Let's pray for new year lucky things <3 -->
+
+Array
+
+
+[+] Requesting get_required_files as array
+<!-- Let's pray for new year lucky things <3 -->
+
+array(1) {
+  [0]=>
+  string(23) "/var/www/html/index.php"
+}
+
+[+] Requesting get_class_vars
+<!-- Let's pray for new year lucky things <3 -->
+
+
+
+
+[+] Requesting get_class_vars as array
+<!-- Let's pray for new year lucky things <3 -->
+
+NULL
+
+[+] Requesting get_object_vars
+<!-- Let's pray for new year lucky things <3 -->
+
+
+
+
+[+] Requesting get_object_vars as array
+<!-- Let's pray for new year lucky things <3 -->
+
+NULL
+
+[+] Requesting get_class_methods
+<!-- Let's pray for new year lucky things <3 -->
+
+
+
+
+[+] Requesting get_class_methods as array
+<!-- Let's pray for new year lucky things <3 -->
+
+NULL
+
+[+] Requesting get_declared_classes
+<!-- Let's pray for new year lucky things <3 -->
+
+Array
+
+
+[+] Requesting get_declared_classes as array
+<!-- Let's pray for new year lucky things <3 -->
+
+array(99) {
+  [0]=>
+  string(8) "stdClass"
+  [1]=>
+  string(9) "Exception"
+  [2]=>
+  string(14) "ErrorException"
+  [3]=>
+  string(5) "Error"
+  [4]=>
+  string(10) "ParseError"
+  [5]=>
+  string(9) "TypeError"
+  [6]=>
+  string(18) "ArgumentCountError"
+  [7]=>
+  string(15) "ArithmeticError"
+  [8]=>
+  string(19) "DivisionByZeroError"
+  [9]=>
+  string(7) "Closure"
+  [10]=>
+  string(9) "Generator"
+  [11]=>
+  string(24) "ClosedGeneratorException"
+  [12]=>
+  string(8) "DateTime"
+  [13]=>
+  string(17) "DateTimeImmutable"
+  [14]=>
+  string(12) "DateTimeZone"
+  [15]=>
+  string(12) "DateInterval"
+  [16]=>
+  string(10) "DatePeriod"
+  [17]=>
+  string(11) "LibXMLError"
+  [18]=>
+  string(11) "HashContext"
+  [19]=>
+  string(19) "ReflectionException"
+  [20]=>
+  string(10) "Reflection"
+  [21]=>
+  string(26) "ReflectionFunctionAbstract"
+  [22]=>
+  string(18) "ReflectionFunction"
+  [23]=>
+  string(19) "ReflectionGenerator"
+  [24]=>
+  string(19) "ReflectionParameter"
+  [25]=>
+  string(14) "ReflectionType"
+  [26]=>
+  string(19) "ReflectionNamedType"
+  [27]=>
+  string(16) "ReflectionMethod"
+  [28]=>
+  string(15) "ReflectionClass"
+  [29]=>
+  string(16) "ReflectionObject"
+  [30]=>
+  string(18) "ReflectionProperty"
+  [31]=>
+  string(23) "ReflectionClassConstant"
+  [32]=>
+  string(19) "ReflectionExtension"
+  [33]=>
+  string(23) "ReflectionZendExtension"
+  [34]=>
+  string(14) "LogicException"
+  [35]=>
+  string(24) "BadFunctionCallException"
+  [36]=>
+  string(22) "BadMethodCallException"
+  [37]=>
+  string(15) "DomainException"
+  [38]=>
+  string(24) "InvalidArgumentException"
+  [39]=>
+  string(15) "LengthException"
+  [40]=>
+  string(19) "OutOfRangeException"
+  [41]=>
+  string(16) "RuntimeException"
+  [42]=>
+  string(20) "OutOfBoundsException"
+  [43]=>
+  string(17) "OverflowException"
+  [44]=>
+  string(14) "RangeException"
+  [45]=>
+  string(18) "UnderflowException"
+  [46]=>
+  string(24) "UnexpectedValueException"
+  [47]=>
+  string(25) "RecursiveIteratorIterator"
+  [48]=>
+  string(16) "IteratorIterator"
+  [49]=>
+  string(14) "FilterIterator"
+  [50]=>
+  string(23) "RecursiveFilterIterator"
+  [51]=>
+  string(22) "CallbackFilterIterator"
+  [52]=>
+  string(31) "RecursiveCallbackFilterIterator"
+  [53]=>
+  string(14) "ParentIterator"
+  [54]=>
+  string(13) "LimitIterator"
+  [55]=>
+  string(15) "CachingIterator"
+  [56]=>
+  string(24) "RecursiveCachingIterator"
+  [57]=>
+  string(16) "NoRewindIterator"
+  [58]=>
+  string(14) "AppendIterator"
+  [59]=>
+  string(16) "InfiniteIterator"
+  [60]=>
+  string(13) "RegexIterator"
+  [61]=>
+  string(22) "RecursiveRegexIterator"
+  [62]=>
+  string(13) "EmptyIterator"
+  [63]=>
+  string(21) "RecursiveTreeIterator"
+  [64]=>
+  string(11) "ArrayObject"
+  [65]=>
+  string(13) "ArrayIterator"
+  [66]=>
+  string(22) "RecursiveArrayIterator"
+  [67]=>
+  string(11) "SplFileInfo"
+  [68]=>
+  string(17) "DirectoryIterator"
+  [69]=>
+  string(18) "FilesystemIterator"
+  [70]=>
+  string(26) "RecursiveDirectoryIterator"
+  [71]=>
+  string(12) "GlobIterator"
+  [72]=>
+  string(13) "SplFileObject"
+  [73]=>
+  string(17) "SplTempFileObject"
+  [74]=>
+  string(19) "SplDoublyLinkedList"
+  [75]=>
+  string(8) "SplQueue"
+  [76]=>
+  string(8) "SplStack"
+  [77]=>
+  string(7) "SplHeap"
+  [78]=>
+  string(10) "SplMinHeap"
+  [79]=>
+  string(10) "SplMaxHeap"
+  [80]=>
+  string(16) "SplPriorityQueue"
+  [81]=>
+  string(13) "SplFixedArray"
+  [82]=>
+  string(16) "SplObjectStorage"
+  [83]=>
+  string(16) "MultipleIterator"
+  [84]=>
+  string(15) "SodiumException"
+  [85]=>
+  string(14) "SessionHandler"
+  [86]=>
+  string(22) "__PHP_Incomplete_Class"
+  [87]=>
+  string(15) "php_user_filter"
+  [88]=>
+  string(9) "Directory"
+  [89]=>
+  string(14) "AssertionError"
+  [90]=>
+  string(12) "PDOException"
+  [91]=>
+  string(3) "PDO"
+  [92]=>
+  string(12) "PDOStatement"
+  [93]=>
+  string(6) "PDORow"
+  [94]=>
+  string(5) "finfo"
+  [95]=>
+  string(13) "PharException"
+  [96]=>
+  string(4) "Phar"
+  [97]=>
+  string(8) "PharData"
+  [98]=>
+  string(12) "PharFileInfo"
+}
+
+[+] Requesting get_declared_traits
+<!-- Let's pray for new year lucky things <3 -->
+
+Array
+
+
+[+] Requesting get_declared_traits as array
+<!-- Let's pray for new year lucky things <3 -->
+
+array(0) {
+}
+
+[+] Requesting get_declared_interfaces
+<!-- Let's pray for new year lucky things <3 -->
+
+Array
+
+
+[+] Requesting get_declared_interfaces as array
+<!-- Let's pray for new year lucky things <3 -->
+
+array(18) {
+  [0]=>
+  string(11) "Traversable"
+  [1]=>
+  string(17) "IteratorAggregate"
+  [2]=>
+  string(8) "Iterator"
+  [3]=>
+  string(11) "ArrayAccess"
+  [4]=>
+  string(12) "Serializable"
+  [5]=>
+  string(9) "Countable"
+  [6]=>
+  string(9) "Throwable"
+  [7]=>
+  string(17) "DateTimeInterface"
+  [8]=>
+  string(9) "Reflector"
+  [9]=>
+  string(17) "RecursiveIterator"
+  [10]=>
+  string(13) "OuterIterator"
+  [11]=>
+  string(16) "SeekableIterator"
+  [12]=>
+  string(11) "SplObserver"
+  [13]=>
+  string(10) "SplSubject"
+  [14]=>
+  string(23) "SessionHandlerInterface"
+  [15]=>
+  string(18) "SessionIdInterface"
+  [16]=>
+  string(38) "SessionUpdateTimestampHandlerInterface"
+  [17]=>
+  string(16) "JsonSerializable"
+}
+
+[+] Requesting get_defined_functions
+<!-- Let's pray for new year lucky things <3 -->
+
+Array
+
+
+[+] Requesting get_defined_functions as array
+<!-- Let's pray for new year lucky things <3 -->
+
+array(2) {
+  ["internal"]=>
+  array(1115) {
+    [0]=>
+    string(12) "zend_version"
+    [1]=>
+    string(13) "func_num_args"
+    [2]=>
+    string(12) "func_get_arg"
+    [3]=>
+    string(13) "func_get_args"
+    [4]=>
+    string(6) "strlen"
+    [5]=>
+    string(6) "strcmp"
+    [6]=>
+    string(7) "strncmp"
+    [7]=>
+    string(10) "strcasecmp"
+    [8]=>
+    string(11) "strncasecmp"
+    [9]=>
+    string(4) "each"
+    [10]=>
+    string(15) "error_reporting"
+    [11]=>
+    string(6) "define"
+    [12]=>
+    string(7) "defined"
+    [13]=>
+    string(9) "get_class"
+    [14]=>
+    string(16) "get_called_class"
+    [15]=>
+    string(16) "get_parent_class"
+    [16]=>
+    string(13) "method_exists"
+    [17]=>
+    string(15) "property_exists"
+    [18]=>
+    string(12) "class_exists"
+    [19]=>
+    string(16) "interface_exists"
+    [20]=>
+    string(12) "trait_exists"
+    [21]=>
+    string(15) "function_exists"
+    [22]=>
+    string(11) "class_alias"
+    [23]=>
+    string(18) "get_included_files"
+    [24]=>
+    string(18) "get_required_files"
+    [25]=>
+    string(14) "is_subclass_of"
+    [26]=>
+    string(4) "is_a"
+    [27]=>
+    string(14) "get_class_vars"
+    [28]=>
+    string(15) "get_object_vars"
+    [29]=>
+    string(17) "get_class_methods"
+    [30]=>
+    string(13) "trigger_error"
+    [31]=>
+    string(10) "user_error"
+    [32]=>
+    string(17) "set_error_handler"
+    [33]=>
+    string(21) "restore_error_handler"
+    [34]=>
+    string(21) "set_exception_handler"
+    [35]=>
+    string(25) "restore_exception_handler"
+    [36]=>
+    string(20) "get_declared_classes"
+    [37]=>
+    string(19) "get_declared_traits"
+    [38]=>
+    string(23) "get_declared_interfaces"
+    [39]=>
+    string(21) "get_defined_functions"
+    [40]=>
+    string(16) "get_defined_vars"
+    [41]=>
+    string(15) "create_function"
+    [42]=>
+    string(17) "get_resource_type"
+    [43]=>
+    string(13) "get_resources"
+    [44]=>
+    string(21) "get_loaded_extensions"
+    [45]=>
+    string(16) "extension_loaded"
+    [46]=>
+    string(19) "get_extension_funcs"
+    [47]=>
+    string(21) "get_defined_constants"
+    [48]=>
+    string(15) "debug_backtrace"
+    [49]=>
+    string(21) "debug_print_backtrace"
+    [50]=>
+    string(13) "gc_mem_caches"
+    [51]=>
+    string(17) "gc_collect_cycles"
+    [52]=>
+    string(10) "gc_enabled"
+    [53]=>
+    string(9) "gc_enable"
+    [54]=>
+    string(10) "gc_disable"
+    [55]=>
+    string(9) "strtotime"
+    [56]=>
+    string(4) "date"
+    [57]=>
+    string(5) "idate"
+    [58]=>
+    string(6) "gmdate"
+    [59]=>
+    string(6) "mktime"
+    [60]=>
+    string(8) "gmmktime"
+    [61]=>
+    string(9) "checkdate"
+    [62]=>
+    string(8) "strftime"
+    [63]=>
+    string(10) "gmstrftime"
+    [64]=>
+    string(4) "time"
+    [65]=>
+    string(9) "localtime"
+    [66]=>
+    string(7) "getdate"
+    [67]=>
+    string(11) "date_create"
+    [68]=>
+    string(21) "date_create_immutable"
+    [69]=>
+    string(23) "date_create_from_format"
+    [70]=>
+    string(33) "date_create_immutable_from_format"
+    [71]=>
+    string(10) "date_parse"
+    [72]=>
+    string(22) "date_parse_from_format"
+    [73]=>
+    string(20) "date_get_last_errors"
+    [74]=>
+    string(11) "date_format"
+    [75]=>
+    string(11) "date_modify"
+    [76]=>
+    string(8) "date_add"
+    [77]=>
+    string(8) "date_sub"
+    [78]=>
+    string(17) "date_timezone_get"
+    [79]=>
+    string(17) "date_timezone_set"
+    [80]=>
+    string(15) "date_offset_get"
+    [81]=>
+    string(9) "date_diff"
+    [82]=>
+    string(13) "date_time_set"
+    [83]=>
+    string(13) "date_date_set"
+    [84]=>
+    string(16) "date_isodate_set"
+    [85]=>
+    string(18) "date_timestamp_set"
+    [86]=>
+    string(18) "date_timestamp_get"
+    [87]=>
+    string(13) "timezone_open"
+    [88]=>
+    string(17) "timezone_name_get"
+    [89]=>
+    string(23) "timezone_name_from_abbr"
+    [90]=>
+    string(19) "timezone_offset_get"
+    [91]=>
+    string(24) "timezone_transitions_get"
+    [92]=>
+    string(21) "timezone_location_get"
+    [93]=>
+    string(25) "timezone_identifiers_list"
+    [94]=>
+    string(27) "timezone_abbreviations_list"
+    [95]=>
+    string(20) "timezone_version_get"
+    [96]=>
+    string(37) "date_interval_create_from_date_string"
+    [97]=>
+    string(20) "date_interval_format"
+    [98]=>
+    string(25) "date_default_timezone_set"
+    [99]=>
+    string(25) "date_default_timezone_get"
+    [100]=>
+    string(12) "date_sunrise"
+    [101]=>
+    string(11) "date_sunset"
+    [102]=>
+    string(13) "date_sun_info"
+    [103]=>
+    string(26) "libxml_set_streams_context"
+    [104]=>
+    string(26) "libxml_use_internal_errors"
+    [105]=>
+    string(21) "libxml_get_last_error"
+    [106]=>
+    string(19) "libxml_clear_errors"
+    [107]=>
+    string(17) "libxml_get_errors"
+    [108]=>
+    string(28) "libxml_disable_entity_loader"
+    [109]=>
+    string(33) "libxml_set_external_entity_loader"
+    [110]=>
+    string(26) "openssl_get_cert_locations"
+    [111]=>
+    string(16) "openssl_spki_new"
+    [112]=>
+    string(19) "openssl_spki_verify"
+    [113]=>
+    string(19) "openssl_spki_export"
+    [114]=>
+    string(29) "openssl_spki_export_challenge"
+    [115]=>
+    string(17) "openssl_pkey_free"
+    [116]=>
+    string(16) "openssl_pkey_new"
+    [117]=>
+    string(19) "openssl_pkey_export"
+    [118]=>
+    string(27) "openssl_pkey_export_to_file"
+    [119]=>
+    string(24) "openssl_pkey_get_private"
+    [120]=>
+    string(23) "openssl_pkey_get_public"
+    [121]=>
+    string(24) "openssl_pkey_get_details"
+    [122]=>
+    string(16) "openssl_free_key"
+    [123]=>
+    string(22) "openssl_get_privatekey"
+    [124]=>
+    string(21) "openssl_get_publickey"
+    [125]=>
+    string(17) "openssl_x509_read"
+    [126]=>
+    string(17) "openssl_x509_free"
+    [127]=>
+    string(18) "openssl_x509_parse"
+    [128]=>
+    string(25) "openssl_x509_checkpurpose"
+    [129]=>
+    string(30) "openssl_x509_check_private_key"
+    [130]=>
+    string(19) "openssl_x509_export"
+    [131]=>
+    string(24) "openssl_x509_fingerprint"
+    [132]=>
+    string(27) "openssl_x509_export_to_file"
+    [133]=>
+    string(21) "openssl_pkcs12_export"
+    [134]=>
+    string(29) "openssl_pkcs12_export_to_file"
+    [135]=>
+    string(19) "openssl_pkcs12_read"
+    [136]=>
+    string(15) "openssl_csr_new"
+    [137]=>
+    string(18) "openssl_csr_export"
+    [138]=>
+    string(26) "openssl_csr_export_to_file"
+    [139]=>
+    string(16) "openssl_csr_sign"
+    [140]=>
+    string(23) "openssl_csr_get_subject"
+    [141]=>
+    string(26) "openssl_csr_get_public_key"
+    [142]=>
+    string(14) "openssl_digest"
+    [143]=>
+    string(15) "openssl_encrypt"
+    [144]=>
+    string(15) "openssl_decrypt"
+    [145]=>
+    string(24) "openssl_cipher_iv_length"
+    [146]=>
+    string(12) "openssl_sign"
+    [147]=>
+    string(14) "openssl_verify"
+    [148]=>
+    string(12) "openssl_seal"
+    [149]=>
+    string(12) "openssl_open"
+    [150]=>
+    string(14) "openssl_pbkdf2"
+    [151]=>
+    string(20) "openssl_pkcs7_verify"
+    [152]=>
+    string(21) "openssl_pkcs7_decrypt"
+    [153]=>
+    string(18) "openssl_pkcs7_sign"
+    [154]=>
+    string(21) "openssl_pkcs7_encrypt"
+    [155]=>
+    string(18) "openssl_pkcs7_read"
+    [156]=>
+    string(23) "openssl_private_encrypt"
+    [157]=>
+    string(23) "openssl_private_decrypt"
+    [158]=>
+    string(22) "openssl_public_encrypt"
+    [159]=>
+    string(22) "openssl_public_decrypt"
+    [160]=>
+    string(22) "openssl_get_md_methods"
+    [161]=>
+    string(26) "openssl_get_cipher_methods"
+    [162]=>
+    string(23) "openssl_get_curve_names"
+    [163]=>
+    string(22) "openssl_dh_compute_key"
+    [164]=>
+    string(27) "openssl_random_pseudo_bytes"
+    [165]=>
+    string(20) "openssl_error_string"
+    [166]=>
+    string(10) "preg_match"
+    [167]=>
+    string(14) "preg_match_all"
+    [168]=>
+    string(12) "preg_replace"
+    [169]=>
+    string(21) "preg_replace_callback"
+    [170]=>
+    string(27) "preg_replace_callback_array"
+    [171]=>
+    string(11) "preg_filter"
+    [172]=>
+    string(10) "preg_split"
+    [173]=>
+    string(10) "preg_quote"
+    [174]=>
+    string(9) "preg_grep"
+    [175]=>
+    string(15) "preg_last_error"
+    [176]=>
+    string(10) "readgzfile"
+    [177]=>
+    string(8) "gzrewind"
+    [178]=>
+    string(7) "gzclose"
+    [179]=>
+    string(5) "gzeof"
+    [180]=>
+    string(6) "gzgetc"
+    [181]=>
+    string(6) "gzgets"
+    [182]=>
+    string(7) "gzgetss"
+    [183]=>
+    string(6) "gzread"
+    [184]=>
+    string(6) "gzopen"
+    [185]=>
+    string(10) "gzpassthru"
+    [186]=>
+    string(6) "gzseek"
+    [187]=>
+    string(6) "gztell"
+    [188]=>
+    string(7) "gzwrite"
+    [189]=>
+    string(6) "gzputs"
+    [190]=>
+    string(6) "gzfile"
+    [191]=>
+    string(10) "gzcompress"
+    [192]=>
+    string(12) "gzuncompress"
+    [193]=>
+    string(9) "gzdeflate"
+    [194]=>
+    string(9) "gzinflate"
+    [195]=>
+    string(8) "gzencode"
+    [196]=>
+    string(8) "gzdecode"
+    [197]=>
+    string(11) "zlib_encode"
+    [198]=>
+    string(11) "zlib_decode"
+    [199]=>
+    string(20) "zlib_get_coding_type"
+    [200]=>
+    string(12) "deflate_init"
+    [201]=>
+    string(11) "deflate_add"
+    [202]=>
+    string(12) "inflate_init"
+    [203]=>
+    string(11) "inflate_add"
+    [204]=>
+    string(18) "inflate_get_status"
+    [205]=>
+    string(20) "inflate_get_read_len"
+    [206]=>
+    string(12) "ob_gzhandler"
+    [207]=>
+    string(12) "filter_input"
+    [208]=>
+    string(10) "filter_var"
+    [209]=>
+    string(18) "filter_input_array"
+    [210]=>
+    string(16) "filter_var_array"
+    [211]=>
+    string(11) "filter_list"
+    [212]=>
+    string(14) "filter_has_var"
+    [213]=>
+    string(9) "filter_id"
+    [214]=>
+    string(4) "hash"
+    [215]=>
+    string(9) "hash_file"
+    [216]=>
+    string(9) "hash_hmac"
+    [217]=>
+    string(14) "hash_hmac_file"
+    [218]=>
+    string(9) "hash_init"
+    [219]=>
+    string(11) "hash_update"
+    [220]=>
+    string(18) "hash_update_stream"
+    [221]=>
+    string(16) "hash_update_file"
+    [222]=>
+    string(10) "hash_final"
+    [223]=>
+    string(9) "hash_copy"
+    [224]=>
+    string(10) "hash_algos"
+    [225]=>
+    string(15) "hash_hmac_algos"
+    [226]=>
+    string(11) "hash_pbkdf2"
+    [227]=>
+    string(11) "hash_equals"
+    [228]=>
+    string(9) "hash_hkdf"
+    [229]=>
+    string(16) "mhash_keygen_s2k"
+    [230]=>
+    string(20) "mhash_get_block_size"
+    [231]=>
+    string(19) "mhash_get_hash_name"
+    [232]=>
+    string(11) "mhash_count"
+    [233]=>
+    string(5) "mhash"
+    [234]=>
+    string(12) "session_name"
+    [235]=>
+    string(19) "session_module_name"
+    [236]=>
+    string(17) "session_save_path"
+    [237]=>
+    string(10) "session_id"
+    [238]=>
+    string(17) "session_create_id"
+    [239]=>
+    string(21) "session_regenerate_id"
+    [240]=>
+    string(14) "session_decode"
+    [241]=>
+    string(14) "session_encode"
+    [242]=>
+    string(13) "session_start"
+    [243]=>
+    string(15) "session_destroy"
+    [244]=>
+    string(13) "session_unset"
+    [245]=>
+    string(10) "session_gc"
+    [246]=>
+    string(24) "session_set_save_handler"
+    [247]=>
+    string(21) "session_cache_limiter"
+    [248]=>
+    string(20) "session_cache_expire"
+    [249]=>
+    string(25) "session_set_cookie_params"
+    [250]=>
+    string(25) "session_get_cookie_params"
+    [251]=>
+    string(19) "session_write_close"
+    [252]=>
+    string(13) "session_abort"
+    [253]=>
+    string(13) "session_reset"
+    [254]=>
+    string(14) "session_status"
+    [255]=>
+    string(25) "session_register_shutdown"
+    [256]=>
+    string(14) "session_commit"
+    [257]=>
+    string(41) "sodium_crypto_aead_aes256gcm_is_available"
+    [258]=>
+    string(36) "sodium_crypto_aead_aes256gcm_decrypt"
+    [259]=>
+    string(36) "sodium_crypto_aead_aes256gcm_encrypt"
+    [260]=>
+    string(35) "sodium_crypto_aead_aes256gcm_keygen"
+    [261]=>
+    string(43) "sodium_crypto_aead_chacha20poly1305_decrypt"
+    [262]=>
+    string(43) "sodium_crypto_aead_chacha20poly1305_encrypt"
+    [263]=>
+    string(42) "sodium_crypto_aead_chacha20poly1305_keygen"
+    [264]=>
+    string(48) "sodium_crypto_aead_chacha20poly1305_ietf_decrypt"
+    [265]=>
+    string(48) "sodium_crypto_aead_chacha20poly1305_ietf_encrypt"
+    [266]=>
+    string(47) "sodium_crypto_aead_chacha20poly1305_ietf_keygen"
+    [267]=>
+    string(49) "sodium_crypto_aead_xchacha20poly1305_ietf_decrypt"
+    [268]=>
+    string(48) "sodium_crypto_aead_xchacha20poly1305_ietf_keygen"
+    [269]=>
+    string(49) "sodium_crypto_aead_xchacha20poly1305_ietf_encrypt"
+    [270]=>
+    string(18) "sodium_crypto_auth"
+    [271]=>
+    string(25) "sodium_crypto_auth_keygen"
+    [272]=>
+    string(25) "sodium_crypto_auth_verify"
+    [273]=>
+    string(17) "sodium_crypto_box"
+    [274]=>
+    string(25) "sodium_crypto_box_keypair"
+    [275]=>
+    string(30) "sodium_crypto_box_seed_keypair"
+    [276]=>
+    string(54) "sodium_crypto_box_keypair_from_secretkey_and_publickey"
+    [277]=>
+    string(22) "sodium_crypto_box_open"
+    [278]=>
+    string(27) "sodium_crypto_box_publickey"
+    [279]=>
+    string(42) "sodium_crypto_box_publickey_from_secretkey"
+    [280]=>
+    string(22) "sodium_crypto_box_seal"
+    [281]=>
+    string(27) "sodium_crypto_box_seal_open"
+    [282]=>
+    string(27) "sodium_crypto_box_secretkey"
+    [283]=>
+    string(24) "sodium_crypto_kx_keypair"
+    [284]=>
+    string(26) "sodium_crypto_kx_publickey"
+    [285]=>
+    string(26) "sodium_crypto_kx_secretkey"
+    [286]=>
+    string(29) "sodium_crypto_kx_seed_keypair"
+    [287]=>
+    string(36) "sodium_crypto_kx_client_session_keys"
+    [288]=>
+    string(36) "sodium_crypto_kx_server_session_keys"
+    [289]=>
+    string(25) "sodium_crypto_generichash"
+    [290]=>
+    string(32) "sodium_crypto_generichash_keygen"
+    [291]=>
+    string(30) "sodium_crypto_generichash_init"
+    [292]=>
+    string(32) "sodium_crypto_generichash_update"
+    [293]=>
+    string(31) "sodium_crypto_generichash_final"
+    [294]=>
+    string(33) "sodium_crypto_kdf_derive_from_key"
+    [295]=>
+    string(24) "sodium_crypto_kdf_keygen"
+    [296]=>
+    string(20) "sodium_crypto_pwhash"
+    [297]=>
+    string(24) "sodium_crypto_pwhash_str"
+    [298]=>
+    string(31) "sodium_crypto_pwhash_str_verify"
+    [299]=>
+    string(37) "sodium_crypto_pwhash_str_needs_rehash"
+    [300]=>
+    string(41) "sodium_crypto_pwhash_scryptsalsa208sha256"
+    [301]=>
+    string(45) "sodium_crypto_pwhash_scryptsalsa208sha256_str"
+    [302]=>
+    string(52) "sodium_crypto_pwhash_scryptsalsa208sha256_str_verify"
+    [303]=>
+    string(24) "sodium_crypto_scalarmult"
+    [304]=>
+    string(23) "sodium_crypto_secretbox"
+    [305]=>
+    string(30) "sodium_crypto_secretbox_keygen"
+    [306]=>
+    string(28) "sodium_crypto_secretbox_open"
+    [307]=>
+    string(51) "sodium_crypto_secretstream_xchacha20poly1305_keygen"
+    [308]=>
+    string(54) "sodium_crypto_secretstream_xchacha20poly1305_init_push"
+    [309]=>
+    string(49) "sodium_crypto_secretstream_xchacha20poly1305_push"
+    [310]=>
+    string(54) "sodium_crypto_secretstream_xchacha20poly1305_init_pull"
+    [311]=>
+    string(49) "sodium_crypto_secretstream_xchacha20poly1305_pull"
+    [312]=>
+    string(50) "sodium_crypto_secretstream_xchacha20poly1305_rekey"
+    [313]=>
+    string(23) "sodium_crypto_shorthash"
+    [314]=>
+    string(30) "sodium_crypto_shorthash_keygen"
+    [315]=>
+    string(18) "sodium_crypto_sign"
+    [316]=>
+    string(27) "sodium_crypto_sign_detached"
+    [317]=>
+    string(43) "sodium_crypto_sign_ed25519_pk_to_curve25519"
+    [318]=>
+    string(43) "sodium_crypto_sign_ed25519_sk_to_curve25519"
+    [319]=>
+    string(26) "sodium_crypto_sign_keypair"
+    [320]=>
+    string(55) "sodium_crypto_sign_keypair_from_secretkey_and_publickey"
+    [321]=>
+    string(23) "sodium_crypto_sign_open"
+    [322]=>
+    string(28) "sodium_crypto_sign_publickey"
+    [323]=>
+    string(28) "sodium_crypto_sign_secretkey"
+    [324]=>
+    string(43) "sodium_crypto_sign_publickey_from_secretkey"
+    [325]=>
+    string(31) "sodium_crypto_sign_seed_keypair"
+    [326]=>
+    string(34) "sodium_crypto_sign_verify_detached"
+    [327]=>
+    string(20) "sodium_crypto_stream"
+    [328]=>
+    string(27) "sodium_crypto_stream_keygen"
+    [329]=>
+    string(24) "sodium_crypto_stream_xor"
+    [330]=>
+    string(10) "sodium_add"
+    [331]=>
+    string(14) "sodium_compare"
+    [332]=>
+    string(16) "sodium_increment"
+    [333]=>
+    string(13) "sodium_memcmp"
+    [334]=>
+    string(14) "sodium_memzero"
+    [335]=>
+    string(10) "sodium_pad"
+    [336]=>
+    string(12) "sodium_unpad"
+    [337]=>
+    string(14) "sodium_bin2hex"
+    [338]=>
+    string(14) "sodium_hex2bin"
+    [339]=>
+    string(17) "sodium_bin2base64"
+    [340]=>
+    string(17) "sodium_base642bin"
+    [341]=>
+    string(29) "sodium_crypto_scalarmult_base"
+    [342]=>
+    string(11) "spl_classes"
+    [343]=>
+    string(12) "spl_autoload"
+    [344]=>
+    string(23) "spl_autoload_extensions"
+    [345]=>
+    string(21) "spl_autoload_register"
+    [346]=>
+    string(23) "spl_autoload_unregister"
+    [347]=>
+    string(22) "spl_autoload_functions"
+    [348]=>
+    string(17) "spl_autoload_call"
+    [349]=>
+    string(13) "class_parents"
+    [350]=>
+    string(16) "class_implements"
+    [351]=>
+    string(10) "class_uses"
+    [352]=>
+    string(15) "spl_object_hash"
+    [353]=>
+    string(13) "spl_object_id"
+    [354]=>
+    string(17) "iterator_to_array"
+    [355]=>
+    string(14) "iterator_count"
+    [356]=>
+    string(14) "iterator_apply"
+    [357]=>
+    string(8) "constant"
+    [358]=>
+    string(7) "bin2hex"
+    [359]=>
+    string(7) "hex2bin"
+    [360]=>
+    string(5) "sleep"
+    [361]=>
+    string(6) "usleep"
+    [362]=>
+    string(14) "time_nanosleep"
+    [363]=>
+    string(16) "time_sleep_until"
+    [364]=>
+    string(8) "strptime"
+    [365]=>
+    string(5) "flush"
+    [366]=>
+    string(8) "wordwrap"
+    [367]=>
+    string(16) "htmlspecialchars"
+    [368]=>
+    string(12) "htmlentities"
+    [369]=>
+    string(18) "html_entity_decode"
+    [370]=>
+    string(23) "htmlspecialchars_decode"
+    [371]=>
+    string(26) "get_html_translation_table"
+    [372]=>
+    string(4) "sha1"
+    [373]=>
+    string(9) "sha1_file"
+    [374]=>
+    string(3) "md5"
+    [375]=>
+    string(8) "md5_file"
+    [376]=>
+    string(5) "crc32"
+    [377]=>
+    string(9) "iptcparse"
+    [378]=>
+    string(9) "iptcembed"
+    [379]=>
+    string(12) "getimagesize"
+    [380]=>
+    string(22) "getimagesizefromstring"
+    [381]=>
+    string(23) "image_type_to_mime_type"
+    [382]=>
+    string(23) "image_type_to_extension"
+    [383]=>
+    string(7) "phpinfo"
+    [384]=>
+    string(10) "phpversion"
+    [385]=>
+    string(10) "phpcredits"
+    [386]=>
+    string(13) "php_sapi_name"
+    [387]=>
+    string(9) "php_uname"
+    [388]=>
+    string(21) "php_ini_scanned_files"
+    [389]=>
+    string(19) "php_ini_loaded_file"
+    [390]=>
+    string(9) "strnatcmp"
+    [391]=>
+    string(13) "strnatcasecmp"
+    [392]=>
+    string(12) "substr_count"
+    [393]=>
+    string(6) "strspn"
+    [394]=>
+    string(7) "strcspn"
+    [395]=>
+    string(6) "strtok"
+    [396]=>
+    string(10) "strtoupper"
+    [397]=>
+    string(10) "strtolower"
+    [398]=>
+    string(6) "strpos"
+    [399]=>
+    string(7) "stripos"
+    [400]=>
+    string(7) "strrpos"
+    [401]=>
+    string(8) "strripos"
+    [402]=>
+    string(6) "strrev"
+    [403]=>
+    string(6) "hebrev"
+    [404]=>
+    string(7) "hebrevc"
+    [405]=>
+    string(5) "nl2br"
+    [406]=>
+    string(8) "basename"
+    [407]=>
+    string(7) "dirname"
+    [408]=>
+    string(8) "pathinfo"
+    [409]=>
+    string(12) "stripslashes"
+    [410]=>
+    string(13) "stripcslashes"
+    [411]=>
+    string(6) "strstr"
+    [412]=>
+    string(7) "stristr"
+    [413]=>
+    string(7) "strrchr"
+    [414]=>
+    string(11) "str_shuffle"
+    [415]=>
+    string(14) "str_word_count"
+    [416]=>
+    string(9) "str_split"
+    [417]=>
+    string(7) "strpbrk"
+    [418]=>
+    string(14) "substr_compare"
+    [419]=>
+    string(11) "utf8_encode"
+    [420]=>
+    string(11) "utf8_decode"
+    [421]=>
+    string(7) "strcoll"
+    [422]=>
+    string(12) "money_format"
+    [423]=>
+    string(6) "substr"
+    [424]=>
+    string(14) "substr_replace"
+    [425]=>
+    string(9) "quotemeta"
+    [426]=>
+    string(7) "ucfirst"
+    [427]=>
+    string(7) "lcfirst"
+    [428]=>
+    string(7) "ucwords"
+    [429]=>
+    string(5) "strtr"
+    [430]=>
+    string(10) "addslashes"
+    [431]=>
+    string(11) "addcslashes"
+    [432]=>
+    string(5) "rtrim"
+    [433]=>
+    string(11) "str_replace"
+    [434]=>
+    string(12) "str_ireplace"
+    [435]=>
+    string(10) "str_repeat"
+    [436]=>
+    string(11) "count_chars"
+    [437]=>
+    string(11) "chunk_split"
+    [438]=>
+    string(4) "trim"
+    [439]=>
+    string(5) "ltrim"
+    [440]=>
+    string(10) "strip_tags"
+    [441]=>
+    string(12) "similar_text"
+    [442]=>
+    string(7) "explode"
+    [443]=>
+    string(7) "implode"
+    [444]=>
+    string(4) "join"
+    [445]=>
+    string(9) "setlocale"
+    [446]=>
+    string(10) "localeconv"
+    [447]=>
+    string(11) "nl_langinfo"
+    [448]=>
+    string(7) "soundex"
+    [449]=>
+    string(11) "levenshtein"
+    [450]=>
+    string(3) "chr"
+    [451]=>
+    string(3) "ord"
+    [452]=>
+    string(9) "parse_str"
+    [453]=>
+    string(10) "str_getcsv"
+    [454]=>
+    string(7) "str_pad"
+    [455]=>
+    string(4) "chop"
+    [456]=>
+    string(6) "strchr"
+    [457]=>
+    string(7) "sprintf"
+    [458]=>
+    string(6) "printf"
+    [459]=>
+    string(7) "vprintf"
+    [460]=>
+    string(8) "vsprintf"
+    [461]=>
+    string(7) "fprintf"
+    [462]=>
+    string(8) "vfprintf"
+    [463]=>
+    string(6) "sscanf"
+    [464]=>
+    string(6) "fscanf"
+    [465]=>
+    string(9) "parse_url"
+    [466]=>
+    string(9) "urlencode"
+    [467]=>
+    string(9) "urldecode"
+    [468]=>
+    string(12) "rawurlencode"
+    [469]=>
+    string(12) "rawurldecode"
+    [470]=>
+    string(16) "http_build_query"
+    [471]=>
+    string(8) "readlink"
+    [472]=>
+    string(8) "linkinfo"
+    [473]=>
+    string(7) "symlink"
+    [474]=>
+    string(4) "link"
+    [475]=>
+    string(6) "unlink"
+    [476]=>
+    string(4) "exec"
+    [477]=>
+    string(6) "system"
+    [478]=>
+    string(14) "escapeshellcmd"
+    [479]=>
+    string(14) "escapeshellarg"
+    [480]=>
+    string(8) "passthru"
+    [481]=>
+    string(10) "shell_exec"
+    [482]=>
+    string(9) "proc_open"
+    [483]=>
+    string(10) "proc_close"
+    [484]=>
+    string(14) "proc_terminate"
+    [485]=>
+    string(15) "proc_get_status"
+    [486]=>
+    string(9) "proc_nice"
+    [487]=>
+    string(4) "rand"
+    [488]=>
+    string(5) "srand"
+    [489]=>
+    string(10) "getrandmax"
+    [490]=>
+    string(7) "mt_rand"
+    [491]=>
+    string(8) "mt_srand"
+    [492]=>
+    string(13) "mt_getrandmax"
+    [493]=>
+    string(12) "random_bytes"
+    [494]=>
+    string(10) "random_int"
+    [495]=>
+    string(13) "getservbyname"
+    [496]=>
+    string(13) "getservbyport"
+    [497]=>
+    string(14) "getprotobyname"
+    [498]=>
+    string(16) "getprotobynumber"
+    [499]=>
+    string(8) "getmyuid"
+    [500]=>
+    string(8) "getmygid"
+    [501]=>
+    string(8) "getmypid"
+    [502]=>
+    string(10) "getmyinode"
+    [503]=>
+    string(10) "getlastmod"
+    [504]=>
+    string(13) "base64_decode"
+    [505]=>
+    string(13) "base64_encode"
+    [506]=>
+    string(13) "password_hash"
+    [507]=>
+    string(17) "password_get_info"
+    [508]=>
+    string(21) "password_needs_rehash"
+    [509]=>
+    string(15) "password_verify"
+    [510]=>
+    string(16) "convert_uuencode"
+    [511]=>
+    string(16) "convert_uudecode"
+    [512]=>
+    string(3) "abs"
+    [513]=>
+    string(4) "ceil"
+    [514]=>
+    string(5) "floor"
+    [515]=>
+    string(5) "round"
+    [516]=>
+    string(3) "sin"
+    [517]=>
+    string(3) "cos"
+    [518]=>
+    string(3) "tan"
+    [519]=>
+    string(4) "asin"
+    [520]=>
+    string(4) "acos"
+    [521]=>
+    string(4) "atan"
+    [522]=>
+    string(5) "atanh"
+    [523]=>
+    string(5) "atan2"
+    [524]=>
+    string(4) "sinh"
+    [525]=>
+    string(4) "cosh"
+    [526]=>
+    string(4) "tanh"
+    [527]=>
+    string(5) "asinh"
+    [528]=>
+    string(5) "acosh"
+    [529]=>
+    string(5) "expm1"
+    [530]=>
+    string(5) "log1p"
+    [531]=>
+    string(2) "pi"
+    [532]=>
+    string(9) "is_finite"
+    [533]=>
+    string(6) "is_nan"
+    [534]=>
+    string(11) "is_infinite"
+    [535]=>
+    string(3) "pow"
+    [536]=>
+    string(3) "exp"
+    [537]=>
+    string(3) "log"
+    [538]=>
+    string(5) "log10"
+    [539]=>
+    string(4) "sqrt"
+    [540]=>
+    string(5) "hypot"
+    [541]=>
+    string(7) "deg2rad"
+    [542]=>
+    string(7) "rad2deg"
+    [543]=>
+    string(6) "bindec"
+    [544]=>
+    string(6) "hexdec"
+    [545]=>
+    string(6) "octdec"
+    [546]=>
+    string(6) "decbin"
+    [547]=>
+    string(6) "decoct"
+    [548]=>
+    string(6) "dechex"
+    [549]=>
+    string(12) "base_convert"
+    [550]=>
+    string(13) "number_format"
+    [551]=>
+    string(4) "fmod"
+    [552]=>
+    string(6) "intdiv"
+    [553]=>
+    string(9) "inet_ntop"
+    [554]=>
+    string(9) "inet_pton"
+    [555]=>
+    string(7) "ip2long"
+    [556]=>
+    string(7) "long2ip"
+    [557]=>
+    string(6) "getenv"
+    [558]=>
+    string(6) "putenv"
+    [559]=>
+    string(6) "getopt"
+    [560]=>
+    string(14) "sys_getloadavg"
+    [561]=>
+    string(9) "microtime"
+    [562]=>
+    string(12) "gettimeofday"
+    [563]=>
+    string(9) "getrusage"
+    [564]=>
+    string(6) "uniqid"
+    [565]=>
+    string(23) "quoted_printable_decode"
+    [566]=>
+    string(23) "quoted_printable_encode"
+    [567]=>
+    string(18) "convert_cyr_string"
+    [568]=>
+    string(16) "get_current_user"
+    [569]=>
+    string(14) "set_time_limit"
+    [570]=>
+    string(24) "header_register_callback"
+    [571]=>
+    string(11) "get_cfg_var"
+    [572]=>
+    string(20) "get_magic_quotes_gpc"
+    [573]=>
+    string(24) "get_magic_quotes_runtime"
+    [574]=>
+    string(9) "error_log"
+    [575]=>
+    string(14) "error_get_last"
+    [576]=>
+    string(16) "error_clear_last"
+    [577]=>
+    string(14) "call_user_func"
+    [578]=>
+    string(20) "call_user_func_array"
+    [579]=>
+    string(19) "forward_static_call"
+    [580]=>
+    string(25) "forward_static_call_array"
+    [581]=>
+    string(9) "serialize"
+    [582]=>
+    string(11) "unserialize"
+    [583]=>
+    string(8) "var_dump"
+    [584]=>
+    string(10) "var_export"
+    [585]=>
+    string(15) "debug_zval_dump"
+    [586]=>
+    string(7) "print_r"
+    [587]=>
+    string(16) "memory_get_usage"
+    [588]=>
+    string(21) "memory_get_peak_usage"
+    [589]=>
+    string(26) "register_shutdown_function"
+    [590]=>
+    string(22) "register_tick_function"
+    [591]=>
+    string(24) "unregister_tick_function"
+    [592]=>
+    string(14) "highlight_file"
+    [593]=>
+    string(11) "show_source"
+    [594]=>
+    string(16) "highlight_string"
+    [595]=>
+    string(20) "php_strip_whitespace"
+    [596]=>
+    string(7) "ini_get"
+    [597]=>
+    string(11) "ini_get_all"
+    [598]=>
+    string(7) "ini_set"
+    [599]=>
+    string(9) "ini_alter"
+    [600]=>
+    string(11) "ini_restore"
+    [601]=>
+    string(16) "get_include_path"
+    [602]=>
+    string(16) "set_include_path"
+    [603]=>
+    string(20) "restore_include_path"
+    [604]=>
+    string(9) "setcookie"
+    [605]=>
+    string(12) "setrawcookie"
+    [606]=>
+    string(6) "header"
+    [607]=>
+    string(13) "header_remove"
+    [608]=>
+    string(12) "headers_sent"
+    [609]=>
+    string(12) "headers_list"
+    [610]=>
+    string(18) "http_response_code"
+    [611]=>
+    string(18) "connection_aborted"
+    [612]=>
+    string(17) "connection_status"
+    [613]=>
+    string(17) "ignore_user_abort"
+    [614]=>
+    string(14) "parse_ini_file"
+    [615]=>
+    string(16) "parse_ini_string"
+    [616]=>
+    string(16) "is_uploaded_file"
+    [617]=>
+    string(18) "move_uploaded_file"
+    [618]=>
+    string(13) "gethostbyaddr"
+    [619]=>
+    string(13) "gethostbyname"
+    [620]=>
+    string(14) "gethostbynamel"
+    [621]=>
+    string(11) "gethostname"
+    [622]=>
+    string(16) "dns_check_record"
+    [623]=>
+    string(10) "checkdnsrr"
+    [624]=>
+    string(10) "dns_get_mx"
+    [625]=>
+    string(7) "getmxrr"
+    [626]=>
+    string(14) "dns_get_record"
+    [627]=>
+    string(6) "intval"
+    [628]=>
+    string(8) "floatval"
+    [629]=>
+    string(9) "doubleval"
+    [630]=>
+    string(6) "strval"
+    [631]=>
+    string(7) "boolval"
+    [632]=>
+    string(7) "gettype"
+    [633]=>
+    string(7) "settype"
+    [634]=>
+    string(7) "is_null"
+    [635]=>
+    string(11) "is_resource"
+    [636]=>
+    string(7) "is_bool"
+    [637]=>
+    string(6) "is_int"
+    [638]=>
+    string(8) "is_float"
+    [639]=>
+    string(10) "is_integer"
+    [640]=>
+    string(7) "is_long"
+    [641]=>
+    string(9) "is_double"
+    [642]=>
+    string(7) "is_real"
+    [643]=>
+    string(10) "is_numeric"
+    [644]=>
+    string(9) "is_string"
+    [645]=>
+    string(8) "is_array"
+    [646]=>
+    string(9) "is_object"
+    [647]=>
+    string(9) "is_scalar"
+    [648]=>
+    string(11) "is_callable"
+    [649]=>
+    string(11) "is_iterable"
+    [650]=>
+    string(6) "pclose"
+    [651]=>
+    string(5) "popen"
+    [652]=>
+    string(8) "readfile"
+    [653]=>
+    string(6) "rewind"
+    [654]=>
+    string(5) "rmdir"
+    [655]=>
+    string(5) "umask"
+    [656]=>
+    string(6) "fclose"
+    [657]=>
+    string(4) "feof"
+    [658]=>
+    string(5) "fgetc"
+    [659]=>
+    string(5) "fgets"
+    [660]=>
+    string(6) "fgetss"
+    [661]=>
+    string(5) "fread"
+    [662]=>
+    string(5) "fopen"
+    [663]=>
+    string(9) "fpassthru"
+    [664]=>
+    string(9) "ftruncate"
+    [665]=>
+    string(5) "fstat"
+    [666]=>
+    string(5) "fseek"
+    [667]=>
+    string(5) "ftell"
+    [668]=>
+    string(6) "fflush"
+    [669]=>
+    string(6) "fwrite"
+    [670]=>
+    string(5) "fputs"
+    [671]=>
+    string(5) "mkdir"
+    [672]=>
+    string(6) "rename"
+    [673]=>
+    string(4) "copy"
+    [674]=>
+    string(7) "tempnam"
+    [675]=>
+    string(7) "tmpfile"
+    [676]=>
+    string(4) "file"
+    [677]=>
+    string(17) "file_get_contents"
+    [678]=>
+    string(17) "file_put_contents"
+    [679]=>
+    string(13) "stream_select"
+    [680]=>
+    string(21) "stream_context_create"
+    [681]=>
+    string(25) "stream_context_set_params"
+    [682]=>
+    string(25) "stream_context_get_params"
+    [683]=>
+    string(25) "stream_context_set_option"
+    [684]=>
+    string(26) "stream_context_get_options"
+    [685]=>
+    string(26) "stream_context_get_default"
+    [686]=>
+    string(26) "stream_context_set_default"
+    [687]=>
+    string(21) "stream_filter_prepend"
+    [688]=>
+    string(20) "stream_filter_append"
+    [689]=>
+    string(20) "stream_filter_remove"
+    [690]=>
+    string(20) "stream_socket_client"
+    [691]=>
+    string(20) "stream_socket_server"
+    [692]=>
+    string(20) "stream_socket_accept"
+    [693]=>
+    string(22) "stream_socket_get_name"
+    [694]=>
+    string(22) "stream_socket_recvfrom"
+    [695]=>
+    string(20) "stream_socket_sendto"
+    [696]=>
+    string(27) "stream_socket_enable_crypto"
+    [697]=>
+    string(22) "stream_socket_shutdown"
+    [698]=>
+    string(18) "stream_socket_pair"
+    [699]=>
+    string(21) "stream_copy_to_stream"
+    [700]=>
+    string(19) "stream_get_contents"
+    [701]=>
+    string(20) "stream_supports_lock"
+    [702]=>
+    string(13) "stream_isatty"
+    [703]=>
+    string(7) "fgetcsv"
+    [704]=>
+    string(7) "fputcsv"
+    [705]=>
+    string(5) "flock"
+    [706]=>
+    string(13) "get_meta_tags"
+    [707]=>
+    string(22) "stream_set_read_buffer"
+    [708]=>
+    string(23) "stream_set_write_buffer"
+    [709]=>
+    string(15) "set_file_buffer"
+    [710]=>
+    string(21) "stream_set_chunk_size"
+    [711]=>
+    string(19) "stream_set_blocking"
+    [712]=>
+    string(19) "socket_set_blocking"
+    [713]=>
+    string(20) "stream_get_meta_data"
+    [714]=>
+    string(15) "stream_get_line"
+    [715]=>
+    string(23) "stream_wrapper_register"
+    [716]=>
+    string(23) "stream_register_wrapper"
+    [717]=>
+    string(25) "stream_wrapper_unregister"
+    [718]=>
+    string(22) "stream_wrapper_restore"
+    [719]=>
+    string(19) "stream_get_wrappers"
+    [720]=>
+    string(21) "stream_get_transports"
+    [721]=>
+    string(27) "stream_resolve_include_path"
+    [722]=>
+    string(15) "stream_is_local"
+    [723]=>
+    string(11) "get_headers"
+    [724]=>
+    string(18) "stream_set_timeout"
+    [725]=>
+    string(18) "socket_set_timeout"
+    [726]=>
+    string(17) "socket_get_status"
+    [727]=>
+    string(8) "realpath"
+    [728]=>
+    string(7) "fnmatch"
+    [729]=>
+    string(9) "fsockopen"
+    [730]=>
+    string(10) "pfsockopen"
+    [731]=>
+    string(4) "pack"
+    [732]=>
+    string(6) "unpack"
+    [733]=>
+    string(11) "get_browser"
+    [734]=>
+    string(5) "crypt"
+    [735]=>
+    string(7) "opendir"
+    [736]=>
+    string(8) "closedir"
+    [737]=>
+    string(5) "chdir"
+    [738]=>
+    string(6) "getcwd"
+    [739]=>
+    string(9) "rewinddir"
+    [740]=>
+    string(7) "readdir"
+    [741]=>
+    string(3) "dir"
+    [742]=>
+    string(7) "scandir"
+    [743]=>
+    string(4) "glob"
+    [744]=>
+    string(9) "fileatime"
+    [745]=>
+    string(9) "filectime"
+    [746]=>
+    string(9) "filegroup"
+    [747]=>
+    string(9) "fileinode"
+    [748]=>
+    string(9) "filemtime"
+    [749]=>
+    string(9) "fileowner"
+    [750]=>
+    string(9) "fileperms"
+    [751]=>
+    string(8) "filesize"
+    [752]=>
+    string(8) "filetype"
+    [753]=>
+    string(11) "file_exists"
+    [754]=>
+    string(11) "is_writable"
+    [755]=>
+    string(12) "is_writeable"
+    [756]=>
+    string(11) "is_readable"
+    [757]=>
+    string(13) "is_executable"
+    [758]=>
+    string(7) "is_file"
+    [759]=>
+    string(6) "is_dir"
+    [760]=>
+    string(7) "is_link"
+    [761]=>
+    string(4) "stat"
+    [762]=>
+    string(5) "lstat"
+    [763]=>
+    string(5) "chown"
+    [764]=>
+    string(5) "chgrp"
+    [765]=>
+    string(6) "lchown"
+    [766]=>
+    string(6) "lchgrp"
+    [767]=>
+    string(5) "chmod"
+    [768]=>
+    string(5) "touch"
+    [769]=>
+    string(14) "clearstatcache"
+    [770]=>
+    string(16) "disk_total_space"
+    [771]=>
+    string(15) "disk_free_space"
+    [772]=>
+    string(13) "diskfreespace"
+    [773]=>
+    string(19) "realpath_cache_size"
+    [774]=>
+    string(18) "realpath_cache_get"
+    [775]=>
+    string(4) "mail"
+    [776]=>
+    string(10) "ezmlm_hash"
+    [777]=>
+    string(7) "openlog"
+    [778]=>
+    string(6) "syslog"
+    [779]=>
+    string(8) "closelog"
+    [780]=>
+    string(9) "lcg_value"
+    [781]=>
+    string(9) "metaphone"
+    [782]=>
+    string(8) "ob_start"
+    [783]=>
+    string(8) "ob_flush"
+    [784]=>
+    string(8) "ob_clean"
+    [785]=>
+    string(12) "ob_end_flush"
+    [786]=>
+    string(12) "ob_end_clean"
+    [787]=>
+    string(12) "ob_get_flush"
+    [788]=>
+    string(12) "ob_get_clean"
+    [789]=>
+    string(13) "ob_get_length"
+    [790]=>
+    string(12) "ob_get_level"
+    [791]=>
+    string(13) "ob_get_status"
+    [792]=>
+    string(15) "ob_get_contents"
+    [793]=>
+    string(17) "ob_implicit_flush"
+    [794]=>
+    string(16) "ob_list_handlers"
+    [795]=>
+    string(5) "ksort"
+    [796]=>
+    string(6) "krsort"
+    [797]=>
+    string(7) "natsort"
+    [798]=>
+    string(11) "natcasesort"
+    [799]=>
+    string(5) "asort"
+    [800]=>
+    string(6) "arsort"
+    [801]=>
+    string(4) "sort"
+    [802]=>
+    string(5) "rsort"
+    [803]=>
+    string(5) "usort"
+    [804]=>
+    string(6) "uasort"
+    [805]=>
+    string(6) "uksort"
+    [806]=>
+    string(7) "shuffle"
+    [807]=>
+    string(10) "array_walk"
+    [808]=>
+    string(20) "array_walk_recursive"
+    [809]=>
+    string(5) "count"
+    [810]=>
+    string(3) "end"
+    [811]=>
+    string(4) "prev"
+    [812]=>
+    string(4) "next"
+    [813]=>
+    string(5) "reset"
+    [814]=>
+    string(7) "current"
+    [815]=>
+    string(3) "key"
+    [816]=>
+    string(3) "min"
+    [817]=>
+    string(3) "max"
+    [818]=>
+    string(8) "in_array"
+    [819]=>
+    string(12) "array_search"
+    [820]=>
+    string(7) "extract"
+    [821]=>
+    string(7) "compact"
+    [822]=>
+    string(10) "array_fill"
+    [823]=>
+    string(15) "array_fill_keys"
+    [824]=>
+    string(5) "range"
+    [825]=>
+    string(15) "array_multisort"
+    [826]=>
+    string(10) "array_push"
+    [827]=>
+    string(9) "array_pop"
+    [828]=>
+    string(11) "array_shift"
+    [829]=>
+    string(13) "array_unshift"
+    [830]=>
+    string(12) "array_splice"
+    [831]=>
+    string(11) "array_slice"
+    [832]=>
+    string(11) "array_merge"
+    [833]=>
+    string(21) "array_merge_recursive"
+    [834]=>
+    string(13) "array_replace"
+    [835]=>
+    string(23) "array_replace_recursive"
+    [836]=>
+    string(10) "array_keys"
+    [837]=>
+    string(12) "array_values"
+    [838]=>
+    string(18) "array_count_values"
+    [839]=>
+    string(12) "array_column"
+    [840]=>
+    string(13) "array_reverse"
+    [841]=>
+    string(12) "array_reduce"
+    [842]=>
+    string(9) "array_pad"
+    [843]=>
+    string(10) "array_flip"
+    [844]=>
+    string(21) "array_change_key_case"
+    [845]=>
+    string(10) "array_rand"
+    [846]=>
+    string(12) "array_unique"
+    [847]=>
+    string(15) "array_intersect"
+    [848]=>
+    string(19) "array_intersect_key"
+    [849]=>
+    string(20) "array_intersect_ukey"
+    [850]=>
+    string(16) "array_uintersect"
+    [851]=>
+    string(21) "array_intersect_assoc"
+    [852]=>
+    string(22) "array_uintersect_assoc"
+    [853]=>
+    string(22) "array_intersect_uassoc"
+    [854]=>
+    string(23) "array_uintersect_uassoc"
+    [855]=>
+    string(10) "array_diff"
+    [856]=>
+    string(14) "array_diff_key"
+    [857]=>
+    string(15) "array_diff_ukey"
+    [858]=>
+    string(11) "array_udiff"
+    [859]=>
+    string(16) "array_diff_assoc"
+    [860]=>
+    string(17) "array_udiff_assoc"
+    [861]=>
+    string(17) "array_diff_uassoc"
+    [862]=>
+    string(18) "array_udiff_uassoc"
+    [863]=>
+    string(9) "array_sum"
+    [864]=>
+    string(13) "array_product"
+    [865]=>
+    string(12) "array_filter"
+    [866]=>
+    string(9) "array_map"
+    [867]=>
+    string(11) "array_chunk"
+    [868]=>
+    string(13) "array_combine"
+    [869]=>
+    string(16) "array_key_exists"
+    [870]=>
+    string(3) "pos"
+    [871]=>
+    string(6) "sizeof"
+    [872]=>
+    string(10) "key_exists"
+    [873]=>
+    string(6) "assert"
+    [874]=>
+    string(14) "assert_options"
+    [875]=>
+    string(15) "version_compare"
+    [876]=>
+    string(4) "ftok"
+    [877]=>
+    string(9) "str_rot13"
+    [878]=>
+    string(18) "stream_get_filters"
+    [879]=>
+    string(22) "stream_filter_register"
+    [880]=>
+    string(28) "stream_bucket_make_writeable"
+    [881]=>
+    string(21) "stream_bucket_prepend"
+    [882]=>
+    string(20) "stream_bucket_append"
+    [883]=>
+    string(17) "stream_bucket_new"
+    [884]=>
+    string(22) "output_add_rewrite_var"
+    [885]=>
+    string(25) "output_reset_rewrite_vars"
+    [886]=>
+    string(16) "sys_get_temp_dir"
+    [887]=>
+    string(17) "apache_lookup_uri"
+    [888]=>
+    string(7) "virtual"
+    [889]=>
+    string(22) "apache_request_headers"
+    [890]=>
+    string(23) "apache_response_headers"
+    [891]=>
+    string(13) "apache_setenv"
+    [892]=>
+    string(13) "apache_getenv"
+    [893]=>
+    string(11) "apache_note"
+    [894]=>
+    string(18) "apache_get_version"
+    [895]=>
+    string(18) "apache_get_modules"
+    [896]=>
+    string(13) "getallheaders"
+    [897]=>
+    string(11) "pdo_drivers"
+    [898]=>
+    string(13) "jdtogregorian"
+    [899]=>
+    string(13) "gregoriantojd"
+    [900]=>
+    string(10) "jdtojulian"
+    [901]=>
+    string(10) "juliantojd"
+    [902]=>
+    string(10) "jdtojewish"
+    [903]=>
+    string(10) "jewishtojd"
+    [904]=>
+    string(10) "jdtofrench"
+    [905]=>
+    string(10) "frenchtojd"
+    [906]=>
+    string(11) "jddayofweek"
+    [907]=>
+    string(11) "jdmonthname"
+    [908]=>
+    string(11) "easter_date"
+    [909]=>
+    string(11) "easter_days"
+    [910]=>
+    string(8) "unixtojd"
+    [911]=>
+    string(8) "jdtounix"
+    [912]=>
+    string(9) "cal_to_jd"
+    [913]=>
+    string(11) "cal_from_jd"
+    [914]=>
+    string(17) "cal_days_in_month"
+    [915]=>
+    string(8) "cal_info"
+    [916]=>
+    string(11) "ctype_alnum"
+    [917]=>
+    string(11) "ctype_alpha"
+    [918]=>
+    string(11) "ctype_cntrl"
+    [919]=>
+    string(11) "ctype_digit"
+    [920]=>
+    string(11) "ctype_lower"
+    [921]=>
+    string(11) "ctype_graph"
+    [922]=>
+    string(11) "ctype_print"
+    [923]=>
+    string(11) "ctype_punct"
+    [924]=>
+    string(11) "ctype_space"
+    [925]=>
+    string(11) "ctype_upper"
+    [926]=>
+    string(12) "ctype_xdigit"
+    [927]=>
+    string(14) "exif_read_data"
+    [928]=>
+    string(14) "read_exif_data"
+    [929]=>
+    string(12) "exif_tagname"
+    [930]=>
+    string(14) "exif_thumbnail"
+    [931]=>
+    string(14) "exif_imagetype"
+    [932]=>
+    string(10) "finfo_open"
+    [933]=>
+    string(11) "finfo_close"
+    [934]=>
+    string(15) "finfo_set_flags"
+    [935]=>
+    string(10) "finfo_file"
+    [936]=>
+    string(12) "finfo_buffer"
+    [937]=>
+    string(17) "mime_content_type"
+    [938]=>
+    string(11) "ftp_connect"
+    [939]=>
+    string(15) "ftp_ssl_connect"
+    [940]=>
+    string(9) "ftp_login"
+    [941]=>
+    string(7) "ftp_pwd"
+    [942]=>
+    string(8) "ftp_cdup"
+    [943]=>
+    string(9) "ftp_chdir"
+    [944]=>
+    string(8) "ftp_exec"
+    [945]=>
+    string(7) "ftp_raw"
+    [946]=>
+    string(9) "ftp_mkdir"
+    [947]=>
+    string(9) "ftp_rmdir"
+    [948]=>
+    string(9) "ftp_chmod"
+    [949]=>
+    string(9) "ftp_alloc"
+    [950]=>
+    string(9) "ftp_nlist"
+    [951]=>
+    string(11) "ftp_rawlist"
+    [952]=>
+    string(8) "ftp_mlsd"
+    [953]=>
+    string(11) "ftp_systype"
+    [954]=>
+    string(8) "ftp_pasv"
+    [955]=>
+    string(7) "ftp_get"
+    [956]=>
+    string(8) "ftp_fget"
+    [957]=>
+    string(7) "ftp_put"
+    [958]=>
+    string(10) "ftp_append"
+    [959]=>
+    string(8) "ftp_fput"
+    [960]=>
+    string(8) "ftp_size"
+    [961]=>
+    string(8) "ftp_mdtm"
+    [962]=>
+    string(10) "ftp_rename"
+    [963]=>
+    string(10) "ftp_delete"
+    [964]=>
+    string(8) "ftp_site"
+    [965]=>
+    string(9) "ftp_close"
+    [966]=>
+    string(14) "ftp_set_option"
+    [967]=>
+    string(14) "ftp_get_option"
+    [968]=>
+    string(11) "ftp_nb_fget"
+    [969]=>
+    string(10) "ftp_nb_get"
+    [970]=>
+    string(15) "ftp_nb_continue"
+    [971]=>
+    string(10) "ftp_nb_put"
+    [972]=>
+    string(11) "ftp_nb_fput"
+    [973]=>
+    string(8) "ftp_quit"
+    [974]=>
+    string(10) "textdomain"
+    [975]=>
+    string(7) "gettext"
+    [976]=>
+    string(1) "_"
+    [977]=>
+    string(8) "dgettext"
+    [978]=>
+    string(9) "dcgettext"
+    [979]=>
+    string(14) "bindtextdomain"
+    [980]=>
+    string(8) "ngettext"
+    [981]=>
+    string(9) "dngettext"
+    [982]=>
+    string(10) "dcngettext"
+    [983]=>
+    string(23) "bind_textdomain_codeset"
+    [984]=>
+    string(5) "iconv"
+    [985]=>
+    string(18) "iconv_get_encoding"
+    [986]=>
+    string(18) "iconv_set_encoding"
+    [987]=>
+    string(12) "iconv_strlen"
+    [988]=>
+    string(12) "iconv_substr"
+    [989]=>
+    string(12) "iconv_strpos"
+    [990]=>
+    string(13) "iconv_strrpos"
+    [991]=>
+    string(17) "iconv_mime_encode"
+    [992]=>
+    string(17) "iconv_mime_decode"
+    [993]=>
+    string(25) "iconv_mime_decode_headers"
+    [994]=>
+    string(11) "json_encode"
+    [995]=>
+    string(11) "json_decode"
+    [996]=>
+    string(15) "json_last_error"
+    [997]=>
+    string(19) "json_last_error_msg"
+    [998]=>
+    string(10) "posix_kill"
+    [999]=>
+    string(12) "posix_getpid"
+    [1000]=>
+    string(13) "posix_getppid"
+    [1001]=>
+    string(12) "posix_getuid"
+    [1002]=>
+    string(12) "posix_setuid"
+    [1003]=>
+    string(13) "posix_geteuid"
+    [1004]=>
+    string(13) "posix_seteuid"
+    [1005]=>
+    string(12) "posix_getgid"
+    [1006]=>
+    string(12) "posix_setgid"
+    [1007]=>
+    string(13) "posix_getegid"
+    [1008]=>
+    string(13) "posix_setegid"
+    [1009]=>
+    string(15) "posix_getgroups"
+    [1010]=>
+    string(14) "posix_getlogin"
+    [1011]=>
+    string(13) "posix_getpgrp"
+    [1012]=>
+    string(12) "posix_setsid"
+    [1013]=>
+    string(13) "posix_setpgid"
+    [1014]=>
+    string(13) "posix_getpgid"
+    [1015]=>
+    string(12) "posix_getsid"
+    [1016]=>
+    string(11) "posix_uname"
+    [1017]=>
+    string(11) "posix_times"
+    [1018]=>
+    string(13) "posix_ctermid"
+    [1019]=>
+    string(13) "posix_ttyname"
+    [1020]=>
+    string(12) "posix_isatty"
+    [1021]=>
+    string(12) "posix_getcwd"
+    [1022]=>
+    string(12) "posix_mkfifo"
+    [1023]=>
+    string(11) "posix_mknod"
+    [1024]=>
+    string(12) "posix_access"
+    [1025]=>
+    string(14) "posix_getgrnam"
+    [1026]=>
+    string(14) "posix_getgrgid"
+    [1027]=>
+    string(14) "posix_getpwnam"
+    [1028]=>
+    string(14) "posix_getpwuid"
+    [1029]=>
+    string(15) "posix_getrlimit"
+    [1030]=>
+    string(15) "posix_setrlimit"
+    [1031]=>
+    string(20) "posix_get_last_error"
+    [1032]=>
+    string(11) "posix_errno"
+    [1033]=>
+    string(14) "posix_strerror"
+    [1034]=>
+    string(16) "posix_initgroups"
+    [1035]=>
+    string(8) "readline"
+    [1036]=>
+    string(13) "readline_info"
+    [1037]=>
+    string(20) "readline_add_history"
+    [1038]=>
+    string(22) "readline_clear_history"
+    [1039]=>
+    string(21) "readline_read_history"
+    [1040]=>
+    string(22) "readline_write_history"
+    [1041]=>
+    string(28) "readline_completion_function"
+    [1042]=>
+    string(33) "readline_callback_handler_install"
+    [1043]=>
+    string(27) "readline_callback_read_char"
+    [1044]=>
+    string(32) "readline_callback_handler_remove"
+    [1045]=>
+    string(18) "readline_redisplay"
+    [1046]=>
+    string(20) "readline_on_new_line"
+    [1047]=>
+    string(10) "shmop_open"
+    [1048]=>
+    string(10) "shmop_read"
+    [1049]=>
+    string(11) "shmop_close"
+    [1050]=>
+    string(10) "shmop_size"
+    [1051]=>
+    string(11) "shmop_write"
+    [1052]=>
+    string(12) "shmop_delete"
+    [1053]=>
+    string(13) "socket_select"
+    [1054]=>
+    string(13) "socket_create"
+    [1055]=>
+    string(20) "socket_create_listen"
+    [1056]=>
+    string(18) "socket_create_pair"
+    [1057]=>
+    string(13) "socket_accept"
+    [1058]=>
+    string(19) "socket_set_nonblock"
+    [1059]=>
+    string(16) "socket_set_block"
+    [1060]=>
+    string(13) "socket_listen"
+    [1061]=>
+    string(12) "socket_close"
+    [1062]=>
+    string(12) "socket_write"
+    [1063]=>
+    string(11) "socket_read"
+    [1064]=>
+    string(18) "socket_getsockname"
+    [1065]=>
+    string(18) "socket_getpeername"
+    [1066]=>
+    string(14) "socket_connect"
+    [1067]=>
+    string(15) "socket_strerror"
+    [1068]=>
+    string(11) "socket_bind"
+    [1069]=>
+    string(11) "socket_recv"
+    [1070]=>
+    string(11) "socket_send"
+    [1071]=>
+    string(15) "socket_recvfrom"
+    [1072]=>
+    string(13) "socket_sendto"
+    [1073]=>
+    string(17) "socket_get_option"
+    [1074]=>
+    string(17) "socket_set_option"
+    [1075]=>
+    string(15) "socket_shutdown"
+    [1076]=>
+    string(17) "socket_last_error"
+    [1077]=>
+    string(18) "socket_clear_error"
+    [1078]=>
+    string(20) "socket_import_stream"
+    [1079]=>
+    string(20) "socket_export_stream"
+    [1080]=>
+    string(14) "socket_sendmsg"
+    [1081]=>
+    string(14) "socket_recvmsg"
+    [1082]=>
+    string(17) "socket_cmsg_space"
+    [1083]=>
+    string(22) "socket_addrinfo_lookup"
+    [1084]=>
+    string(23) "socket_addrinfo_connect"
+    [1085]=>
+    string(20) "socket_addrinfo_bind"
+    [1086]=>
+    string(23) "socket_addrinfo_explain"
+    [1087]=>
+    string(13) "socket_getopt"
+    [1088]=>
+    string(13) "socket_setopt"
+    [1089]=>
+    string(13) "msg_get_queue"
+    [1090]=>
+    string(8) "msg_send"
+    [1091]=>
+    string(11) "msg_receive"
+    [1092]=>
+    string(16) "msg_remove_queue"
+    [1093]=>
+    string(14) "msg_stat_queue"
+    [1094]=>
+    string(13) "msg_set_queue"
+    [1095]=>
+    string(16) "msg_queue_exists"
+    [1096]=>
+    string(7) "sem_get"
+    [1097]=>
+    string(11) "sem_acquire"
+    [1098]=>
+    string(11) "sem_release"
+    [1099]=>
+    string(10) "sem_remove"
+    [1100]=>
+    string(10) "shm_attach"
+    [1101]=>
+    string(10) "shm_remove"
+    [1102]=>
+    string(10) "shm_detach"
+    [1103]=>
+    string(11) "shm_put_var"
+    [1104]=>
+    string(11) "shm_has_var"
+    [1105]=>
+    string(11) "shm_get_var"
+    [1106]=>
+    string(14) "shm_remove_var"
+    [1107]=>
+    string(13) "token_get_all"
+    [1108]=>
+    string(10) "token_name"
+    [1109]=>
+    string(13) "opcache_reset"
+    [1110]=>
+    string(18) "opcache_invalidate"
+    [1111]=>
+    string(20) "opcache_compile_file"
+    [1112]=>
+    string(24) "opcache_is_script_cached"
+    [1113]=>
+    string(25) "opcache_get_configuration"
+    [1114]=>
+    string(18) "opcache_get_status"
+  }
+  ["user"]=>
+  array(2) {
+    [0]=>
+    string(16) "get_lucky_number"
+    [1]=>
+    string(14) "get_lucky_word"
+  }
+}
+
+[+] Requesting get_defined_vars
+<!-- Let's pray for new year lucky things <3 -->
+
+Array
+
+
+[+] Requesting get_defined_vars as array
+<!-- Let's pray for new year lucky things <3 -->
+
+array(5) {
+  ["_GET"]=>
+  array(1) {
+    ["roll"]=>
+    string(28) "var_dump(get_defined_vars())"
+  }
+  ["_POST"]=>
+  array(0) {
+  }
+  ["_COOKIE"]=>
+  array(0) {
+  }
+  ["_FILES"]=>
+  array(0) {
+  }
+  ["wl"]=>
+  int(1)
+}
+
+[+] Requesting get_resource_type
+<!-- Let's pray for new year lucky things <3 -->
+
+
+
+
+[+] Requesting get_resource_type as array
+<!-- Let's pray for new year lucky things <3 -->
+
+NULL
+
+[+] Requesting get_resources
+<!-- Let's pray for new year lucky things <3 -->
+
+Array
+
+
+[+] Requesting get_resources as array
+<!-- Let's pray for new year lucky things <3 -->
+
+array(0) {
+}
+
+[+] Requesting get_loaded_extensions
+<!-- Let's pray for new year lucky things <3 -->
+
+Array
+
+
+[+] Requesting get_loaded_extensions as array
+<!-- Let's pray for new year lucky things <3 -->
+
+array(33) {
+  [0]=>
+  string(4) "Core"
+  [1]=>
+  string(4) "date"
+  [2]=>
+  string(6) "libxml"
+  [3]=>
+  string(7) "openssl"
+  [4]=>
+  string(4) "pcre"
+  [5]=>
+  string(4) "zlib"
+  [6]=>
+  string(6) "filter"
+  [7]=>
+  string(4) "hash"
+  [8]=>
+  string(10) "Reflection"
+  [9]=>
+  string(3) "SPL"
+  [10]=>
+  string(6) "sodium"
+  [11]=>
+  string(7) "session"
+  [12]=>
+  string(8) "standard"
+  [13]=>
+  string(14) "apache2handler"
+  [14]=>
+  string(3) "PDO"
+  [15]=>
+  string(8) "calendar"
+  [16]=>
+  string(5) "ctype"
+  [17]=>
+  string(4) "exif"
+  [18]=>
+  string(8) "fileinfo"
+  [19]=>
+  string(3) "ftp"
+  [20]=>
+  string(7) "gettext"
+  [21]=>
+  string(5) "iconv"
+  [22]=>
+  string(4) "json"
+  [23]=>
+  string(4) "Phar"
+  [24]=>
+  string(5) "posix"
+  [25]=>
+  string(8) "readline"
+  [26]=>
+  string(5) "shmop"
+  [27]=>
+  string(7) "sockets"
+  [28]=>
+  string(7) "sysvmsg"
+  [29]=>
+  string(7) "sysvsem"
+  [30]=>
+  string(7) "sysvshm"
+  [31]=>
+  string(9) "tokenizer"
+  [32]=>
+  string(12) "Zend OPcache"
+}
+
+[+] Requesting get_extension_funcs
+<!-- Let's pray for new year lucky things <3 -->
+
+
+
+
+[+] Requesting get_extension_funcs as array
+<!-- Let's pray for new year lucky things <3 -->
+
+NULL
+
+[+] Requesting get_defined_constants
+<!-- Let's pray for new year lucky things <3 -->
+
+Array
+
+
+[+] Requesting get_defined_constants as array
+<!-- Let's pray for new year lucky things <3 -->
+
+array(1185) {
+  ["E_ERROR"]=>
+  int(1)
+  ["E_RECOVERABLE_ERROR"]=>
+  int(4096)
+  ["E_WARNING"]=>
+  int(2)
+  ["E_PARSE"]=>
+  int(4)
+  ["E_NOTICE"]=>
+  int(8)
+  ["E_STRICT"]=>
+  int(2048)
+  ["E_DEPRECATED"]=>
+  int(8192)
+  ["E_CORE_ERROR"]=>
+  int(16)
+  ["E_CORE_WARNING"]=>
+  int(32)
+  ["E_COMPILE_ERROR"]=>
+  int(64)
+  ["E_COMPILE_WARNING"]=>
+  int(128)
+  ["E_USER_ERROR"]=>
+  int(256)
+  ["E_USER_WARNING"]=>
+  int(512)
+  ["E_USER_NOTICE"]=>
+  int(1024)
+  ["E_USER_DEPRECATED"]=>
+  int(16384)
+  ["E_ALL"]=>
+  int(32767)
+  ["DEBUG_BACKTRACE_PROVIDE_OBJECT"]=>
+  int(1)
+  ["DEBUG_BACKTRACE_IGNORE_ARGS"]=>
+  int(2)
+  ["TRUE"]=>
+  bool(true)
+  ["FALSE"]=>
+  bool(false)
+  ["ZEND_THREAD_SAFE"]=>
+  bool(false)
+  ["ZEND_DEBUG_BUILD"]=>
+  bool(false)
+  ["NULL"]=>
+  NULL
+  ["PHP_VERSION"]=>
+  string(23) "7.2.24-0ubuntu0.18.04.7"
+  ["PHP_MAJOR_VERSION"]=>
+  int(7)
+  ["PHP_MINOR_VERSION"]=>
+  int(2)
+  ["PHP_RELEASE_VERSION"]=>
+  int(24)
+  ["PHP_EXTRA_VERSION"]=>
+  string(17) "-0ubuntu0.18.04.7"
+  ["PHP_VERSION_ID"]=>
+  int(70224)
+  ["PHP_ZTS"]=>
+  int(0)
+  ["PHP_DEBUG"]=>
+  int(0)
+  ["PHP_OS"]=>
+  string(5) "Linux"
+  ["PHP_OS_FAMILY"]=>
+  string(5) "Linux"
+  ["PHP_SAPI"]=>
+  string(14) "apache2handler"
+  ["DEFAULT_INCLUDE_PATH"]=>
+  string(16) ".:/usr/share/php"
+  ["PEAR_INSTALL_DIR"]=>
+  string(14) "/usr/share/php"
+  ["PEAR_EXTENSION_DIR"]=>
+  string(21) "/usr/lib/php/20170718"
+  ["PHP_EXTENSION_DIR"]=>
+  string(21) "/usr/lib/php/20170718"
+  ["PHP_PREFIX"]=>
+  string(4) "/usr"
+  ["PHP_BINDIR"]=>
+  string(8) "/usr/bin"
+  ["PHP_MANDIR"]=>
+  string(14) "/usr/share/man"
+  ["PHP_LIBDIR"]=>
+  string(12) "/usr/lib/php"
+  ["PHP_DATADIR"]=>
+  string(18) "/usr/share/php/7.2"
+  ["PHP_SYSCONFDIR"]=>
+  string(4) "/etc"
+  ["PHP_LOCALSTATEDIR"]=>
+  string(4) "/var"
+  ["PHP_CONFIG_FILE_PATH"]=>
+  string(20) "/etc/php/7.2/apache2"
+  ["PHP_CONFIG_FILE_SCAN_DIR"]=>
+  string(27) "/etc/php/7.2/apache2/conf.d"
+  ["PHP_SHLIB_SUFFIX"]=>
+  string(2) "so"
+  ["PHP_EOL"]=>
+  string(1) "
+"
+  ["PHP_MAXPATHLEN"]=>
+  int(4096)
+  ["PHP_INT_MAX"]=>
+  int(9223372036854775807)
+  ["PHP_INT_MIN"]=>
+  int(-9223372036854775808)
+  ["PHP_INT_SIZE"]=>
+  int(8)
+  ["PHP_FD_SETSIZE"]=>
+  int(1024)
+  ["PHP_FLOAT_DIG"]=>
+  int(15)
+  ["PHP_FLOAT_EPSILON"]=>
+  float(2.2204460492503E-16)
+  ["PHP_FLOAT_MAX"]=>
+  float(1.7976931348623E+308)
+  ["PHP_FLOAT_MIN"]=>
+  float(2.2250738585072E-308)
+  ["PHP_BINARY"]=>
+  string(0) ""
+  ["PHP_OUTPUT_HANDLER_START"]=>
+  int(1)
+  ["PHP_OUTPUT_HANDLER_WRITE"]=>
+  int(0)
+  ["PHP_OUTPUT_HANDLER_FLUSH"]=>
+  int(4)
+  ["PHP_OUTPUT_HANDLER_CLEAN"]=>
+  int(2)
+  ["PHP_OUTPUT_HANDLER_FINAL"]=>
+  int(8)
+  ["PHP_OUTPUT_HANDLER_CONT"]=>
+  int(0)
+  ["PHP_OUTPUT_HANDLER_END"]=>
+  int(8)
+  ["PHP_OUTPUT_HANDLER_CLEANABLE"]=>
+  int(16)
+  ["PHP_OUTPUT_HANDLER_FLUSHABLE"]=>
+  int(32)
+  ["PHP_OUTPUT_HANDLER_REMOVABLE"]=>
+  int(64)
+  ["PHP_OUTPUT_HANDLER_STDFLAGS"]=>
+  int(112)
+  ["PHP_OUTPUT_HANDLER_STARTED"]=>
+  int(4096)
+  ["PHP_OUTPUT_HANDLER_DISABLED"]=>
+  int(8192)
+  ["UPLOAD_ERR_OK"]=>
+  int(0)
+  ["UPLOAD_ERR_INI_SIZE"]=>
+  int(1)
+  ["UPLOAD_ERR_FORM_SIZE"]=>
+  int(2)
+  ["UPLOAD_ERR_PARTIAL"]=>
+  int(3)
+  ["UPLOAD_ERR_NO_FILE"]=>
+  int(4)
+  ["UPLOAD_ERR_NO_TMP_DIR"]=>
+  int(6)
+  ["UPLOAD_ERR_CANT_WRITE"]=>
+  int(7)
+  ["UPLOAD_ERR_EXTENSION"]=>
+  int(8)
+  ["DATE_ATOM"]=>
+  string(13) "Y-m-d\TH:i:sP"
+  ["DATE_COOKIE"]=>
+  string(16) "l, d-M-Y H:i:s T"
+  ["DATE_ISO8601"]=>
+  string(13) "Y-m-d\TH:i:sO"
+  ["DATE_RFC822"]=>
+  string(16) "D, d M y H:i:s O"
+  ["DATE_RFC850"]=>
+  string(16) "l, d-M-y H:i:s T"
+  ["DATE_RFC1036"]=>
+  string(16) "D, d M y H:i:s O"
+  ["DATE_RFC1123"]=>
+  string(16) "D, d M Y H:i:s O"
+  ["DATE_RFC7231"]=>
+  string(21) "D, d M Y H:i:s \G\M\T"
+  ["DATE_RFC2822"]=>
+  string(16) "D, d M Y H:i:s O"
+  ["DATE_RFC3339"]=>
+  string(13) "Y-m-d\TH:i:sP"
+  ["DATE_RFC3339_EXTENDED"]=>
+  string(15) "Y-m-d\TH:i:s.vP"
+  ["DATE_RSS"]=>
+  string(16) "D, d M Y H:i:s O"
+  ["DATE_W3C"]=>
+  string(13) "Y-m-d\TH:i:sP"
+  ["SUNFUNCS_RET_TIMESTAMP"]=>
+  int(0)
+  ["SUNFUNCS_RET_STRING"]=>
+  int(1)
+  ["SUNFUNCS_RET_DOUBLE"]=>
+  int(2)
+  ["LIBXML_VERSION"]=>
+  int(20904)
+  ["LIBXML_DOTTED_VERSION"]=>
+  string(5) "2.9.4"
+  ["LIBXML_LOADED_VERSION"]=>
+  string(5) "20904"
+  ["LIBXML_NOENT"]=>
+  int(2)
+  ["LIBXML_DTDLOAD"]=>
+  int(4)
+  ["LIBXML_DTDATTR"]=>
+  int(8)
+  ["LIBXML_DTDVALID"]=>
+  int(16)
+  ["LIBXML_NOERROR"]=>
+  int(32)
+  ["LIBXML_NOWARNING"]=>
+  int(64)
+  ["LIBXML_NOBLANKS"]=>
+  int(256)
+  ["LIBXML_XINCLUDE"]=>
+  int(1024)
+  ["LIBXML_NSCLEAN"]=>
+  int(8192)
+  ["LIBXML_NOCDATA"]=>
+  int(16384)
+  ["LIBXML_NONET"]=>
+  int(2048)
+  ["LIBXML_PEDANTIC"]=>
+  int(128)
+  ["LIBXML_COMPACT"]=>
+  int(65536)
+  ["LIBXML_NOXMLDECL"]=>
+  int(2)
+  ["LIBXML_PARSEHUGE"]=>
+  int(524288)
+  ["LIBXML_BIGLINES"]=>
+  int(4194304)
+  ["LIBXML_NOEMPTYTAG"]=>
+  int(4)
+  ["LIBXML_SCHEMA_CREATE"]=>
+  int(1)
+  ["LIBXML_HTML_NOIMPLIED"]=>
+  int(8192)
+  ["LIBXML_HTML_NODEFDTD"]=>
+  int(4)
+  ["LIBXML_ERR_NONE"]=>
+  int(0)
+  ["LIBXML_ERR_WARNING"]=>
+  int(1)
+  ["LIBXML_ERR_ERROR"]=>
+  int(2)
+  ["LIBXML_ERR_FATAL"]=>
+  int(3)
+  ["OPENSSL_VERSION_TEXT"]=>
+  string(26) "OpenSSL 1.1.1  11 Sep 2018"
+  ["OPENSSL_VERSION_NUMBER"]=>
+  int(269488143)
+  ["X509_PURPOSE_SSL_CLIENT"]=>
+  int(1)
+  ["X509_PURPOSE_SSL_SERVER"]=>
+  int(2)
+  ["X509_PURPOSE_NS_SSL_SERVER"]=>
+  int(3)
+  ["X509_PURPOSE_SMIME_SIGN"]=>
+  int(4)
+  ["X509_PURPOSE_SMIME_ENCRYPT"]=>
+  int(5)
+  ["X509_PURPOSE_CRL_SIGN"]=>
+  int(6)
+  ["X509_PURPOSE_ANY"]=>
+  int(7)
+  ["OPENSSL_ALGO_SHA1"]=>
+  int(1)
+  ["OPENSSL_ALGO_MD5"]=>
+  int(2)
+  ["OPENSSL_ALGO_MD4"]=>
+  int(3)
+  ["OPENSSL_ALGO_SHA224"]=>
+  int(6)
+  ["OPENSSL_ALGO_SHA256"]=>
+  int(7)
+  ["OPENSSL_ALGO_SHA384"]=>
+  int(8)
+  ["OPENSSL_ALGO_SHA512"]=>
+  int(9)
+  ["OPENSSL_ALGO_RMD160"]=>
+  int(10)
+  ["PKCS7_DETACHED"]=>
+  int(64)
+  ["PKCS7_TEXT"]=>
+  int(1)
+  ["PKCS7_NOINTERN"]=>
+  int(16)
+  ["PKCS7_NOVERIFY"]=>
+  int(32)
+  ["PKCS7_NOCHAIN"]=>
+  int(8)
+  ["PKCS7_NOCERTS"]=>
+  int(2)
+  ["PKCS7_NOATTR"]=>
+  int(256)
+  ["PKCS7_BINARY"]=>
+  int(128)
+  ["PKCS7_NOSIGS"]=>
+  int(4)
+  ["OPENSSL_PKCS1_PADDING"]=>
+  int(1)
+  ["OPENSSL_SSLV23_PADDING"]=>
+  int(2)
+  ["OPENSSL_NO_PADDING"]=>
+  int(3)
+  ["OPENSSL_PKCS1_OAEP_PADDING"]=>
+  int(4)
+  ["OPENSSL_DEFAULT_STREAM_CIPHERS"]=>
+  string(594) "ECDHE-RSA-AES128-GCM-SHA256:ECDHE-ECDSA-AES128-GCM-SHA256:ECDHE-RSA-AES256-GCM-SHA384:ECDHE-ECDSA-AES256-GCM-SHA384:DHE-RSA-AES128-GCM-SHA256:DHE-DSS-AES128-GCM-SHA256:kEDH+AESGCM:ECDHE-RSA-AES128-SHA256:ECDHE-ECDSA-AES128-SHA256:ECDHE-RSA-AES128-SHA:ECDHE-ECDSA-AES128-SHA:ECDHE-RSA-AES256-SHA384:ECDHE-ECDSA-AES256-SHA384:ECDHE-RSA-AES256-SHA:ECDHE-ECDSA-AES256-SHA:DHE-RSA-AES128-SHA256:DHE-RSA-AES128-SHA:DHE-DSS-AES128-SHA256:DHE-RSA-AES256-SHA256:DHE-DSS-AES256-SHA:DHE-RSA-AES256-SHA:AES128-GCM-SHA256:AES256-GCM-SHA384:AES128:AES256:HIGH:!SSLv2:!aNULL:!eNULL:!EXPORT:!DES:!MD5:!RC4:!ADH"
+  ["OPENSSL_CIPHER_RC2_40"]=>
+  int(0)
+  ["OPENSSL_CIPHER_RC2_128"]=>
+  int(1)
+  ["OPENSSL_CIPHER_RC2_64"]=>
+  int(2)
+  ["OPENSSL_CIPHER_DES"]=>
+  int(3)
+  ["OPENSSL_CIPHER_3DES"]=>
+  int(4)
+  ["OPENSSL_CIPHER_AES_128_CBC"]=>
+  int(5)
+  ["OPENSSL_CIPHER_AES_192_CBC"]=>
+  int(6)
+  ["OPENSSL_CIPHER_AES_256_CBC"]=>
+  int(7)
+  ["OPENSSL_KEYTYPE_RSA"]=>
+  int(0)
+  ["OPENSSL_KEYTYPE_DSA"]=>
+  int(1)
+  ["OPENSSL_KEYTYPE_DH"]=>
+  int(2)
+  ["OPENSSL_KEYTYPE_EC"]=>
+  int(3)
+  ["OPENSSL_RAW_DATA"]=>
+  int(1)
+  ["OPENSSL_ZERO_PADDING"]=>
+  int(2)
+  ["OPENSSL_DONT_ZERO_PAD_KEY"]=>
+  int(4)
+  ["OPENSSL_TLSEXT_SERVER_NAME"]=>
+  int(1)
+  ["PREG_PATTERN_ORDER"]=>
+  int(1)
+  ["PREG_SET_ORDER"]=>
+  int(2)
+  ["PREG_OFFSET_CAPTURE"]=>
+  int(256)
+  ["PREG_UNMATCHED_AS_NULL"]=>
+  int(512)
+  ["PREG_SPLIT_NO_EMPTY"]=>
+  int(1)
+  ["PREG_SPLIT_DELIM_CAPTURE"]=>
+  int(2)
+  ["PREG_SPLIT_OFFSET_CAPTURE"]=>
+  int(4)
+  ["PREG_GREP_INVERT"]=>
+  int(1)
+  ["PREG_NO_ERROR"]=>
+  int(0)
+  ["PREG_INTERNAL_ERROR"]=>
+  int(1)
+  ["PREG_BACKTRACK_LIMIT_ERROR"]=>
+  int(2)
+  ["PREG_RECURSION_LIMIT_ERROR"]=>
+  int(3)
+  ["PREG_BAD_UTF8_ERROR"]=>
+  int(4)
+  ["PREG_BAD_UTF8_OFFSET_ERROR"]=>
+  int(5)
+  ["PREG_JIT_STACKLIMIT_ERROR"]=>
+  int(6)
+  ["PCRE_VERSION"]=>
+  string(15) "8.39 2016-06-14"
+  ["FORCE_GZIP"]=>
+  int(31)
+  ["FORCE_DEFLATE"]=>
+  int(15)
+  ["ZLIB_ENCODING_RAW"]=>
+  int(-15)
+  ["ZLIB_ENCODING_GZIP"]=>
+  int(31)
+  ["ZLIB_ENCODING_DEFLATE"]=>
+  int(15)
+  ["ZLIB_NO_FLUSH"]=>
+  int(0)
+  ["ZLIB_PARTIAL_FLUSH"]=>
+  int(1)
+  ["ZLIB_SYNC_FLUSH"]=>
+  int(2)
+  ["ZLIB_FULL_FLUSH"]=>
+  int(3)
+  ["ZLIB_BLOCK"]=>
+  int(5)
+  ["ZLIB_FINISH"]=>
+  int(4)
+  ["ZLIB_FILTERED"]=>
+  int(1)
+  ["ZLIB_HUFFMAN_ONLY"]=>
+  int(2)
+  ["ZLIB_RLE"]=>
+  int(3)
+  ["ZLIB_FIXED"]=>
+  int(4)
+  ["ZLIB_DEFAULT_STRATEGY"]=>
+  int(0)
+  ["ZLIB_VERSION"]=>
+  string(6) "1.2.11"
+  ["ZLIB_VERNUM"]=>
+  int(4784)
+  ["ZLIB_OK"]=>
+  int(0)
+  ["ZLIB_STREAM_END"]=>
+  int(1)
+  ["ZLIB_NEED_DICT"]=>
+  int(2)
+  ["ZLIB_ERRNO"]=>
+  int(-1)
+  ["ZLIB_STREAM_ERROR"]=>
+  int(-2)
+  ["ZLIB_DATA_ERROR"]=>
+  int(-3)
+  ["ZLIB_MEM_ERROR"]=>
+  int(-4)
+  ["ZLIB_BUF_ERROR"]=>
+  int(-5)
+  ["ZLIB_VERSION_ERROR"]=>
+  int(-6)
+  ["INPUT_POST"]=>
+  int(0)
+  ["INPUT_GET"]=>
+  int(1)
+  ["INPUT_COOKIE"]=>
+  int(2)
+  ["INPUT_ENV"]=>
+  int(4)
+  ["INPUT_SERVER"]=>
+  int(5)
+  ["INPUT_SESSION"]=>
+  int(6)
+  ["INPUT_REQUEST"]=>
+  int(99)
+  ["FILTER_FLAG_NONE"]=>
+  int(0)
+  ["FILTER_REQUIRE_SCALAR"]=>
+  int(33554432)
+  ["FILTER_REQUIRE_ARRAY"]=>
+  int(16777216)
+  ["FILTER_FORCE_ARRAY"]=>
+  int(67108864)
+  ["FILTER_NULL_ON_FAILURE"]=>
+  int(134217728)
+  ["FILTER_VALIDATE_INT"]=>
+  int(257)
+  ["FILTER_VALIDATE_BOOLEAN"]=>
+  int(258)
+  ["FILTER_VALIDATE_FLOAT"]=>
+  int(259)
+  ["FILTER_VALIDATE_REGEXP"]=>
+  int(272)
+  ["FILTER_VALIDATE_DOMAIN"]=>
+  int(277)
+  ["FILTER_VALIDATE_URL"]=>
+  int(273)
+  ["FILTER_VALIDATE_EMAIL"]=>
+  int(274)
+  ["FILTER_VALIDATE_IP"]=>
+  int(275)
+  ["FILTER_VALIDATE_MAC"]=>
+  int(276)
+  ["FILTER_DEFAULT"]=>
+  int(516)
+  ["FILTER_UNSAFE_RAW"]=>
+  int(516)
+  ["FILTER_SANITIZE_STRING"]=>
+  int(513)
+  ["FILTER_SANITIZE_STRIPPED"]=>
+  int(513)
+  ["FILTER_SANITIZE_ENCODED"]=>
+  int(514)
+  ["FILTER_SANITIZE_SPECIAL_CHARS"]=>
+  int(515)
+  ["FILTER_SANITIZE_FULL_SPECIAL_CHARS"]=>
+  int(522)
+  ["FILTER_SANITIZE_EMAIL"]=>
+  int(517)
+  ["FILTER_SANITIZE_URL"]=>
+  int(518)
+  ["FILTER_SANITIZE_NUMBER_INT"]=>
+  int(519)
+  ["FILTER_SANITIZE_NUMBER_FLOAT"]=>
+  int(520)
+  ["FILTER_SANITIZE_MAGIC_QUOTES"]=>
+  int(521)
+  ["FILTER_CALLBACK"]=>
+  int(1024)
+  ["FILTER_FLAG_ALLOW_OCTAL"]=>
+  int(1)
+  ["FILTER_FLAG_ALLOW_HEX"]=>
+  int(2)
+  ["FILTER_FLAG_STRIP_LOW"]=>
+  int(4)
+  ["FILTER_FLAG_STRIP_HIGH"]=>
+  int(8)
+  ["FILTER_FLAG_STRIP_BACKTICK"]=>
+  int(512)
+  ["FILTER_FLAG_ENCODE_LOW"]=>
+  int(16)
+  ["FILTER_FLAG_ENCODE_HIGH"]=>
+  int(32)
+  ["FILTER_FLAG_ENCODE_AMP"]=>
+  int(64)
+  ["FILTER_FLAG_NO_ENCODE_QUOTES"]=>
+  int(128)
+  ["FILTER_FLAG_EMPTY_STRING_NULL"]=>
+  int(256)
+  ["FILTER_FLAG_ALLOW_FRACTION"]=>
+  int(4096)
+  ["FILTER_FLAG_ALLOW_THOUSAND"]=>
+  int(8192)
+  ["FILTER_FLAG_ALLOW_SCIENTIFIC"]=>
+  int(16384)
+  ["FILTER_FLAG_SCHEME_REQUIRED"]=>
+  int(65536)
+  ["FILTER_FLAG_HOST_REQUIRED"]=>
+  int(131072)
+  ["FILTER_FLAG_PATH_REQUIRED"]=>
+  int(262144)
+  ["FILTER_FLAG_QUERY_REQUIRED"]=>
+  int(524288)
+  ["FILTER_FLAG_IPV4"]=>
+  int(1048576)
+  ["FILTER_FLAG_IPV6"]=>
+  int(2097152)
+  ["FILTER_FLAG_NO_RES_RANGE"]=>
+  int(4194304)
+  ["FILTER_FLAG_NO_PRIV_RANGE"]=>
+  int(8388608)
+  ["FILTER_FLAG_HOSTNAME"]=>
+  int(1048576)
+  ["FILTER_FLAG_EMAIL_UNICODE"]=>
+  int(1048576)
+  ["HASH_HMAC"]=>
+  int(1)
+  ["MHASH_CRC32"]=>
+  int(0)
+  ["MHASH_MD5"]=>
+  int(1)
+  ["MHASH_SHA1"]=>
+  int(2)
+  ["MHASH_HAVAL256"]=>
+  int(3)
+  ["MHASH_RIPEMD160"]=>
+  int(5)
+  ["MHASH_TIGER"]=>
+  int(7)
+  ["MHASH_GOST"]=>
+  int(8)
+  ["MHASH_CRC32B"]=>
+  int(9)
+  ["MHASH_HAVAL224"]=>
+  int(10)
+  ["MHASH_HAVAL192"]=>
+  int(11)
+  ["MHASH_HAVAL160"]=>
+  int(12)
+  ["MHASH_HAVAL128"]=>
+  int(13)
+  ["MHASH_TIGER128"]=>
+  int(14)
+  ["MHASH_TIGER160"]=>
+  int(15)
+  ["MHASH_MD4"]=>
+  int(16)
+  ["MHASH_SHA256"]=>
+  int(17)
+  ["MHASH_ADLER32"]=>
+  int(18)
+  ["MHASH_SHA224"]=>
+  int(19)
+  ["MHASH_SHA512"]=>
+  int(20)
+  ["MHASH_SHA384"]=>
+  int(21)
+  ["MHASH_WHIRLPOOL"]=>
+  int(22)
+  ["MHASH_RIPEMD128"]=>
+  int(23)
+  ["MHASH_RIPEMD256"]=>
+  int(24)
+  ["MHASH_RIPEMD320"]=>
+  int(25)
+  ["MHASH_SNEFRU256"]=>
+  int(27)
+  ["MHASH_MD2"]=>
+  int(28)
+  ["MHASH_FNV132"]=>
+  int(29)
+  ["MHASH_FNV1A32"]=>
+  int(30)
+  ["MHASH_FNV164"]=>
+  int(31)
+  ["MHASH_FNV1A64"]=>
+  int(32)
+  ["MHASH_JOAAT"]=>
+  int(33)
+  ["SODIUM_LIBRARY_VERSION"]=>
+  string(6) "1.0.16"
+  ["SODIUM_LIBRARY_MAJOR_VERSION"]=>
+  int(10)
+  ["SODIUM_LIBRARY_MINOR_VERSION"]=>
+  int(1)
+  ["SODIUM_CRYPTO_AEAD_AES256GCM_KEYBYTES"]=>
+  int(32)
+  ["SODIUM_CRYPTO_AEAD_AES256GCM_NSECBYTES"]=>
+  int(0)
+  ["SODIUM_CRYPTO_AEAD_AES256GCM_NPUBBYTES"]=>
+  int(12)
+  ["SODIUM_CRYPTO_AEAD_AES256GCM_ABYTES"]=>
+  int(16)
+  ["SODIUM_CRYPTO_AEAD_CHACHA20POLY1305_KEYBYTES"]=>
+  int(32)
+  ["SODIUM_CRYPTO_AEAD_CHACHA20POLY1305_NSECBYTES"]=>
+  int(0)
+  ["SODIUM_CRYPTO_AEAD_CHACHA20POLY1305_NPUBBYTES"]=>
+  int(8)
+  ["SODIUM_CRYPTO_AEAD_CHACHA20POLY1305_ABYTES"]=>
+  int(16)
+  ["SODIUM_CRYPTO_AEAD_CHACHA20POLY1305_IETF_KEYBYTES"]=>
+  int(32)
+  ["SODIUM_CRYPTO_AEAD_CHACHA20POLY1305_IETF_NSECBYTES"]=>
+  int(0)
+  ["SODIUM_CRYPTO_AEAD_CHACHA20POLY1305_IETF_NPUBBYTES"]=>
+  int(12)
+  ["SODIUM_CRYPTO_AEAD_CHACHA20POLY1305_IETF_ABYTES"]=>
+  int(16)
+  ["SODIUM_CRYPTO_AEAD_XCHACHA20POLY1305_IETF_KEYBYTES"]=>
+  int(32)
+  ["SODIUM_CRYPTO_AEAD_XCHACHA20POLY1305_IETF_NSECBYTES"]=>
+  int(0)
+  ["SODIUM_CRYPTO_AEAD_XCHACHA20POLY1305_IETF_NPUBBYTES"]=>
+  int(24)
+  ["SODIUM_CRYPTO_AEAD_XCHACHA20POLY1305_IETF_ABYTES"]=>
+  int(16)
+  ["SODIUM_CRYPTO_AUTH_BYTES"]=>
+  int(32)
+  ["SODIUM_CRYPTO_AUTH_KEYBYTES"]=>
+  int(32)
+  ["SODIUM_CRYPTO_BOX_SEALBYTES"]=>
+  int(48)
+  ["SODIUM_CRYPTO_BOX_SECRETKEYBYTES"]=>
+  int(32)
+  ["SODIUM_CRYPTO_BOX_PUBLICKEYBYTES"]=>
+  int(32)
+  ["SODIUM_CRYPTO_BOX_KEYPAIRBYTES"]=>
+  int(64)
+  ["SODIUM_CRYPTO_BOX_MACBYTES"]=>
+  int(16)
+  ["SODIUM_CRYPTO_BOX_NONCEBYTES"]=>
+  int(24)
+  ["SODIUM_CRYPTO_BOX_SEEDBYTES"]=>
+  int(32)
+  ["SODIUM_CRYPTO_KDF_BYTES_MIN"]=>
+  int(16)
+  ["SODIUM_CRYPTO_KDF_BYTES_MAX"]=>
+  int(64)
+  ["SODIUM_CRYPTO_KDF_CONTEXTBYTES"]=>
+  int(8)
+  ["SODIUM_CRYPTO_KDF_KEYBYTES"]=>
+  int(32)
+  ["SODIUM_CRYPTO_KX_SEEDBYTES"]=>
+  int(32)
+  ["SODIUM_CRYPTO_KX_SESSIONKEYBYTES"]=>
+  int(32)
+  ["SODIUM_CRYPTO_KX_PUBLICKEYBYTES"]=>
+  int(32)
+  ["SODIUM_CRYPTO_KX_SECRETKEYBYTES"]=>
+  int(32)
+  ["SODIUM_CRYPTO_KX_KEYPAIRBYTES"]=>
+  int(64)
+  ["SODIUM_CRYPTO_SECRETSTREAM_XCHACHA20POLY1305_ABYTES"]=>
+  int(17)
+  ["SODIUM_CRYPTO_SECRETSTREAM_XCHACHA20POLY1305_HEADERBYTES"]=>
+  int(24)
+  ["SODIUM_CRYPTO_SECRETSTREAM_XCHACHA20POLY1305_KEYBYTES"]=>
+  int(32)
+  ["SODIUM_CRYPTO_SECRETSTREAM_XCHACHA20POLY1305_MESSAGEBYTES_MAX"]=>
+  int(274877906816)
+  ["SODIUM_CRYPTO_SECRETSTREAM_XCHACHA20POLY1305_TAG_MESSAGE"]=>
+  int(0)
+  ["SODIUM_CRYPTO_SECRETSTREAM_XCHACHA20POLY1305_TAG_PUSH"]=>
+  int(1)
+  ["SODIUM_CRYPTO_SECRETSTREAM_XCHACHA20POLY1305_TAG_REKEY"]=>
+  int(2)
+  ["SODIUM_CRYPTO_SECRETSTREAM_XCHACHA20POLY1305_TAG_FINAL"]=>
+  int(3)
+  ["SODIUM_CRYPTO_GENERICHASH_BYTES"]=>
+  int(32)
+  ["SODIUM_CRYPTO_GENERICHASH_BYTES_MIN"]=>
+  int(16)
+  ["SODIUM_CRYPTO_GENERICHASH_BYTES_MAX"]=>
+  int(64)
+  ["SODIUM_CRYPTO_GENERICHASH_KEYBYTES"]=>
+  int(32)
+  ["SODIUM_CRYPTO_GENERICHASH_KEYBYTES_MIN"]=>
+  int(16)
+  ["SODIUM_CRYPTO_GENERICHASH_KEYBYTES_MAX"]=>
+  int(64)
+  ["SODIUM_CRYPTO_PWHASH_ALG_ARGON2I13"]=>
+  int(1)
+  ["SODIUM_CRYPTO_PWHASH_ALG_ARGON2ID13"]=>
+  int(2)
+  ["SODIUM_CRYPTO_PWHASH_ALG_DEFAULT"]=>
+  int(2)
+  ["SODIUM_CRYPTO_PWHASH_SALTBYTES"]=>
+  int(16)
+  ["SODIUM_CRYPTO_PWHASH_STRPREFIX"]=>
+  string(10) "$argon2id$"
+  ["SODIUM_CRYPTO_PWHASH_OPSLIMIT_INTERACTIVE"]=>
+  int(2)
+  ["SODIUM_CRYPTO_PWHASH_MEMLIMIT_INTERACTIVE"]=>
+  int(67108864)
+  ["SODIUM_CRYPTO_PWHASH_OPSLIMIT_MODERATE"]=>
+  int(3)
+  ["SODIUM_CRYPTO_PWHASH_MEMLIMIT_MODERATE"]=>
+  int(268435456)
+  ["SODIUM_CRYPTO_PWHASH_OPSLIMIT_SENSITIVE"]=>
+  int(4)
+  ["SODIUM_CRYPTO_PWHASH_MEMLIMIT_SENSITIVE"]=>
+  int(1073741824)
+  ["SODIUM_CRYPTO_PWHASH_SCRYPTSALSA208SHA256_SALTBYTES"]=>
+  int(32)
+  ["SODIUM_CRYPTO_PWHASH_SCRYPTSALSA208SHA256_STRPREFIX"]=>
+  string(3) "$7$"
+  ["SODIUM_CRYPTO_PWHASH_SCRYPTSALSA208SHA256_OPSLIMIT_INTERACTIVE"]=>
+  int(524288)
+  ["SODIUM_CRYPTO_PWHASH_SCRYPTSALSA208SHA256_MEMLIMIT_INTERACTIVE"]=>
+  int(16777216)
+  ["SODIUM_CRYPTO_PWHASH_SCRYPTSALSA208SHA256_OPSLIMIT_SENSITIVE"]=>
+  int(33554432)
+  ["SODIUM_CRYPTO_PWHASH_SCRYPTSALSA208SHA256_MEMLIMIT_SENSITIVE"]=>
+  int(1073741824)
+  ["SODIUM_CRYPTO_SCALARMULT_BYTES"]=>
+  int(32)
+  ["SODIUM_CRYPTO_SCALARMULT_SCALARBYTES"]=>
+  int(32)
+  ["SODIUM_CRYPTO_SHORTHASH_BYTES"]=>
+  int(8)
+  ["SODIUM_CRYPTO_SHORTHASH_KEYBYTES"]=>
+  int(16)
+  ["SODIUM_CRYPTO_SECRETBOX_KEYBYTES"]=>
+  int(32)
+  ["SODIUM_CRYPTO_SECRETBOX_MACBYTES"]=>
+  int(16)
+  ["SODIUM_CRYPTO_SECRETBOX_NONCEBYTES"]=>
+  int(24)
+  ["SODIUM_CRYPTO_SIGN_BYTES"]=>
+  int(64)
+  ["SODIUM_CRYPTO_SIGN_SEEDBYTES"]=>
+  int(32)
+  ["SODIUM_CRYPTO_SIGN_PUBLICKEYBYTES"]=>
+  int(32)
+  ["SODIUM_CRYPTO_SIGN_SECRETKEYBYTES"]=>
+  int(64)
+  ["SODIUM_CRYPTO_SIGN_KEYPAIRBYTES"]=>
+  int(96)
+  ["SODIUM_CRYPTO_STREAM_NONCEBYTES"]=>
+  int(24)
+  ["SODIUM_CRYPTO_STREAM_KEYBYTES"]=>
+  int(32)
+  ["SODIUM_BASE64_VARIANT_ORIGINAL"]=>
+  int(1)
+  ["SODIUM_BASE64_VARIANT_ORIGINAL_NO_PADDING"]=>
+  int(3)
+  ["SODIUM_BASE64_VARIANT_URLSAFE"]=>
+  int(5)
+  ["SODIUM_BASE64_VARIANT_URLSAFE_NO_PADDING"]=>
+  int(7)
+  ["PHP_SESSION_DISABLED"]=>
+  int(0)
+  ["PHP_SESSION_NONE"]=>
+  int(1)
+  ["PHP_SESSION_ACTIVE"]=>
+  int(2)
+  ["CONNECTION_ABORTED"]=>
+  int(1)
+  ["CONNECTION_NORMAL"]=>
+  int(0)
+  ["CONNECTION_TIMEOUT"]=>
+  int(2)
+  ["INI_USER"]=>
+  int(1)
+  ["INI_PERDIR"]=>
+  int(2)
+  ["INI_SYSTEM"]=>
+  int(4)
+  ["INI_ALL"]=>
+  int(7)
+  ["INI_SCANNER_NORMAL"]=>
+  int(0)
+  ["INI_SCANNER_RAW"]=>
+  int(1)
+  ["INI_SCANNER_TYPED"]=>
+  int(2)
+  ["PHP_URL_SCHEME"]=>
+  int(0)
+  ["PHP_URL_HOST"]=>
+  int(1)
+  ["PHP_URL_PORT"]=>
+  int(2)
+  ["PHP_URL_USER"]=>
+  int(3)
+  ["PHP_URL_PASS"]=>
+  int(4)
+  ["PHP_URL_PATH"]=>
+  int(5)
+  ["PHP_URL_QUERY"]=>
+  int(6)
+  ["PHP_URL_FRAGMENT"]=>
+  int(7)
+  ["PHP_QUERY_RFC1738"]=>
+  int(1)
+  ["PHP_QUERY_RFC3986"]=>
+  int(2)
+  ["M_E"]=>
+  float(2.718281828459)
+  ["M_LOG2E"]=>
+  float(1.442695040889)
+  ["M_LOG10E"]=>
+  float(0.43429448190325)
+  ["M_LN2"]=>
+  float(0.69314718055995)
+  ["M_LN10"]=>
+  float(2.302585092994)
+  ["M_PI"]=>
+  float(3.1415926535898)
+  ["M_PI_2"]=>
+  float(1.5707963267949)
+  ["M_PI_4"]=>
+  float(0.78539816339745)
+  ["M_1_PI"]=>
+  float(0.31830988618379)
+  ["M_2_PI"]=>
+  float(0.63661977236758)
+  ["M_SQRTPI"]=>
+  float(1.7724538509055)
+  ["M_2_SQRTPI"]=>
+  float(1.1283791670955)
+  ["M_LNPI"]=>
+  float(1.1447298858494)
+  ["M_EULER"]=>
+  float(0.57721566490153)
+  ["M_SQRT2"]=>
+  float(1.4142135623731)
+  ["M_SQRT1_2"]=>
+  float(0.70710678118655)
+  ["M_SQRT3"]=>
+  float(1.7320508075689)
+  ["INF"]=>
+  float(INF)
+  ["NAN"]=>
+  float(NAN)
+  ["PHP_ROUND_HALF_UP"]=>
+  int(1)
+  ["PHP_ROUND_HALF_DOWN"]=>
+  int(2)
+  ["PHP_ROUND_HALF_EVEN"]=>
+  int(3)
+  ["PHP_ROUND_HALF_ODD"]=>
+  int(4)
+  ["INFO_GENERAL"]=>
+  int(1)
+  ["INFO_CREDITS"]=>
+  int(2)
+  ["INFO_CONFIGURATION"]=>
+  int(4)
+  ["INFO_MODULES"]=>
+  int(8)
+  ["INFO_ENVIRONMENT"]=>
+  int(16)
+  ["INFO_VARIABLES"]=>
+  int(32)
+  ["INFO_LICENSE"]=>
+  int(64)
+  ["INFO_ALL"]=>
+  int(4294967295)
+  ["CREDITS_GROUP"]=>
+  int(1)
+  ["CREDITS_GENERAL"]=>
+  int(2)
+  ["CREDITS_SAPI"]=>
+  int(4)
+  ["CREDITS_MODULES"]=>
+  int(8)
+  ["CREDITS_DOCS"]=>
+  int(16)
+  ["CREDITS_FULLPAGE"]=>
+  int(32)
+  ["CREDITS_QA"]=>
+  int(64)
+  ["CREDITS_ALL"]=>
+  int(4294967295)
+  ["HTML_SPECIALCHARS"]=>
+  int(0)
+  ["HTML_ENTITIES"]=>
+  int(1)
+  ["ENT_COMPAT"]=>
+  int(2)
+  ["ENT_QUOTES"]=>
+  int(3)
+  ["ENT_NOQUOTES"]=>
+  int(0)
+  ["ENT_IGNORE"]=>
+  int(4)
+  ["ENT_SUBSTITUTE"]=>
+  int(8)
+  ["ENT_DISALLOWED"]=>
+  int(128)
+  ["ENT_HTML401"]=>
+  int(0)
+  ["ENT_XML1"]=>
+  int(16)
+  ["ENT_XHTML"]=>
+  int(32)
+  ["ENT_HTML5"]=>
+  int(48)
+  ["STR_PAD_LEFT"]=>
+  int(0)
+  ["STR_PAD_RIGHT"]=>
+  int(1)
+  ["STR_PAD_BOTH"]=>
+  int(2)
+  ["PATHINFO_DIRNAME"]=>
+  int(1)
+  ["PATHINFO_BASENAME"]=>
+  int(2)
+  ["PATHINFO_EXTENSION"]=>
+  int(4)
+  ["PATHINFO_FILENAME"]=>
+  int(8)
+  ["CHAR_MAX"]=>
+  int(127)
+  ["LC_CTYPE"]=>
+  int(0)
+  ["LC_NUMERIC"]=>
+  int(1)
+  ["LC_TIME"]=>
+  int(2)
+  ["LC_COLLATE"]=>
+  int(3)
+  ["LC_MONETARY"]=>
+  int(4)
+  ["LC_ALL"]=>
+  int(6)
+  ["LC_MESSAGES"]=>
+  int(5)
+  ["SEEK_SET"]=>
+  int(0)
+  ["SEEK_CUR"]=>
+  int(1)
+  ["SEEK_END"]=>
+  int(2)
+  ["LOCK_SH"]=>
+  int(1)
+  ["LOCK_EX"]=>
+  int(2)
+  ["LOCK_UN"]=>
+  int(3)
+  ["LOCK_NB"]=>
+  int(4)
+  ["STREAM_NOTIFY_CONNECT"]=>
+  int(2)
+  ["STREAM_NOTIFY_AUTH_REQUIRED"]=>
+  int(3)
+  ["STREAM_NOTIFY_AUTH_RESULT"]=>
+  int(10)
+  ["STREAM_NOTIFY_MIME_TYPE_IS"]=>
+  int(4)
+  ["STREAM_NOTIFY_FILE_SIZE_IS"]=>
+  int(5)
+  ["STREAM_NOTIFY_REDIRECTED"]=>
+  int(6)
+  ["STREAM_NOTIFY_PROGRESS"]=>
+  int(7)
+  ["STREAM_NOTIFY_FAILURE"]=>
+  int(9)
+  ["STREAM_NOTIFY_COMPLETED"]=>
+  int(8)
+  ["STREAM_NOTIFY_RESOLVE"]=>
+  int(1)
+  ["STREAM_NOTIFY_SEVERITY_INFO"]=>
+  int(0)
+  ["STREAM_NOTIFY_SEVERITY_WARN"]=>
+  int(1)
+  ["STREAM_NOTIFY_SEVERITY_ERR"]=>
+  int(2)
+  ["STREAM_FILTER_READ"]=>
+  int(1)
+  ["STREAM_FILTER_WRITE"]=>
+  int(2)
+  ["STREAM_FILTER_ALL"]=>
+  int(3)
+  ["STREAM_CLIENT_PERSISTENT"]=>
+  int(1)
+  ["STREAM_CLIENT_ASYNC_CONNECT"]=>
+  int(2)
+  ["STREAM_CLIENT_CONNECT"]=>
+  int(4)
+  ["STREAM_CRYPTO_METHOD_ANY_CLIENT"]=>
+  int(63)
+  ["STREAM_CRYPTO_METHOD_SSLv2_CLIENT"]=>
+  int(3)
+  ["STREAM_CRYPTO_METHOD_SSLv3_CLIENT"]=>
+  int(5)
+  ["STREAM_CRYPTO_METHOD_SSLv23_CLIENT"]=>
+  int(57)
+  ["STREAM_CRYPTO_METHOD_TLS_CLIENT"]=>
+  int(57)
+  ["STREAM_CRYPTO_METHOD_TLSv1_0_CLIENT"]=>
+  int(9)
+  ["STREAM_CRYPTO_METHOD_TLSv1_1_CLIENT"]=>
+  int(17)
+  ["STREAM_CRYPTO_METHOD_TLSv1_2_CLIENT"]=>
+  int(33)
+  ["STREAM_CRYPTO_METHOD_ANY_SERVER"]=>
+  int(62)
+  ["STREAM_CRYPTO_METHOD_SSLv2_SERVER"]=>
+  int(2)
+  ["STREAM_CRYPTO_METHOD_SSLv3_SERVER"]=>
+  int(4)
+  ["STREAM_CRYPTO_METHOD_SSLv23_SERVER"]=>
+  int(56)
+  ["STREAM_CRYPTO_METHOD_TLS_SERVER"]=>
+  int(56)
+  ["STREAM_CRYPTO_METHOD_TLSv1_0_SERVER"]=>
+  int(8)
+  ["STREAM_CRYPTO_METHOD_TLSv1_1_SERVER"]=>
+  int(16)
+  ["STREAM_CRYPTO_METHOD_TLSv1_2_SERVER"]=>
+  int(32)
+  ["STREAM_SHUT_RD"]=>
+  int(0)
+  ["STREAM_SHUT_WR"]=>
+  int(1)
+  ["STREAM_SHUT_RDWR"]=>
+  int(2)
+  ["STREAM_PF_INET"]=>
+  int(2)
+  ["STREAM_PF_INET6"]=>
+  int(10)
+  ["STREAM_PF_UNIX"]=>
+  int(1)
+  ["STREAM_IPPROTO_IP"]=>
+  int(0)
+  ["STREAM_IPPROTO_TCP"]=>
+  int(6)
+  ["STREAM_IPPROTO_UDP"]=>
+  int(17)
+  ["STREAM_IPPROTO_ICMP"]=>
+  int(1)
+  ["STREAM_IPPROTO_RAW"]=>
+  int(255)
+  ["STREAM_SOCK_STREAM"]=>
+  int(1)
+  ["STREAM_SOCK_DGRAM"]=>
+  int(2)
+  ["STREAM_SOCK_RAW"]=>
+  int(3)
+  ["STREAM_SOCK_SEQPACKET"]=>
+  int(5)
+  ["STREAM_SOCK_RDM"]=>
+  int(4)
+  ["STREAM_PEEK"]=>
+  int(2)
+  ["STREAM_OOB"]=>
+  int(1)
+  ["STREAM_SERVER_BIND"]=>
+  int(4)
+  ["STREAM_SERVER_LISTEN"]=>
+  int(8)
+  ["FILE_USE_INCLUDE_PATH"]=>
+  int(1)
+  ["FILE_IGNORE_NEW_LINES"]=>
+  int(2)
+  ["FILE_SKIP_EMPTY_LINES"]=>
+  int(4)
+  ["FILE_APPEND"]=>
+  int(8)
+  ["FILE_NO_DEFAULT_CONTEXT"]=>
+  int(16)
+  ["FILE_TEXT"]=>
+  int(0)
+  ["FILE_BINARY"]=>
+  int(0)
+  ["FNM_NOESCAPE"]=>
+  int(2)
+  ["FNM_PATHNAME"]=>
+  int(1)
+  ["FNM_PERIOD"]=>
+  int(4)
+  ["FNM_CASEFOLD"]=>
+  int(16)
+  ["PSFS_PASS_ON"]=>
+  int(2)
+  ["PSFS_FEED_ME"]=>
+  int(1)
+  ["PSFS_ERR_FATAL"]=>
+  int(0)
+  ["PSFS_FLAG_NORMAL"]=>
+  int(0)
+  ["PSFS_FLAG_FLUSH_INC"]=>
+  int(1)
+  ["PSFS_FLAG_FLUSH_CLOSE"]=>
+  int(2)
+  ["PASSWORD_DEFAULT"]=>
+  int(1)
+  ["PASSWORD_BCRYPT"]=>
+  int(1)
+  ["PASSWORD_ARGON2I"]=>
+  int(2)
+  ["PASSWORD_BCRYPT_DEFAULT_COST"]=>
+  int(10)
+  ["PASSWORD_ARGON2_DEFAULT_MEMORY_COST"]=>
+  int(65536)
+  ["PASSWORD_ARGON2_DEFAULT_TIME_COST"]=>
+  int(4)
+  ["PASSWORD_ARGON2_DEFAULT_THREADS"]=>
+  int(1)
+  ["MT_RAND_MT19937"]=>
+  int(0)
+  ["MT_RAND_PHP"]=>
+  int(1)
+  ["ABDAY_1"]=>
+  int(131072)
+  ["ABDAY_2"]=>
+  int(131073)
+  ["ABDAY_3"]=>
+  int(131074)
+  ["ABDAY_4"]=>
+  int(131075)
+  ["ABDAY_5"]=>
+  int(131076)
+  ["ABDAY_6"]=>
+  int(131077)
+  ["ABDAY_7"]=>
+  int(131078)
+  ["DAY_1"]=>
+  int(131079)
+  ["DAY_2"]=>
+  int(131080)
+  ["DAY_3"]=>
+  int(131081)
+  ["DAY_4"]=>
+  int(131082)
+  ["DAY_5"]=>
+  int(131083)
+  ["DAY_6"]=>
+  int(131084)
+  ["DAY_7"]=>
+  int(131085)
+  ["ABMON_1"]=>
+  int(131086)
+  ["ABMON_2"]=>
+  int(131087)
+  ["ABMON_3"]=>
+  int(131088)
+  ["ABMON_4"]=>
+  int(131089)
+  ["ABMON_5"]=>
+  int(131090)
+  ["ABMON_6"]=>
+  int(131091)
+  ["ABMON_7"]=>
+  int(131092)
+  ["ABMON_8"]=>
+  int(131093)
+  ["ABMON_9"]=>
+  int(131094)
+  ["ABMON_10"]=>
+  int(131095)
+  ["ABMON_11"]=>
+  int(131096)
+  ["ABMON_12"]=>
+  int(131097)
+  ["MON_1"]=>
+  int(131098)
+  ["MON_2"]=>
+  int(131099)
+  ["MON_3"]=>
+  int(131100)
+  ["MON_4"]=>
+  int(131101)
+  ["MON_5"]=>
+  int(131102)
+  ["MON_6"]=>
+  int(131103)
+  ["MON_7"]=>
+  int(131104)
+  ["MON_8"]=>
+  int(131105)
+  ["MON_9"]=>
+  int(131106)
+  ["MON_10"]=>
+  int(131107)
+  ["MON_11"]=>
+  int(131108)
+  ["MON_12"]=>
+  int(131109)
+  ["AM_STR"]=>
+  int(131110)
+  ["PM_STR"]=>
+  int(131111)
+  ["D_T_FMT"]=>
+  int(131112)
+  ["D_FMT"]=>
+  int(131113)
+  ["T_FMT"]=>
+  int(131114)
+  ["T_FMT_AMPM"]=>
+  int(131115)
+  ["ERA"]=>
+  int(131116)
+  ["ERA_D_T_FMT"]=>
+  int(131120)
+  ["ERA_D_FMT"]=>
+  int(131118)
+  ["ERA_T_FMT"]=>
+  int(131121)
+  ["ALT_DIGITS"]=>
+  int(131119)
+  ["CRNCYSTR"]=>
+  int(262159)
+  ["RADIXCHAR"]=>
+  int(65536)
+  ["THOUSEP"]=>
+  int(65537)
+  ["YESEXPR"]=>
+  int(327680)
+  ["NOEXPR"]=>
+  int(327681)
+  ["CODESET"]=>
+  int(14)
+  ["CRYPT_SALT_LENGTH"]=>
+  int(123)
+  ["CRYPT_STD_DES"]=>
+  int(1)
+  ["CRYPT_EXT_DES"]=>
+  int(1)
+  ["CRYPT_MD5"]=>
+  int(1)
+  ["CRYPT_BLOWFISH"]=>
+  int(1)
+  ["CRYPT_SHA256"]=>
+  int(1)
+  ["CRYPT_SHA512"]=>
+  int(1)
+  ["DIRECTORY_SEPARATOR"]=>
+  string(1) "/"
+  ["PATH_SEPARATOR"]=>
+  string(1) ":"
+  ["SCANDIR_SORT_ASCENDING"]=>
+  int(0)
+  ["SCANDIR_SORT_DESCENDING"]=>
+  int(1)
+  ["SCANDIR_SORT_NONE"]=>
+  int(2)
+  ["GLOB_BRACE"]=>
+  int(1024)
+  ["GLOB_MARK"]=>
+  int(2)
+  ["GLOB_NOSORT"]=>
+  int(4)
+  ["GLOB_NOCHECK"]=>
+  int(16)
+  ["GLOB_NOESCAPE"]=>
+  int(64)
+  ["GLOB_ERR"]=>
+  int(1)
+  ["GLOB_ONLYDIR"]=>
+  int(8192)
+  ["GLOB_AVAILABLE_FLAGS"]=>
+  int(9303)
+  ["LOG_EMERG"]=>
+  int(0)
+  ["LOG_ALERT"]=>
+  int(1)
+  ["LOG_CRIT"]=>
+  int(2)
+  ["LOG_ERR"]=>
+  int(3)
+  ["LOG_WARNING"]=>
+  int(4)
+  ["LOG_NOTICE"]=>
+  int(5)
+  ["LOG_INFO"]=>
+  int(6)
+  ["LOG_DEBUG"]=>
+  int(7)
+  ["LOG_KERN"]=>
+  int(0)
+  ["LOG_USER"]=>
+  int(8)
+  ["LOG_MAIL"]=>
+  int(16)
+  ["LOG_DAEMON"]=>
+  int(24)
+  ["LOG_AUTH"]=>
+  int(32)
+  ["LOG_SYSLOG"]=>
+  int(40)
+  ["LOG_LPR"]=>
+  int(48)
+  ["LOG_NEWS"]=>
+  int(56)
+  ["LOG_UUCP"]=>
+  int(64)
+  ["LOG_CRON"]=>
+  int(72)
+  ["LOG_AUTHPRIV"]=>
+  int(80)
+  ["LOG_LOCAL0"]=>
+  int(128)
+  ["LOG_LOCAL1"]=>
+  int(136)
+  ["LOG_LOCAL2"]=>
+  int(144)
+  ["LOG_LOCAL3"]=>
+  int(152)
+  ["LOG_LOCAL4"]=>
+  int(160)
+  ["LOG_LOCAL5"]=>
+  int(168)
+  ["LOG_LOCAL6"]=>
+  int(176)
+  ["LOG_LOCAL7"]=>
+  int(184)
+  ["LOG_PID"]=>
+  int(1)
+  ["LOG_CONS"]=>
+  int(2)
+  ["LOG_ODELAY"]=>
+  int(4)
+  ["LOG_NDELAY"]=>
+  int(8)
+  ["LOG_NOWAIT"]=>
+  int(16)
+  ["LOG_PERROR"]=>
+  int(32)
+  ["EXTR_OVERWRITE"]=>
+  int(0)
+  ["EXTR_SKIP"]=>
+  int(1)
+  ["EXTR_PREFIX_SAME"]=>
+  int(2)
+  ["EXTR_PREFIX_ALL"]=>
+  int(3)
+  ["EXTR_PREFIX_INVALID"]=>
+  int(4)
+  ["EXTR_PREFIX_IF_EXISTS"]=>
+  int(5)
+  ["EXTR_IF_EXISTS"]=>
+  int(6)
+  ["EXTR_REFS"]=>
+  int(256)
+  ["SORT_ASC"]=>
+  int(4)
+  ["SORT_DESC"]=>
+  int(3)
+  ["SORT_REGULAR"]=>
+  int(0)
+  ["SORT_NUMERIC"]=>
+  int(1)
+  ["SORT_STRING"]=>
+  int(2)
+  ["SORT_LOCALE_STRING"]=>
+  int(5)
+  ["SORT_NATURAL"]=>
+  int(6)
+  ["SORT_FLAG_CASE"]=>
+  int(8)
+  ["CASE_LOWER"]=>
+  int(0)
+  ["CASE_UPPER"]=>
+  int(1)
+  ["COUNT_NORMAL"]=>
+  int(0)
+  ["COUNT_RECURSIVE"]=>
+  int(1)
+  ["ARRAY_FILTER_USE_BOTH"]=>
+  int(1)
+  ["ARRAY_FILTER_USE_KEY"]=>
+  int(2)
+  ["ASSERT_ACTIVE"]=>
+  int(1)
+  ["ASSERT_CALLBACK"]=>
+  int(2)
+  ["ASSERT_BAIL"]=>
+  int(3)
+  ["ASSERT_WARNING"]=>
+  int(4)
+  ["ASSERT_QUIET_EVAL"]=>
+  int(5)
+  ["ASSERT_EXCEPTION"]=>
+  int(6)
+  ["STREAM_USE_PATH"]=>
+  int(1)
+  ["STREAM_IGNORE_URL"]=>
+  int(2)
+  ["STREAM_REPORT_ERRORS"]=>
+  int(8)
+  ["STREAM_MUST_SEEK"]=>
+  int(16)
+  ["STREAM_URL_STAT_LINK"]=>
+  int(1)
+  ["STREAM_URL_STAT_QUIET"]=>
+  int(2)
+  ["STREAM_MKDIR_RECURSIVE"]=>
+  int(1)
+  ["STREAM_IS_URL"]=>
+  int(1)
+  ["STREAM_OPTION_BLOCKING"]=>
+  int(1)
+  ["STREAM_OPTION_READ_TIMEOUT"]=>
+  int(4)
+  ["STREAM_OPTION_READ_BUFFER"]=>
+  int(2)
+  ["STREAM_OPTION_WRITE_BUFFER"]=>
+  int(3)
+  ["STREAM_BUFFER_NONE"]=>
+  int(0)
+  ["STREAM_BUFFER_LINE"]=>
+  int(1)
+  ["STREAM_BUFFER_FULL"]=>
+  int(2)
+  ["STREAM_CAST_AS_STREAM"]=>
+  int(0)
+  ["STREAM_CAST_FOR_SELECT"]=>
+  int(3)
+  ["STREAM_META_TOUCH"]=>
+  int(1)
+  ["STREAM_META_OWNER"]=>
+  int(3)
+  ["STREAM_META_OWNER_NAME"]=>
+  int(2)
+  ["STREAM_META_GROUP"]=>
+  int(5)
+  ["STREAM_META_GROUP_NAME"]=>
+  int(4)
+  ["STREAM_META_ACCESS"]=>
+  int(6)
+  ["IMAGETYPE_GIF"]=>
+  int(1)
+  ["IMAGETYPE_JPEG"]=>
+  int(2)
+  ["IMAGETYPE_PNG"]=>
+  int(3)
+  ["IMAGETYPE_SWF"]=>
+  int(4)
+  ["IMAGETYPE_PSD"]=>
+  int(5)
+  ["IMAGETYPE_BMP"]=>
+  int(6)
+  ["IMAGETYPE_TIFF_II"]=>
+  int(7)
+  ["IMAGETYPE_TIFF_MM"]=>
+  int(8)
+  ["IMAGETYPE_JPC"]=>
+  int(9)
+  ["IMAGETYPE_JP2"]=>
+  int(10)
+  ["IMAGETYPE_JPX"]=>
+  int(11)
+  ["IMAGETYPE_JB2"]=>
+  int(12)
+  ["IMAGETYPE_SWC"]=>
+  int(13)
+  ["IMAGETYPE_IFF"]=>
+  int(14)
+  ["IMAGETYPE_WBMP"]=>
+  int(15)
+  ["IMAGETYPE_JPEG2000"]=>
+  int(9)
+  ["IMAGETYPE_XBM"]=>
+  int(16)
+  ["IMAGETYPE_ICO"]=>
+  int(17)
+  ["IMAGETYPE_WEBP"]=>
+  int(18)
+  ["IMAGETYPE_UNKNOWN"]=>
+  int(0)
+  ["IMAGETYPE_COUNT"]=>
+  int(19)
+  ["DNS_A"]=>
+  int(1)
+  ["DNS_NS"]=>
+  int(2)
+  ["DNS_CNAME"]=>
+  int(16)
+  ["DNS_SOA"]=>
+  int(32)
+  ["DNS_PTR"]=>
+  int(2048)
+  ["DNS_HINFO"]=>
+  int(4096)
+  ["DNS_CAA"]=>
+  int(8192)
+  ["DNS_MX"]=>
+  int(16384)
+  ["DNS_TXT"]=>
+  int(32768)
+  ["DNS_SRV"]=>
+  int(33554432)
+  ["DNS_NAPTR"]=>
+  int(67108864)
+  ["DNS_AAAA"]=>
+  int(134217728)
+  ["DNS_A6"]=>
+  int(16777216)
+  ["DNS_ANY"]=>
+  int(268435456)
+  ["DNS_ALL"]=>
+  int(251721779)
+  ["CAL_GREGORIAN"]=>
+  int(0)
+  ["CAL_JULIAN"]=>
+  int(1)
+  ["CAL_JEWISH"]=>
+  int(2)
+  ["CAL_FRENCH"]=>
+  int(3)
+  ["CAL_NUM_CALS"]=>
+  int(4)
+  ["CAL_DOW_DAYNO"]=>
+  int(0)
+  ["CAL_DOW_SHORT"]=>
+  int(2)
+  ["CAL_DOW_LONG"]=>
+  int(1)
+  ["CAL_MONTH_GREGORIAN_SHORT"]=>
+  int(0)
+  ["CAL_MONTH_GREGORIAN_LONG"]=>
+  int(1)
+  ["CAL_MONTH_JULIAN_SHORT"]=>
+  int(2)
+  ["CAL_MONTH_JULIAN_LONG"]=>
+  int(3)
+  ["CAL_MONTH_JEWISH"]=>
+  int(4)
+  ["CAL_MONTH_FRENCH"]=>
+  int(5)
+  ["CAL_EASTER_DEFAULT"]=>
+  int(0)
+  ["CAL_EASTER_ROMAN"]=>
+  int(1)
+  ["CAL_EASTER_ALWAYS_GREGORIAN"]=>
+  int(2)
+  ["CAL_EASTER_ALWAYS_JULIAN"]=>
+  int(3)
+  ["CAL_JEWISH_ADD_ALAFIM_GERESH"]=>
+  int(2)
+  ["CAL_JEWISH_ADD_ALAFIM"]=>
+  int(4)
+  ["CAL_JEWISH_ADD_GERESHAYIM"]=>
+  int(8)
+  ["EXIF_USE_MBSTRING"]=>
+  int(0)
+  ["FILEINFO_NONE"]=>
+  int(0)
+  ["FILEINFO_SYMLINK"]=>
+  int(2)
+  ["FILEINFO_MIME"]=>
+  int(1040)
+  ["FILEINFO_MIME_TYPE"]=>
+  int(16)
+  ["FILEINFO_MIME_ENCODING"]=>
+  int(1024)
+  ["FILEINFO_DEVICES"]=>
+  int(8)
+  ["FILEINFO_CONTINUE"]=>
+  int(32)
+  ["FILEINFO_PRESERVE_ATIME"]=>
+  int(128)
+  ["FILEINFO_RAW"]=>
+  int(256)
+  ["FILEINFO_EXTENSION"]=>
+  int(16777216)
+  ["FTP_ASCII"]=>
+  int(1)
+  ["FTP_TEXT"]=>
+  int(1)
+  ["FTP_BINARY"]=>
+  int(2)
+  ["FTP_IMAGE"]=>
+  int(2)
+  ["FTP_AUTORESUME"]=>
+  int(-1)
+  ["FTP_TIMEOUT_SEC"]=>
+  int(0)
+  ["FTP_AUTOSEEK"]=>
+  int(1)
+  ["FTP_USEPASVADDRESS"]=>
+  int(2)
+  ["FTP_FAILED"]=>
+  int(0)
+  ["FTP_FINISHED"]=>
+  int(1)
+  ["FTP_MOREDATA"]=>
+  int(2)
+  ["ICONV_IMPL"]=>
+  string(5) "glibc"
+  ["ICONV_VERSION"]=>
+  string(4) "2.27"
+  ["ICONV_MIME_DECODE_STRICT"]=>
+  int(1)
+  ["ICONV_MIME_DECODE_CONTINUE_ON_ERROR"]=>
+  int(2)
+  ["JSON_HEX_TAG"]=>
+  int(1)
+  ["JSON_HEX_AMP"]=>
+  int(2)
+  ["JSON_HEX_APOS"]=>
+  int(4)
+  ["JSON_HEX_QUOT"]=>
+  int(8)
+  ["JSON_FORCE_OBJECT"]=>
+  int(16)
+  ["JSON_NUMERIC_CHECK"]=>
+  int(32)
+  ["JSON_UNESCAPED_SLASHES"]=>
+  int(64)
+  ["JSON_PRETTY_PRINT"]=>
+  int(128)
+  ["JSON_UNESCAPED_UNICODE"]=>
+  int(256)
+  ["JSON_PARTIAL_OUTPUT_ON_ERROR"]=>
+  int(512)
+  ["JSON_PRESERVE_ZERO_FRACTION"]=>
+  int(1024)
+  ["JSON_UNESCAPED_LINE_TERMINATORS"]=>
+  int(2048)
+  ["JSON_OBJECT_AS_ARRAY"]=>
+  int(1)
+  ["JSON_BIGINT_AS_STRING"]=>
+  int(2)
+  ["JSON_INVALID_UTF8_IGNORE"]=>
+  int(1048576)
+  ["JSON_INVALID_UTF8_SUBSTITUTE"]=>
+  int(2097152)
+  ["JSON_ERROR_NONE"]=>
+  int(0)
+  ["JSON_ERROR_DEPTH"]=>
+  int(1)
+  ["JSON_ERROR_STATE_MISMATCH"]=>
+  int(2)
+  ["JSON_ERROR_CTRL_CHAR"]=>
+  int(3)
+  ["JSON_ERROR_SYNTAX"]=>
+  int(4)
+  ["JSON_ERROR_UTF8"]=>
+  int(5)
+  ["JSON_ERROR_RECURSION"]=>
+  int(6)
+  ["JSON_ERROR_INF_OR_NAN"]=>
+  int(7)
+  ["JSON_ERROR_UNSUPPORTED_TYPE"]=>
+  int(8)
+  ["JSON_ERROR_INVALID_PROPERTY_NAME"]=>
+  int(9)
+  ["JSON_ERROR_UTF16"]=>
+  int(10)
+  ["POSIX_F_OK"]=>
+  int(0)
+  ["POSIX_X_OK"]=>
+  int(1)
+  ["POSIX_W_OK"]=>
+  int(2)
+  ["POSIX_R_OK"]=>
+  int(4)
+  ["POSIX_S_IFREG"]=>
+  int(32768)
+  ["POSIX_S_IFCHR"]=>
+  int(8192)
+  ["POSIX_S_IFBLK"]=>
+  int(24576)
+  ["POSIX_S_IFIFO"]=>
+  int(4096)
+  ["POSIX_S_IFSOCK"]=>
+  int(49152)
+  ["POSIX_RLIMIT_AS"]=>
+  int(9)
+  ["POSIX_RLIMIT_CORE"]=>
+  int(4)
+  ["POSIX_RLIMIT_CPU"]=>
+  int(0)
+  ["POSIX_RLIMIT_DATA"]=>
+  int(2)
+  ["POSIX_RLIMIT_FSIZE"]=>
+  int(1)
+  ["POSIX_RLIMIT_LOCKS"]=>
+  int(10)
+  ["POSIX_RLIMIT_MEMLOCK"]=>
+  int(8)
+  ["POSIX_RLIMIT_MSGQUEUE"]=>
+  int(12)
+  ["POSIX_RLIMIT_NICE"]=>
+  int(13)
+  ["POSIX_RLIMIT_NOFILE"]=>
+  int(7)
+  ["POSIX_RLIMIT_NPROC"]=>
+  int(6)
+  ["POSIX_RLIMIT_RSS"]=>
+  int(5)
+  ["POSIX_RLIMIT_RTPRIO"]=>
+  int(14)
+  ["POSIX_RLIMIT_RTTIME"]=>
+  int(15)
+  ["POSIX_RLIMIT_SIGPENDING"]=>
+  int(11)
+  ["POSIX_RLIMIT_STACK"]=>
+  int(3)
+  ["POSIX_RLIMIT_INFINITY"]=>
+  int(-1)
+  ["READLINE_LIB"]=>
+  string(7) "libedit"
+  ["AF_UNIX"]=>
+  int(1)
+  ["AF_INET"]=>
+  int(2)
+  ["AF_INET6"]=>
+  int(10)
+  ["SOCK_STREAM"]=>
+  int(1)
+  ["SOCK_DGRAM"]=>
+  int(2)
+  ["SOCK_RAW"]=>
+  int(3)
+  ["SOCK_SEQPACKET"]=>
+  int(5)
+  ["SOCK_RDM"]=>
+  int(4)
+  ["MSG_OOB"]=>
+  int(1)
+  ["MSG_WAITALL"]=>
+  int(256)
+  ["MSG_CTRUNC"]=>
+  int(8)
+  ["MSG_TRUNC"]=>
+  int(32)
+  ["MSG_PEEK"]=>
+  int(2)
+  ["MSG_DONTROUTE"]=>
+  int(4)
+  ["MSG_EOR"]=>
+  int(128)
+  ["MSG_EOF"]=>
+  int(512)
+  ["MSG_CONFIRM"]=>
+  int(2048)
+  ["MSG_ERRQUEUE"]=>
+  int(8192)
+  ["MSG_NOSIGNAL"]=>
+  int(16384)
+  ["MSG_DONTWAIT"]=>
+  int(64)
+  ["MSG_MORE"]=>
+  int(32768)
+  ["MSG_WAITFORONE"]=>
+  int(65536)
+  ["MSG_CMSG_CLOEXEC"]=>
+  int(1073741824)
+  ["SO_DEBUG"]=>
+  int(1)
+  ["SO_REUSEADDR"]=>
+  int(2)
+  ["SO_REUSEPORT"]=>
+  int(15)
+  ["SO_KEEPALIVE"]=>
+  int(9)
+  ["SO_DONTROUTE"]=>
+  int(5)
+  ["SO_LINGER"]=>
+  int(13)
+  ["SO_BROADCAST"]=>
+  int(6)
+  ["SO_OOBINLINE"]=>
+  int(10)
+  ["SO_SNDBUF"]=>
+  int(7)
+  ["SO_RCVBUF"]=>
+  int(8)
+  ["SO_SNDLOWAT"]=>
+  int(19)
+  ["SO_RCVLOWAT"]=>
+  int(18)
+  ["SO_SNDTIMEO"]=>
+  int(21)
+  ["SO_RCVTIMEO"]=>
+  int(20)
+  ["SO_TYPE"]=>
+  int(3)
+  ["SO_ERROR"]=>
+  int(4)
+  ["SO_BINDTODEVICE"]=>
+  int(25)
+  ["SOL_SOCKET"]=>
+  int(1)
+  ["SOMAXCONN"]=>
+  int(128)
+  ["TCP_NODELAY"]=>
+  int(1)
+  ["PHP_NORMAL_READ"]=>
+  int(1)
+  ["PHP_BINARY_READ"]=>
+  int(2)
+  ["MCAST_JOIN_GROUP"]=>
+  int(42)
+  ["MCAST_LEAVE_GROUP"]=>
+  int(45)
+  ["MCAST_BLOCK_SOURCE"]=>
+  int(43)
+  ["MCAST_UNBLOCK_SOURCE"]=>
+  int(44)
+  ["MCAST_JOIN_SOURCE_GROUP"]=>
+  int(46)
+  ["MCAST_LEAVE_SOURCE_GROUP"]=>
+  int(47)
+  ["IP_MULTICAST_IF"]=>
+  int(32)
+  ["IP_MULTICAST_TTL"]=>
+  int(33)
+  ["IP_MULTICAST_LOOP"]=>
+  int(34)
+  ["IPV6_MULTICAST_IF"]=>
+  int(17)
+  ["IPV6_MULTICAST_HOPS"]=>
+  int(18)
+  ["IPV6_MULTICAST_LOOP"]=>
+  int(19)
+  ["IPV6_V6ONLY"]=>
+  int(26)
+  ["SOCKET_EPERM"]=>
+  int(1)
+  ["SOCKET_ENOENT"]=>
+  int(2)
+  ["SOCKET_EINTR"]=>
+  int(4)
+  ["SOCKET_EIO"]=>
+  int(5)
+  ["SOCKET_ENXIO"]=>
+  int(6)
+  ["SOCKET_E2BIG"]=>
+  int(7)
+  ["SOCKET_EBADF"]=>
+  int(9)
+  ["SOCKET_EAGAIN"]=>
+  int(11)
+  ["SOCKET_ENOMEM"]=>
+  int(12)
+  ["SOCKET_EACCES"]=>
+  int(13)
+  ["SOCKET_EFAULT"]=>
+  int(14)
+  ["SOCKET_ENOTBLK"]=>
+  int(15)
+  ["SOCKET_EBUSY"]=>
+  int(16)
+  ["SOCKET_EEXIST"]=>
+  int(17)
+  ["SOCKET_EXDEV"]=>
+  int(18)
+  ["SOCKET_ENODEV"]=>
+  int(19)
+  ["SOCKET_ENOTDIR"]=>
+  int(20)
+  ["SOCKET_EISDIR"]=>
+  int(21)
+  ["SOCKET_EINVAL"]=>
+  int(22)
+  ["SOCKET_ENFILE"]=>
+  int(23)
+  ["SOCKET_EMFILE"]=>
+  int(24)
+  ["SOCKET_ENOTTY"]=>
+  int(25)
+  ["SOCKET_ENOSPC"]=>
+  int(28)
+  ["SOCKET_ESPIPE"]=>
+  int(29)
+  ["SOCKET_EROFS"]=>
+  int(30)
+  ["SOCKET_EMLINK"]=>
+  int(31)
+  ["SOCKET_EPIPE"]=>
+  int(32)
+  ["SOCKET_ENAMETOOLONG"]=>
+  int(36)
+  ["SOCKET_ENOLCK"]=>
+  int(37)
+  ["SOCKET_ENOSYS"]=>
+  int(38)
+  ["SOCKET_ENOTEMPTY"]=>
+  int(39)
+  ["SOCKET_ELOOP"]=>
+  int(40)
+  ["SOCKET_EWOULDBLOCK"]=>
+  int(11)
+  ["SOCKET_ENOMSG"]=>
+  int(42)
+  ["SOCKET_EIDRM"]=>
+  int(43)
+  ["SOCKET_ECHRNG"]=>
+  int(44)
+  ["SOCKET_EL2NSYNC"]=>
+  int(45)
+  ["SOCKET_EL3HLT"]=>
+  int(46)
+  ["SOCKET_EL3RST"]=>
+  int(47)
+  ["SOCKET_ELNRNG"]=>
+  int(48)
+  ["SOCKET_EUNATCH"]=>
+  int(49)
+  ["SOCKET_ENOCSI"]=>
+  int(50)
+  ["SOCKET_EL2HLT"]=>
+  int(51)
+  ["SOCKET_EBADE"]=>
+  int(52)
+  ["SOCKET_EBADR"]=>
+  int(53)
+  ["SOCKET_EXFULL"]=>
+  int(54)
+  ["SOCKET_ENOANO"]=>
+  int(55)
+  ["SOCKET_EBADRQC"]=>
+  int(56)
+  ["SOCKET_EBADSLT"]=>
+  int(57)
+  ["SOCKET_ENOSTR"]=>
+  int(60)
+  ["SOCKET_ENODATA"]=>
+  int(61)
+  ["SOCKET_ETIME"]=>
+  int(62)
+  ["SOCKET_ENOSR"]=>
+  int(63)
+  ["SOCKET_ENONET"]=>
+  int(64)
+  ["SOCKET_EREMOTE"]=>
+  int(66)
+  ["SOCKET_ENOLINK"]=>
+  int(67)
+  ["SOCKET_EADV"]=>
+  int(68)
+  ["SOCKET_ESRMNT"]=>
+  int(69)
+  ["SOCKET_ECOMM"]=>
+  int(70)
+  ["SOCKET_EPROTO"]=>
+  int(71)
+  ["SOCKET_EMULTIHOP"]=>
+  int(72)
+  ["SOCKET_EBADMSG"]=>
+  int(74)
+  ["SOCKET_ENOTUNIQ"]=>
+  int(76)
+  ["SOCKET_EBADFD"]=>
+  int(77)
+  ["SOCKET_EREMCHG"]=>
+  int(78)
+  ["SOCKET_ERESTART"]=>
+  int(85)
+  ["SOCKET_ESTRPIPE"]=>
+  int(86)
+  ["SOCKET_EUSERS"]=>
+  int(87)
+  ["SOCKET_ENOTSOCK"]=>
+  int(88)
+  ["SOCKET_EDESTADDRREQ"]=>
+  int(89)
+  ["SOCKET_EMSGSIZE"]=>
+  int(90)
+  ["SOCKET_EPROTOTYPE"]=>
+  int(91)
+  ["SOCKET_ENOPROTOOPT"]=>
+  int(92)
+  ["SOCKET_EPROTONOSUPPORT"]=>
+  int(93)
+  ["SOCKET_ESOCKTNOSUPPORT"]=>
+  int(94)
+  ["SOCKET_EOPNOTSUPP"]=>
+  int(95)
+  ["SOCKET_EPFNOSUPPORT"]=>
+  int(96)
+  ["SOCKET_EAFNOSUPPORT"]=>
+  int(97)
+  ["SOCKET_EADDRINUSE"]=>
+  int(98)
+  ["SOCKET_EADDRNOTAVAIL"]=>
+  int(99)
+  ["SOCKET_ENETDOWN"]=>
+  int(100)
+  ["SOCKET_ENETUNREACH"]=>
+  int(101)
+  ["SOCKET_ENETRESET"]=>
+  int(102)
+  ["SOCKET_ECONNABORTED"]=>
+  int(103)
+  ["SOCKET_ECONNRESET"]=>
+  int(104)
+  ["SOCKET_ENOBUFS"]=>
+  int(105)
+  ["SOCKET_EISCONN"]=>
+  int(106)
+  ["SOCKET_ENOTCONN"]=>
+  int(107)
+  ["SOCKET_ESHUTDOWN"]=>
+  int(108)
+  ["SOCKET_ETOOMANYREFS"]=>
+  int(109)
+  ["SOCKET_ETIMEDOUT"]=>
+  int(110)
+  ["SOCKET_ECONNREFUSED"]=>
+  int(111)
+  ["SOCKET_EHOSTDOWN"]=>
+  int(112)
+  ["SOCKET_EHOSTUNREACH"]=>
+  int(113)
+  ["SOCKET_EALREADY"]=>
+  int(114)
+  ["SOCKET_EINPROGRESS"]=>
+  int(115)
+  ["SOCKET_EISNAM"]=>
+  int(120)
+  ["SOCKET_EREMOTEIO"]=>
+  int(121)
+  ["SOCKET_EDQUOT"]=>
+  int(122)
+  ["SOCKET_ENOMEDIUM"]=>
+  int(123)
+  ["SOCKET_EMEDIUMTYPE"]=>
+  int(124)
+  ["IPPROTO_IP"]=>
+  int(0)
+  ["IPPROTO_IPV6"]=>
+  int(41)
+  ["SOL_TCP"]=>
+  int(6)
+  ["SOL_UDP"]=>
+  int(17)
+  ["IPV6_UNICAST_HOPS"]=>
+  int(16)
+  ["AI_PASSIVE"]=>
+  int(1)
+  ["AI_CANONNAME"]=>
+  int(2)
+  ["AI_NUMERICHOST"]=>
+  int(4)
+  ["AI_V4MAPPED"]=>
+  int(8)
+  ["AI_ALL"]=>
+  int(16)
+  ["AI_ADDRCONFIG"]=>
+  int(32)
+  ["AI_IDN"]=>
+  int(64)
+  ["AI_CANONIDN"]=>
+  int(128)
+  ["AI_IDN_ALLOW_UNASSIGNED"]=>
+  int(256)
+  ["AI_IDN_USE_STD3_ASCII_RULES"]=>
+  int(512)
+  ["AI_NUMERICSERV"]=>
+  int(1024)
+  ["IPV6_RECVPKTINFO"]=>
+  int(49)
+  ["IPV6_PKTINFO"]=>
+  int(50)
+  ["IPV6_RECVHOPLIMIT"]=>
+  int(51)
+  ["IPV6_HOPLIMIT"]=>
+  int(52)
+  ["IPV6_RECVTCLASS"]=>
+  int(66)
+  ["IPV6_TCLASS"]=>
+  int(67)
+  ["SCM_RIGHTS"]=>
+  int(1)
+  ["SCM_CREDENTIALS"]=>
+  int(2)
+  ["SO_PASSCRED"]=>
+  int(16)
+  ["MSG_IPC_NOWAIT"]=>
+  int(1)
+  ["MSG_EAGAIN"]=>
+  int(11)
+  ["MSG_ENOMSG"]=>
+  int(42)
+  ["MSG_NOERROR"]=>
+  int(2)
+  ["MSG_EXCEPT"]=>
+  int(4)
+  ["T_REQUIRE_ONCE"]=>
+  int(262)
+  ["T_REQUIRE"]=>
+  int(261)
+  ["T_EVAL"]=>
+  int(260)
+  ["T_INCLUDE_ONCE"]=>
+  int(259)
+  ["T_INCLUDE"]=>
+  int(258)
+  ["T_LOGICAL_OR"]=>
+  int(263)
+  ["T_LOGICAL_XOR"]=>
+  int(264)
+  ["T_LOGICAL_AND"]=>
+  int(265)
+  ["T_PRINT"]=>
+  int(266)
+  ["T_YIELD"]=>
+  int(267)
+  ["T_DOUBLE_ARROW"]=>
+  int(268)
+  ["T_YIELD_FROM"]=>
+  int(269)
+  ["T_POW_EQUAL"]=>
+  int(281)
+  ["T_SR_EQUAL"]=>
+  int(280)
+  ["T_SL_EQUAL"]=>
+  int(279)
+  ["T_XOR_EQUAL"]=>
+  int(278)
+  ["T_OR_EQUAL"]=>
+  int(277)
+  ["T_AND_EQUAL"]=>
+  int(276)
+  ["T_MOD_EQUAL"]=>
+  int(275)
+  ["T_CONCAT_EQUAL"]=>
+  int(274)
+  ["T_DIV_EQUAL"]=>
+  int(273)
+  ["T_MUL_EQUAL"]=>
+  int(272)
+  ["T_MINUS_EQUAL"]=>
+  int(271)
+  ["T_PLUS_EQUAL"]=>
+  int(270)
+  ["T_COALESCE"]=>
+  int(282)
+  ["T_BOOLEAN_OR"]=>
+  int(283)
+  ["T_BOOLEAN_AND"]=>
+  int(284)
+  ["T_SPACESHIP"]=>
+  int(289)
+  ["T_IS_NOT_IDENTICAL"]=>
+  int(288)
+  ["T_IS_IDENTICAL"]=>
+  int(287)
+  ["T_IS_NOT_EQUAL"]=>
+  int(286)
+  ["T_IS_EQUAL"]=>
+  int(285)
+  ["T_IS_GREATER_OR_EQUAL"]=>
+  int(291)
+  ["T_IS_SMALLER_OR_EQUAL"]=>
+  int(290)
+  ["T_SR"]=>
+  int(293)
+  ["T_SL"]=>
+  int(292)
+  ["T_INSTANCEOF"]=>
+  int(294)
+  ["T_UNSET_CAST"]=>
+  int(303)
+  ["T_BOOL_CAST"]=>
+  int(302)
+  ["T_OBJECT_CAST"]=>
+  int(301)
+  ["T_ARRAY_CAST"]=>
+  int(300)
+  ["T_STRING_CAST"]=>
+  int(299)
+  ["T_DOUBLE_CAST"]=>
+  int(298)
+  ["T_INT_CAST"]=>
+  int(297)
+  ["T_DEC"]=>
+  int(296)
+  ["T_INC"]=>
+  int(295)
+  ["T_POW"]=>
+  int(304)
+  ["T_CLONE"]=>
+  int(306)
+  ["T_NEW"]=>
+  int(305)
+  ["T_ELSEIF"]=>
+  int(308)
+  ["T_ELSE"]=>
+  int(309)
+  ["T_ENDIF"]=>
+  int(310)
+  ["T_PUBLIC"]=>
+  int(316)
+  ["T_PROTECTED"]=>
+  int(315)
+  ["T_PRIVATE"]=>
+  int(314)
+  ["T_FINAL"]=>
+  int(313)
+  ["T_ABSTRACT"]=>
+  int(312)
+  ["T_STATIC"]=>
+  int(311)
+  ["T_LNUMBER"]=>
+  int(317)
+  ["T_DNUMBER"]=>
+  int(318)
+  ["T_STRING"]=>
+  int(319)
+  ["T_VARIABLE"]=>
+  int(320)
+  ["T_INLINE_HTML"]=>
+  int(321)
+  ["T_ENCAPSED_AND_WHITESPACE"]=>
+  int(322)
+  ["T_CONSTANT_ENCAPSED_STRING"]=>
+  int(323)
+  ["T_STRING_VARNAME"]=>
+  int(324)
+  ["T_NUM_STRING"]=>
+  int(325)
+  ["T_EXIT"]=>
+  int(326)
+  ["T_IF"]=>
+  int(327)
+  ["T_ECHO"]=>
+  int(328)
+  ["T_DO"]=>
+  int(329)
+  ["T_WHILE"]=>
+  int(330)
+  ["T_ENDWHILE"]=>
+  int(331)
+  ["T_FOR"]=>
+  int(332)
+  ["T_ENDFOR"]=>
+  int(333)
+  ["T_FOREACH"]=>
+  int(334)
+  ["T_ENDFOREACH"]=>
+  int(335)
+  ["T_DECLARE"]=>
+  int(336)
+  ["T_ENDDECLARE"]=>
+  int(337)
+  ["T_AS"]=>
+  int(338)
+  ["T_SWITCH"]=>
+  int(339)
+  ["T_ENDSWITCH"]=>
+  int(340)
+  ["T_CASE"]=>
+  int(341)
+  ["T_DEFAULT"]=>
+  int(342)
+  ["T_BREAK"]=>
+  int(343)
+  ["T_CONTINUE"]=>
+  int(344)
+  ["T_GOTO"]=>
+  int(345)
+  ["T_FUNCTION"]=>
+  int(346)
+  ["T_CONST"]=>
+  int(347)
+  ["T_RETURN"]=>
+  int(348)
+  ["T_TRY"]=>
+  int(349)
+  ["T_CATCH"]=>
+  int(350)
+  ["T_FINALLY"]=>
+  int(351)
+  ["T_THROW"]=>
+  int(352)
+  ["T_USE"]=>
+  int(353)
+  ["T_INSTEADOF"]=>
+  int(354)
+  ["T_GLOBAL"]=>
+  int(355)
+  ["T_VAR"]=>
+  int(356)
+  ["T_UNSET"]=>
+  int(357)
+  ["T_ISSET"]=>
+  int(358)
+  ["T_EMPTY"]=>
+  int(359)
+  ["T_HALT_COMPILER"]=>
+  int(360)
+  ["T_CLASS"]=>
+  int(361)
+  ["T_TRAIT"]=>
+  int(362)
+  ["T_INTERFACE"]=>
+  int(363)
+  ["T_EXTENDS"]=>
+  int(364)
+  ["T_IMPLEMENTS"]=>
+  int(365)
+  ["T_OBJECT_OPERATOR"]=>
+  int(366)
+  ["T_LIST"]=>
+  int(367)
+  ["T_ARRAY"]=>
+  int(368)
+  ["T_CALLABLE"]=>
+  int(369)
+  ["T_LINE"]=>
+  int(370)
+  ["T_FILE"]=>
+  int(371)
+  ["T_DIR"]=>
+  int(372)
+  ["T_CLASS_C"]=>
+  int(373)
+  ["T_TRAIT_C"]=>
+  int(374)
+  ["T_METHOD_C"]=>
+  int(375)
+  ["T_FUNC_C"]=>
+  int(376)
+  ["T_COMMENT"]=>
+  int(377)
+  ["T_DOC_COMMENT"]=>
+  int(378)
+  ["T_OPEN_TAG"]=>
+  int(379)
+  ["T_OPEN_TAG_WITH_ECHO"]=>
+  int(380)
+  ["T_CLOSE_TAG"]=>
+  int(381)
+  ["T_WHITESPACE"]=>
+  int(382)
+  ["T_START_HEREDOC"]=>
+  int(383)
+  ["T_END_HEREDOC"]=>
+  int(384)
+  ["T_DOLLAR_OPEN_CURLY_BRACES"]=>
+  int(385)
+  ["T_CURLY_OPEN"]=>
+  int(386)
+  ["T_PAAMAYIM_NEKUDOTAYIM"]=>
+  int(387)
+  ["T_NAMESPACE"]=>
+  int(388)
+  ["T_NS_C"]=>
+  int(389)
+  ["T_NS_SEPARATOR"]=>
+  int(390)
+  ["T_ELLIPSIS"]=>
+  int(391)
+  ["T_DOUBLE_COLON"]=>
+  int(387)
+  ["TOKEN_PARSE"]=>
+  int(1)
+}
+
+[+] Requesting getdate
+<!-- Let's pray for new year lucky things <3 -->
+
+Array
+
+
+[+] Requesting getdate as array
+<!-- Let's pray for new year lucky things <3 -->
+
+array(11) {
+  ["seconds"]=>
+  int(13)
+  ["minutes"]=>
+  int(38)
+  ["hours"]=>
+  int(18)
+  ["mday"]=>
+  int(1)
+  ["wday"]=>
+  int(5)
+  ["mon"]=>
+  int(1)
+  ["year"]=>
+  int(2021)
+  ["yday"]=>
+  int(0)
+  ["weekday"]=>
+  string(6) "Friday"
+  ["month"]=>
+  string(7) "January"
+  [0]=>
+  int(1609526293)
+}
+
+[+] Requesting get_html_translation_table
+<!-- Let's pray for new year lucky things <3 -->
+
+Array
+
+
+[+] Requesting get_html_translation_table as array
+<!-- Let's pray for new year lucky things <3 -->
+
+array(4) {
+  ["""]=>
+  string(6) "&quot;"
+  ["&"]=>
+  string(5) "&amp;"
+  ["<"]=>
+  string(4) "&lt;"
+  [">"]=>
+  string(4) "&gt;"
+}
+
+[+] Requesting getimagesize
+<!-- Let's pray for new year lucky things <3 -->
+
+
+
+
+[+] Requesting getimagesize as array
+<!-- Let's pray for new year lucky things <3 -->
+
+NULL
+
+[+] Requesting getimagesizefromstring
+<!-- Let's pray for new year lucky things <3 -->
+
+
+
+
+[+] Requesting getimagesizefromstring as array
+<!-- Let's pray for new year lucky things <3 -->
+
+NULL
+
+[+] Requesting getrandmax
+<!-- Let's pray for new year lucky things <3 -->
+
+2147483647
+
+
+[+] Requesting getrandmax as array
+<!-- Let's pray for new year lucky things <3 -->
+
+int(2147483647)
+
+[+] Requesting getservbyname
+<!-- Let's pray for new year lucky things <3 -->
+
+
+
+
+[+] Requesting getservbyname as array
+<!-- Let's pray for new year lucky things <3 -->
+
+NULL
+
+[+] Requesting getservbyport
+<!-- Let's pray for new year lucky things <3 -->
+
+
+
+
+[+] Requesting getservbyport as array
+<!-- Let's pray for new year lucky things <3 -->
+
+NULL
+
+[+] Requesting getprotobyname
+<!-- Let's pray for new year lucky things <3 -->
+
+
+
+
+[+] Requesting getprotobyname as array
+<!-- Let's pray for new year lucky things <3 -->
+
+NULL
+
+[+] Requesting getprotobynumber
+<!-- Let's pray for new year lucky things <3 -->
+
+
+
+
+[+] Requesting getprotobynumber as array
+<!-- Let's pray for new year lucky things <3 -->
+
+NULL
+
+[+] Requesting getmyuid
+<!-- Let's pray for new year lucky things <3 -->
+
+0
+
+
+[+] Requesting getmyuid as array
+<!-- Let's pray for new year lucky things <3 -->
+
+int(0)
+
+[+] Requesting getmygid
+<!-- Let's pray for new year lucky things <3 -->
+
+0
+
+
+[+] Requesting getmygid as array
+<!-- Let's pray for new year lucky things <3 -->
+
+int(0)
+
+[+] Requesting getmypid
+<!-- Let's pray for new year lucky things <3 -->
+
+17981
+
+
+[+] Requesting getmypid as array
+<!-- Let's pray for new year lucky things <3 -->
+
+int(17990)
+
+[+] Requesting getmyinode
+<!-- Let's pray for new year lucky things <3 -->
+
+258086
+
+
+[+] Requesting getmyinode as array
+<!-- Let's pray for new year lucky things <3 -->
+
+int(258086)
+
+[+] Requesting getlastmod
+<!-- Let's pray for new year lucky things <3 -->
+
+1609411623
+
+
+[+] Requesting getlastmod as array
+<!-- Let's pray for new year lucky things <3 -->
+
+int(1609411623)
+
+[+] Requesting getenv
+<!-- Let's pray for new year lucky things <3 -->
+
+Array
+
+
+[+] Requesting getenv as array
+<!-- Let's pray for new year lucky things <3 -->
+
+array(12) {
+  ["LANGUAGE"]=>
+  string(6) "en_US:"
+  ["APACHE_RUN_DIR"]=>
+  string(16) "/var/run/apache2"
+  ["APACHE_PID_FILE"]=>
+  string(28) "/var/run/apache2/apache2.pid"
+  ["JOURNAL_STREAM"]=>
+  string(7) "9:57541"
+  ["PATH"]=>
+  string(70) "/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin"
+  ["INVOCATION_ID"]=>
+  string(32) "c66f5dee93134eaab7558c4c86904be7"
+  ["APACHE_LOCK_DIR"]=>
+  string(17) "/var/lock/apache2"
+  ["LANG"]=>
+  string(1) "C"
+  ["APACHE_RUN_USER"]=>
+  string(8) "www-data"
+  ["APACHE_RUN_GROUP"]=>
+  string(8) "www-data"
+  ["APACHE_LOG_DIR"]=>
+  string(16) "/var/log/apache2"
+  ["PWD"]=>
+  string(1) "/"
+}
+
+[+] Requesting getopt
+<!-- Let's pray for new year lucky things <3 -->
+
+
+
+
+[+] Requesting getopt as array
+<!-- Let's pray for new year lucky things <3 -->
+
+bool(false)
+
+[+] Requesting gettimeofday
+<!-- Let's pray for new year lucky things <3 -->
+
+Array
+
+
+[+] Requesting gettimeofday as array
+<!-- Let's pray for new year lucky things <3 -->
+
+array(4) {
+  ["sec"]=>
+  int(1609526306)
+  ["usec"]=>
+  int(524015)
+  ["minuteswest"]=>
+  int(0)
+  ["dsttime"]=>
+  int(0)
+}
+
+[+] Requesting getrusage
+<!-- Let's pray for new year lucky things <3 -->
+
+Array
+
+
+[+] Requesting getrusage as array
+<!-- Let's pray for new year lucky things <3 -->
+
+array(17) {
+  ["ru_oublock"]=>
+  int(0)
+  ["ru_inblock"]=>
+  int(0)
+  ["ru_msgsnd"]=>
+  int(0)
+  ["ru_msgrcv"]=>
+  int(0)
+  ["ru_maxrss"]=>
+  int(13780)
+  ["ru_ixrss"]=>
+  int(0)
+  ["ru_idrss"]=>
+  int(0)
+  ["ru_minflt"]=>
+  int(396)
+  ["ru_majflt"]=>
+  int(0)
+  ["ru_nsignals"]=>
+  int(0)
+  ["ru_nvcsw"]=>
+  int(3744)
+  ["ru_nivcsw"]=>
+  int(108)
+  ["ru_nswap"]=>
+  int(0)
+  ["ru_utime.tv_usec"]=>
+  int(310464)
+  ["ru_utime.tv_sec"]=>
+  int(0)
+  ["ru_stime.tv_usec"]=>
+  int(115197)
+  ["ru_stime.tv_sec"]=>
+  int(0)
+}
+
+[+] Requesting get_current_user
+<!-- Let's pray for new year lucky things <3 -->
+
+root
+
+
+[+] Requesting get_current_user as array
+<!-- Let's pray for new year lucky things <3 -->
+
+string(4) "root"
+
+[+] Requesting get_cfg_var
+<!-- Let's pray for new year lucky things <3 -->
+
+
+
+
+[+] Requesting get_cfg_var as array
+<!-- Let's pray for new year lucky things <3 -->
+
+NULL
+
+[+] Requesting get_magic_quotes_gpc
+<!-- Let's pray for new year lucky things <3 -->
+
+
+
+
+[+] Requesting get_magic_quotes_gpc as array
+<!-- Let's pray for new year lucky things <3 -->
+
+bool(false)
+
+[+] Requesting get_magic_quotes_runtime
+<!-- Let's pray for new year lucky things <3 -->
+
+
+
+
+[+] Requesting get_magic_quotes_runtime as array
+<!-- Let's pray for new year lucky things <3 -->
+
+bool(false)
+
+[+] Requesting get_include_path
+<!-- Let's pray for new year lucky things <3 -->
+
+.:/usr/share/php
+
+
+[+] Requesting get_include_path as array
+<!-- Let's pray for new year lucky things <3 -->
+
+string(16) ".:/usr/share/php"
+
+[+] Requesting gethostbyaddr
+<!-- Let's pray for new year lucky things <3 -->
+
+
+
+
+[+] Requesting gethostbyaddr as array
+<!-- Let's pray for new year lucky things <3 -->
+
+NULL
+
+[+] Requesting gethostbyname
+<!-- Let's pray for new year lucky things <3 -->
+
+
+
+
+[+] Requesting gethostbyname as array
+<!-- Let's pray for new year lucky things <3 -->
+
+NULL
+
+[+] Requesting gethostbynamel
+<!-- Let's pray for new year lucky things <3 -->
+
+
+
+
+[+] Requesting gethostbynamel as array
+<!-- Let's pray for new year lucky things <3 -->
+
+NULL
+
+[+] Requesting gethostname
+<!-- Let's pray for new year lucky things <3 -->
+
+localhost
+
+
+[+] Requesting gethostname as array
+<!-- Let's pray for new year lucky things <3 -->
+
+string(9) "localhost"
+
+[+] Requesting getmxrr
+<!-- Let's pray for new year lucky things <3 -->
+
+
+
+
+[+] Requesting getmxrr as array
+<!-- Let's pray for new year lucky things <3 -->
+
+NULL
+
+[+] Requesting gettype
+<!-- Let's pray for new year lucky things <3 -->
+
+
+
+
+[+] Requesting gettype as array
+<!-- Let's pray for new year lucky things <3 -->
+
+NULL
+
+[+] Requesting get_meta_tags
+<!-- Let's pray for new year lucky things <3 -->
+
+
+
+
+[+] Requesting get_meta_tags as array
+<!-- Let's pray for new year lucky things <3 -->
+
+NULL
+
+[+] Requesting get_headers
+<!-- Let's pray for new year lucky things <3 -->
+
+
+
+
+[+] Requesting get_headers as array
+<!-- Let's pray for new year lucky things <3 -->
+
+NULL
+
+[+] Requesting get_browser
+<!-- Let's pray for new year lucky things <3 -->
+
+
+
+
+[+] Requesting get_browser as array
+<!-- Let's pray for new year lucky things <3 -->
+
+bool(false)
+
+[+] Requesting getcwd
+<!-- Let's pray for new year lucky things <3 -->
+
+/var/www/html
+
+
+[+] Requesting getcwd as array
+<!-- Let's pray for new year lucky things <3 -->
+
+string(13) "/var/www/html"
+
+[+] Requesting getallheaders
+<!-- Let's pray for new year lucky things <3 -->
+
+Array
+
+
+[+] Requesting getallheaders as array
+<!-- Let's pray for new year lucky things <3 -->
+
+array(5) {
+  ["Host"]=>
+  string(13) "192.46.227.32"
+  ["User-Agent"]=>
+  string(22) "python-requests/2.21.0"
+  ["Accept-Encoding"]=>
+  string(13) "gzip, deflate"
+  ["Accept"]=>
+  string(3) "*/*"
+  ["Connection"]=>
+  string(10) "keep-alive"
+}
+
+[+] Requesting gettext
+<!-- Let's pray for new year lucky things <3 -->
+
+
+
+
+[+] Requesting gettext as array
+<!-- Let's pray for new year lucky things <3 -->
+
+NULL
+
+[+] Requesting get_lucky_number
+<!-- Let's pray for new year lucky things <3 -->
+
+90
+
+
+[+] Requesting get_lucky_number as array
+<!-- Let's pray for new year lucky things <3 -->
+
+string(2) "85"
+
+[+] Requesting get_lucky_word
+<!-- Let's pray for new year lucky things <3 -->
+
+selamat tahun baru
+
+
+[+] Requesting get_lucky_word as array
+<!-- Let's pray for new year lucky things <3 -->
+
+string(16) "Feliz Año Nuevo"
+
