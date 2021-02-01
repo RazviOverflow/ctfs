@@ -1,0 +1,1 @@
+Using backticks we can embed commands. The od command we can leak the contents of the flag file. Using the command `od flag` it outpus its content in octal form. Then it is just a matter of converting octal to hexadecimal, swapping its endianness and converting hex to ascii. The flag is: justCTF{p0nY_t4lEs_b3giN5_h3r3}
