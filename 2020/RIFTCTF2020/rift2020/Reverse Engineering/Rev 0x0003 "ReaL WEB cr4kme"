@@ -1,0 +1,20 @@
+Value: 500 points
+
+File Names for the challenge:
+crackme.html
+crackme.css
+crackme.js
+snow.js
+
+Message:
+
+1. find the correct password for the crackme to display the "Correct 
+    Password" message.
+2. your goal is not to make the app display "Correct Password" but to 
+   find the correct password which does that for you.
+3. brute-forcing won't help but you can do whatever you want.
+4. this challenge is not supposed to be hosted, please do not deploy this 
+    in the real world, this is only for the purpose of this challenge.
+5. flag format ritsCTF{<---flag-here--->}.
+     Good Luck!
+author - X3eRo0

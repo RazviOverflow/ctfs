@@ -1,0 +1,11 @@
+Value: 500 points
+
+The files required to solve the challenge is attached in the directory with the name: crackme and xvm
+
+Type: Dynamic
+
+Message:
+
+./xvm crackme
+flag: riftCTF{XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX}
+Correct Password

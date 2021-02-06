@@ -1,0 +1,1 @@
+Due to our company's strict policy, all chatting websites have been blocked. We have been informed that some of our employees managed to circumvent all our limitations and have a secret conversation - can you find out what they've talked about?

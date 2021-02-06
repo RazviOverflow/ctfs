@@ -1,0 +1,15 @@
+Value: 50 points
+
+The file required to solve the challenge is attached in the directory with the name: chall1.elf
+
+Message: 
+1. find the correct password for the crackme to display the "Correct 
+     Password" message.
+2. your goal is not to make the app display "Correct Password" but to 
+     find the correct password which does that for you.
+3. brute-forcing won't help but you can do whatever you want.
+4. don't expose this challenge on a real work environment.
+5. flag format riftCTF{<---flag-here--->}.
+    Good Luck!
+
+author- X3eRo0
