@@ -1,0 +1,1 @@
+I used hashcat to crack the hash. Using hashcat's wiki https://hashcat.net/wiki/doku.php?id=example_hashes I found out it is a MD5-type hash. The command used is 'hashcat -m 500 hash.txt rockyou.txt -vvv --force'. The password is batman. The flag is: Trollcat{batman}
