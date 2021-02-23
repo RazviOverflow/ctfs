@@ -1,0 +1,6 @@
+Changelog for GBEmu version 0.0.3:
+
+- Now supports arbitrary resizing of screen
+- Full screen is now in proportion, and has a white border
+- Replaced OpenGL renderer with Metal renderer on Mac
+- Memory leak and other bug fixes
