@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Fri Feb 12 06:55:12 2021
+Invocation: foremost -i AS5Xm%40%3BZ.jpg 
+Output directory: /root/Desktop/CTFs/ctfs2/2021/HackOnCTF2021_URJC/Forense/Dr_Eggman/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: AS5Xm%40%3BZ.jpg
+Start: Fri Feb 12 06:55:12 2021
+Length: 20 KB (21031 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.jpg 	      20 KB 	          0 	 
+Finish: Fri Feb 12 06:55:12 2021
+
+1 FILES EXTRACTED
+	
+jpg:= 1
+------------------------------------------------------------------
+
+Foremost finished at Fri Feb 12 06:55:12 2021

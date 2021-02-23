@@ -1,0 +1,1 @@
+The magic bytes a.k.a file header is missing its first byte. The header corresponds to JPG and it starts with FF https://en.wikipedia.org/wiki/List_of_file_signatures. I sued hexeditor to manually change the byte. Then the file can be opened. The flag is: HackOn{W1ld_Mi4775ingN0_C0rrupt}

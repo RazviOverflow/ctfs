@@ -1,0 +1,1 @@
+Using exiftool there is a base64 artist name. It translates to C0miC_SaNs. Using strings on the image there is a pastebin: https://pastebin.com/WD7BnwYH. It is locked. The password is C0miC_SaNs. The flag is: HackOn{pet_m3_p3t_me_P3T_ME}

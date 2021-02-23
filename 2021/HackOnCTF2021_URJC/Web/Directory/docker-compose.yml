@@ -1,0 +1,24 @@
+# Automate deployment
+version: '3'
+services:
+  openldap:
+    image: bitnami/openldap:2
+    environment:
+      - LDAP_ADMIN_USERNAME=admin
+      - LDAP_ADMIN_PASSWORD=adminpassword
+    restart: always
+
+  directory:
+    build: .
+    ports:
+      - 8080:8080
+    restart: always
+    environment:
+      CHALLENGE_FLAG: "HackOn{replace_with_real_flag}"
+    depends_on:
+      - openldap
+    volumes:
+    - m2:/root/.m2
+
+volumes:
+  m2:

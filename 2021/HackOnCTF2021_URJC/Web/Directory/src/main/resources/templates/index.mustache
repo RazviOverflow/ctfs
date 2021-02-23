@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+{{> head}}
+
+<body>
+<div class="container">
+<div class="jumbotron">
+
+    <h1>Search for people!</h1>
+    {{^lastQuery}}
+    <h3>Dont know what to search for? Try with <strong>J*</strong>!</h3>
+    {{/lastQuery}}
+    <form method="POST" action="/search">
+        <div class="form-group">
+        <label for="name">Name to search:</label><br>
+        <input class="form-control" type="text" id="name" name="name" value="{{lastQuery}}"><br>
+        </div>
+        <button type="submit" class="btn btn-outline-primary">Check</button>
+    </form>
+
+    <div class="user-list">
+        <h3>Results: </h3>
+        {{#users}}
+            <div class="user">
+                {{.}}
+            </div>
+        {{/users}}
+    </div>
+
+
+</div>
+</div>
+</body>
+
+</html>

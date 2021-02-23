@@ -1,0 +1,24 @@
+# RazviOverflow
+# Python3
+
+from Crypto.Util.number import inverse, long_to_bytes
+
+p = 1470141949943601597084337
+q = 2315465166522070469993689
+e = 65537
+ct_0 = 699647424488547213538018687288179468997406246529
+ct_1 = 1602895004162842681114653387147102789102453404163
+ct_2 = 2094836235654395727458589429933425704847883731085
+ct_3 = 1750607186559703713851933077207983420223532519062
+n = 3404062474937242861395243981141418377549190749193
+
+phi = (p - 1) * (q - 1)
+d = inverse(e,phi)
+plain = pow(ct_0,d,n)
+print(long_to_bytes(plain))
+plain = pow(ct_1,d,n)
+print(long_to_bytes(plain))
+plain = pow(ct_2,d,n)
+print(long_to_bytes(plain))
+plain = pow(ct_3,d,n)
+print(long_to_bytes(plain))
