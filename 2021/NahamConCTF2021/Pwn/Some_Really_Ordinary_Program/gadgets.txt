@@ -1,0 +1,24 @@
+Gadgets information
+============================================================
+0x0000000000401007 : add byte ptr [rax], al ; add byte ptr [rax], al ; mov rdi, rax ; syscall
+0x0000000000401009 : add byte ptr [rax], al ; mov rdi, rax ; syscall
+0x0000000000401018 : add dword ptr [rax], eax ; add byte ptr [rax], al ; mov rdi, rax ; syscall
+0x000000000040100f : add eax, 0xf28948c3 ; mov rsi, rdi ; mov eax, 1 ; mov rdi, rax ; syscall
+0x000000000040105a : dec ecx ; ret
+0x000000000040105b : leave ; ret
+0x0000000000401006 : mov eax, 0 ; mov rdi, rax ; syscall
+0x0000000000401017 : mov eax, 1 ; mov rdi, rax ; syscall
+0x000000000040100c : mov edi, eax ; syscall
+0x0000000000401001 : mov edx, esi ; mov rsi, rdi ; mov eax, 0 ; mov rdi, rax ; syscall
+0x0000000000401012 : mov edx, esi ; mov rsi, rdi ; mov eax, 1 ; mov rdi, rax ; syscall
+0x0000000000401004 : mov esi, edi ; mov eax, 0 ; mov rdi, rax ; syscall
+0x0000000000401015 : mov esi, edi ; mov eax, 1 ; mov rdi, rax ; syscall
+0x000000000040100b : mov rdi, rax ; syscall
+0x0000000000401000 : mov rdx, rsi ; mov rsi, rdi ; mov eax, 0 ; mov rdi, rax ; syscall
+0x0000000000401011 : mov rdx, rsi ; mov rsi, rdi ; mov eax, 1 ; mov rdi, rax ; syscall
+0x0000000000401003 : mov rsi, rdi ; mov eax, 0 ; mov rdi, rax ; syscall
+0x0000000000401014 : mov rsi, rdi ; mov eax, 1 ; mov rdi, rax ; syscall
+0x0000000000401010 : ret
+0x000000000040100e : syscall
+
+Unique gadgets found: 20
