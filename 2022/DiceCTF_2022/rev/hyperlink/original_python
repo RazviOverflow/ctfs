@@ -1,0 +1,79 @@
+import json
+
+
+def test_chain(links, start, end):
+    current = start
+    for link in links:
+        current = int(''.join(
+            str(int(current & component != 0))
+            for component in link
+        ), 2)
+        #print("CURRENT-> {}".format(current))
+        #print("Difference: {}".format(current-end))
+    print("RESULT############ " + str(current-end))
+    return current-end
+    #return end == current & end
+
+
+def calculate(chain, data):
+    #print('Welcome to the chain building game.')
+    #print('Enter a chain and see if it works:')
+
+    legal_chars = set('abcdefghijklmnopqrstuvwxyz{}_')
+    if any(c not in legal_chars for c in chain):
+        print('Chain contains illegal characters!')
+        return
+
+    try:
+        links = [data['links'][c] for c in chain]
+        result = test_chain(links, data['start'], data['target'])
+        return result
+    except Exception:
+        print('Something went wrong!')
+        return
+
+    if result:
+        print('Chain works! Congratulations.')
+    else:
+        print('Oh no! Chain does not reach the target.')
+
+
+
+
+
+if __name__ == '__main__':
+    initial_input = ['a' for i in range(0,34)]
+    valid_chars = "abcdefghijklmnopqrstuvwxyz{}_"
+    index = 0
+    difference = 0
+    target_letter = 'a'
+    flag = ['a' for i in range(0,34)]
+
+    try:
+        with open('hyperlink.json', 'r') as f:
+            data = json.load(f)
+    except IOError:
+        print('Could not open hyperlink.json')
+        
+
+    for char in initial_input:  
+        for letter in valid_chars:
+
+            initial_input[index] = letter 
+            actual_input = ''.join(initial_input)
+            print("INPUT##############- " + actual_input)
+            result = calculate(actual_input, data)
+            print("Letter: {}\nResult: \t{}\nDifference: \t{}".format(letter, result, difference))
+            if difference == 0:
+                difference = result
+            else:
+                if difference < result:
+                    difference = result
+                    flag[index] = letter
+
+        
+        print(''.join(flag))
+        index =+ 1
+
+
+
