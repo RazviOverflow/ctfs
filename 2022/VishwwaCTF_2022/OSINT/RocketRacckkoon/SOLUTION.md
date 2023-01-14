@@ -1,0 +1,1 @@
+Using sherlock I found https://www.instagram.com/racckoonn. One of the posts link to a youtube channel. Using sherlock once again looking for the username of that youtube channel I found https://twitter.com/JohnsonM3llisa. Then using waybackmachine I was able to see their old tweets and get the flag: Vishwactf{R4cc00ns_4r3_Sm4rt}

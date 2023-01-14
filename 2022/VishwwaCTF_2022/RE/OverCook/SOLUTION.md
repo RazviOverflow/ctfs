@@ -1,0 +1,1 @@
+Debug it and modify the eip to jump to the address of printFlag. Then conver from decimal to ASCII. Flag: vishwactf{r3vers1ng_dud3}

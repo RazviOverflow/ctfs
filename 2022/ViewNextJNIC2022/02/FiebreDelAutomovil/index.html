@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <title>Vostell</title>
+    <style>
+    
+    	nav.menu{
+    	    top: 0;
+    	    position: fixed;
+    	    width: 100%
+    		
+    	}
+        article.artwork {
+            display: flex;
+        }
+        article.artwork div.artwork-img {
+            width: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 5rem;
+            background-color: #b2c6c6;
+        }
+        div.artwork-img img{
+            width: 100%;
+            object-fit: cover;
+        }
+        article.artwork div.description {
+            background-color: #f2f9f9;
+            width: 50%;
+            padding: 2rem 5rem 2rem 5rem;
+        }
+        h1.description-title{
+            text-align: center;
+        }
+        p.description-text{
+            text-align: justify;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light navbar-fixed-top menu">
+        <a class="navbar-brand" href="#">Wolf<b>Vostell</b></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                  <a class="nav-link" href="#wolf-mercedes">Wolf y Mercedes</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#fluxus">Fluxus</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#artistas">Artistas Conceptuales</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#wolf">Wolf Vostell</a>
+                  </li>
+              </ul>
+              <div class="form-inline my-2 my-lg-0 navbar-left">
+                <input class="form-control mr-sm-2" type="text" placeholder="Nombre de usuario" aria-label="username" name="username" id="username">
+                <input class="form-control mr-sm-2" type="password" placeholder="Contraseña" aria-label="password" name="password" id="passwd">
+                <button name="login" id="login" class="btn btn-outline-success my-2 my-sm-0" type="submit">Iniciar Sesión</button>
+              </div>
+        </div>
+      </nav>
+
+    <main class="container" style="max-width:70%">
+        <section>
+            <article class="artwork" id="wolf-mercedes">
+                <div class="artwork-img">
+                    <img src="img/Vostell01.jpg"/>
+                </div>
+                <div class="description">
+                    <h1 class="description-title">Colección Wolf y Mercedes Vostell</h1>
+                    <p class="description-text">
+                        La Colección inaugural Wolf y Mercedes Vostell ofrece un recorrido amplio y variado por los ciclos más representativos del artista fundador. La componen cinco ambientes que constituyen la referencia peculiar de este museo: Fiebre del Automóvil (1973), Fluxus Buick Piano y Desayuno de Leonardo da Vinci en Berlín de 1998.
+                    </p>
+                    <p class="description-text">
+                        La mayoría de estos ambientes incluyen como objetos artísticos elementos de la simbología fetichista de nuestra época (el coche, la televisión, el hormigón), transformados y confrontados aqui por Vostell para darnos aviso de las sombras y conflictos que encierra la sociedad en la que vivimos.
+                    </p>
+                    <p class="description-text">
+                        A todo ello se unen cinco esculturas (los Toros de Hormigón), cuatro grandes relieves (Trashumancia), y otros cuadros de gran formato como El Entierro de la Sardina (1985), Las Chicas del Billar (1986), Mitos Berlín (1986-1987) y Estrella Seelenfreund (1994)
+                    </p>
+                    <p class="description-text">
+                        Además, la colección Wolf y Mercedes Vostell cuenta con un abundante número de cuadros-objetos (El muerto que tiene sed y VOAEX), sergrafías (V40) y proyectos de esculturas (Serie Ícaro y Tanit) que intentan ofrecer un extenso itinerario por los ciclos más significativos del artista. Se deben mencionar también las obras Transmigración III (1958-1959), el primer cuadro conocido en el que se introduce un aparato de televisión, y Montaña extranjera (1958), con la que Vostell inicia su gran producción sobre Extremadura.
+                    </p>
+                    <p class="description-text">
+                        En el jardín de escultura está instalada con carácter permanente una gran pieza de Wolf Vostell, d 16 metros de altura titulada "¿Por qué el proceso entre Pilatos y Jesús duró sólo dos minutos?" (1996), conformada por el fuselaje de un avión ruso Mig-21, dos automóviles, monitores de ordenador y tres pianos.
+                    </p>
+                </div>
+            </article>
+            <article class="artwork" id="fluxus">
+                <div class="artwork-img">
+                    <img src="img/energia.jpg"/>
+                </div>
+                <div class="description">
+                    <h1 class="description-title">Colección Fluxus</h1>
+                    <p class="description-text">
+                        La colección Fluxus fue donada a Extremadura por el coleccionista italiano Gino di Maggio, editor de varias publicaciones, comisario de la muestra Ubi fluxus, ibi motus de la Bienal de Venecia de 1990, director de la Fundación Mudima de Milán y gran amigo de los fluxistas. A partir de su revista Alfa-Beta, en los años sesenta, dio a conocer a toda Italia y Europa, los movimientos del arte de vanguardia, entablando muy pronto relación personal con los artistas fluxus, preocupándose de sus obras y exponiéndolas primero, en el espacio polivalente Multhipla y en la Fundación Mudima después.
+                    </p>
+                    <p class="description-text">
+                        La Donación se compone de un conjunto de obras que fueron, en la mayoría de los casos, acciones e intervenciones Fluxus, asi las fotografías, vídeos, manifiestos y diversos textos son los complementos necesarios de estos conjuntos de actos.
+                    </p>
+                    <p class="description-text">
+                        La muestra la constituyen 250 obras (ambientes, instalaciones, cuadros, cuadros-objetos, esculturas y partituras), de 31 artistas de procedencia europea, norteamericana y asiática, que desde finales de los años 50 y 60 sintetizaron en los movimientos Happening y Fluxus, las conmociones en todos los dominios de la cultura a favor de una renovación del campo artístico de forma interdiscilinal e intermedia, extensiva a la vida cotidiana y simiente de una transformación social fundamental.
+                    </p>
+                    <p class="description-text">
+                        Además, la colección Wolf y Mercedes Vostell cuenta con un abundante número de cuadros-objetos (El muerto que tiene sed y VOAEX), sergrafías (V40) y proyectos de esculturas (Serie Ícaro y Tanit) que intentan ofrecer un extenso itinerario por los ciclos más significativos del artista. Se deben mencionar también las obras Transmigración III (1958-1959), el primer cuadro conocido en el que se introduce un aparato de televisión, y Montaña extranjera (1958), con la que Vostell inicia su gran producción sobre Extremadura.
+                    </p>
+                    <p class="description-text"></p>
+                        Gino di Maggio, por mediación de Wolf y Mercedes Vostell, conoció la aventura del Museo Vostell Malpartida desde los inicios, y contagiado de los entusiasmos del artista se decide apoyarlo, donando en octubre de 1996 una parte importante de su colección.
+
+                        El movimiento Fluxus, fundado por Maciunas, no tiene normas ni directrices, es un estado del espíritu, una nueva forma de arte, es elevar las cosas sencillas a la categoría de obra de arte. En Fluxus todo vale, sin embargo nada es imprescindible.
+                    </p>
+                </div>
+            </article>
+            <article class="artwork" id="artistas">
+                <div class="artwork-img">
+                    <img src="img/MuseoVostell.jpg"/>
+                </div>
+                <div class="description">
+                    <h1 class="description-title">Colección Artistas Conceptuales</h1>
+                    <p class="description-text">
+                        La impronta personal de Wolf Vostell, siempre cargada de propuestas cosmopolitas, abanderó innumerables actividades artísticas y culturales en el Museo Vostell Malpartida, como las tres semanas de Arte Contemporáneo de Malpartida (SACOM), entre los años de 1977 y 1983, el Manifiesto del Lavadero de 1980 y el Día de Arte Contemporáneo de Malpartida (DACOM) en 1983. Se configura así el germen de la Colección de Artistas Conceptuales españoles, portugueses y polacos.
+                    </p>
+                    <p class="description-text">
+                        Esta colección abrió nuevas sendas que hicieron que los esectadores exploraran otros territorios que nada tenían que ver con los academicismos ni con la obra concebida como algo cerrado, pero sí con el valor que debe darse a la relación entre el artista, la sociedad, la vida y nuestra condición humana.
+                    </p>
+                    <p class="description-text">
+                        La colección contiene 60 obras (cuadros, cuadros-objetos, esculturas e instalaciones) de 48 artistas de estas nacionalidades que desde los inicios del Museo Vostell Malpartida en 1976 hanestado especialmente vinculados al mismo por mediación del matrimonio Vostell participando en el desarrollo de las actividades citadas.
+                    </p>
+                </div>
+            </article>
+        </section>
+        <article class="artwork" id="wolf">
+            <div class="artwork-img">
+                <img src="img/wolf.jpg"/>
+            </div>
+            <div class="description">
+                <h1 class="description-title">Wolf Vostell</h1>
+                <p class="description-text">
+                    Wolf Vostell nació el 14 de octubre de 1932 en la ciudad alemana de Leverkusen, en la región de Renania. Su padre Hubert Schäfer era revisor de ferrocarril y su madre Regina ama de casa. En el año 1939 la familia se trasladó a la ciudad Chomutov en Checoslovaquia. En el año 1945, tras la capitulación de Alemania, Wolf Vostell tenía 12 años, regresó acompañado por sus padres y su hermana a Leverkusen. Una experiencia fundamental en su vida, puesto que hubo de hacerlo andando, y en lo que duró el viaje fue testigo de los devastadores efectos de la contienda en ciudades como Praga, Dresde o Kassel. Además, los terribles efectos del Holocausto le marcarían profundamente, siendo uno de los temas recurrentes de su obra, como lo demuestra el cuadro Shoah de 1997. En el colegio entre 1945 y 1950 ya dibujó con acuarela y tinta china.
+                </p>
+                <p class="description-text">
+                    Realizó sus primeros estudios sobre arte en Colonia, en los campos de pintura, fotografía y litografía, y después en la academia de Wuppertal, en pintura libre y tipografía experimental. En el año 1953, creó obras como Corea, Corea Masacre, Das Paar (La Pareja), Familie (Familia), Flugzeug (Avión) y Kriegskreuzigung (Crucifixión de Guerra) y empezó a trabajar con óleo sobre lienzo en obras como Kriegskreuzigung II (Crucifixión de Guerra II). En estas obras, Wolf Vostell empieza a reflejar los desastres producidos por la Segunda Guerra Mundial.
+                </p>
+                <p class="description-text">
+                    En 1955 dibujó con tinta china un ciclo de ilustraciones para el cuento de hadas La maravillosa historia de Peter Schlemihl de Adelbert von Chamisso.
+                </p>
+                <p class="description-text">
+                    En su primer viaje a París en 1954, y recogiendo un titular del periódico Le Figaro que le llamó la atención, acuñó el término décollage, que distinguió del collage tradicional y su yuxtaposición creativa de elementos, relacionándolo con la traducción literal de la palabra francesa de la que derivaba: desprender, separar dos cosas pegadas o deshacer. Aplicó el nuevo término a los cuadros Dé-coll/age, que incluían jirones de carteles, fotografías emborronadas y objetos. Tanto sus obras materiales como los happenings, estaban impulsadas por un mismo principio, la estética de la destrucción, que pretendía recoger el carácter negativo y agresivo del mundo contemporáneo. En 1955, se trasladó a París para estudiar pintura, y grabado en la Escuela Superior Nacional de Bellas Artes y empezó a trabajar como asistente del cartelista Cassandre. Después, entraría en la Academia de Bellas Artes de Düsseldorf. Por entonces ya había demostrado su interés por artistas como Goya, Bruegel, Zurbarán, El Bosco o Fernand Léger y había consagrado parte de su tiempo a la obra del psicólogo Carl Jung.
+                </p>
+                <p class="description-text">
+                    En 1958, viaja a España; primero a Madrid, para visitar el Museo del Prado, y luego a Guadalupe, (Cáceres), para estudiar a fondo la obra de Zurbarán. Allí conoce a Mercedes Guardado, con quien se casará meses más tarde. La compenetración artística de ambos esposos hará que Vostell se sienta muy vinculado con España, en especial con Extremadura.
+                </p>
+                <p class="description-text">
+                    Desde los años 50, Wolf Vostell refleja la política y las desastrosas consecuencias de las guerras en sus obras. En 1958, creó la instalación La habitación negra, que refleja el Holocausto. Con Miss Vietnam, un emborronado y un happening con el mismo título, muestra en 1968 el infierno de la guerra de Vietnam. El asesinato de John F. Kennedy y muchos otros acontecimientos políticos aparecen reflejados en las obras de Wolf Vostell. En un amplio ciclo de obras, el artista documenta la caída del Muro de Berlín en 1989. El tríptico 9 de noviembre de 1989 y el ciclo La Caída del Muro de Berlín son dos ejemplos de este ciclo.
+                </p>
+                <p class="description-text">
+                    Con la instalación 6 TV Dé-coll/age del año 1963 Wolf Vostell se convierte en pionero de la instalación y con su video Sun in your head (Sol en tu cabeza) también de 1963, en pionero del Videoarte. En 1958 crea El teatro está en la calle en París, que es el primer happening europeo y en 1961 Cityrama es el primer happening en Alemania.
+                </p>
+            </div>
+        </article>
+    </main>
+    <footer class="container py-5">
+        <div class="row">
+          <div class="col-12 col-md">
+          </div>
+          <div class="col-6 col-md">
+          </div>
+          <div class="col-6 col-md">
+            <h5>Museos Cáceres</h5>
+            <ul class="list-unstyled text-small">
+              <li><a class="text-muted" href="https://palaciogolfinesdeabajo.com/">Palacio los Golfines de Abajo</a></li>
+              <li><a class="text-muted" href="http://museodecaceres.juntaex.es/web/view/portal/index/index.php">Museo de Cáceres</a></li>
+              <li><a class="text-muted" href="https://fundacionhelgadealvear.es/">Helga de Alvear</a></li>
+            </ul>
+          </div>
+          <div class="col-6 col-md">
+            <h5>Museos Badajoz</h5>
+            <ul class="list-unstyled text-small">
+              <li><a target="_blank" class="text-muted" href="http://museoarqueologicobadajoz.juntaex.es/web/view/portal/index/index.php">Museo Arqueológico de Badajoz</a></li>
+              <li><a target="_blank" class="text-muted" href="http://muba.badajoz.es/">Museo Provincial de Bellas Artes</a></li>
+              <li><a target="_blank" class="text-muted" href="https://www.aytobadajoz.es/es/ayto/museosysalas/mys/433/museo-de-la-ciudad-luis-de-morales-">Museo de la Ciudad "Luís de Morales"</a></li>
+            </ul>
+          </div>
+          <div class="col-6 col-md">
+          </div>
+        </div>
+      </footer> 
+    <script type="text/javascript" src="ss.js">
+    </script>
+</body>
+</html>

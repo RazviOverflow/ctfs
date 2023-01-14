@@ -1,0 +1,1 @@
+rabin2 -zzz pirate.jpeg in order to get the strings. At the end of the file there is a sequence of printable charcters. ROT47 them and swap their endiannesss. It'll give you the flag VishwaCTF{f0r3nsic5_is_t3di0us}
