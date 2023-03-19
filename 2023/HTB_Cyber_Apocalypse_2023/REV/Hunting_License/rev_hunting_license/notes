@@ -1,0 +1,71 @@
+# Challenge
+When connected to the server instance you are asked several questions. The true 'challenge' is reversing the third password. The rest of the information can be obtained by simply looking at the assembly code and ELF info. 
+
+The function that resolves the third password is:
+```
+xor((int64_t)&var_38h, (int64_t)"G{zawR}wUz}r\x7f222\x13", 0x11, 0x13);
+
+void xor(int64_t arg1, int64_t arg2, uint64_t arg3, int64_t arg4)
+{
+    uint64_t var_30h;
+    int64_t var_28h;
+    int64_t var_20h;
+    int64_t var_ch;
+    
+    for (var_ch._0_4_ = 0; (uint64_t)(int64_t)(int32_t)var_ch < arg3; var_ch._0_4_ = (int32_t)var_ch + 1) {
+        *(uint8_t *)(arg1 + (int32_t)var_ch) = *(uint8_t *)(arg2 + (int32_t)var_ch) ^ (uint8_t)arg4;
+    }
+    return;
+}
+```
+This behavior is trivial to mimic. See [third_password.py](./third_password.py).
+
+# Correct execution
+
+Execution:
+```
+What is the file format of the executable?
+> elf                                                                                                             
+[+] Correct!
+                                                                                                                  
+What is the CPU architecture of the executable?                                                                   
+> x86                                                                                                             
+[+] Correct!
+                                                                                                                  
+What library is used to read lines for user answers? (`ldd` may help)                                             
+> libreadline.so.8                                                                                                
+[+] Correct!
+
+What is the address of the `main` function?                                                                       
+> 0x401172                                                                                                        
+[+] Correct!
+                                                                                                                  
+How many calls to `puts` are there in `main`? (using a decompiler may help)                                       
+> 5                                                                                                               
+[+] Correct!
+                                                                                                                  
+What is the first password?                                                                                       
+> PasswordNumeroUno                                                                                               
+[+] Correct!
+                                                                                                                  
+What is the reversed form of the second password?                                                                 
+> 0wTdr0wss4P                                                                                                     
+[+] Correct!
+                                                                                                                  
+What is the real second password?                                                                                 
+> P4ssw0rdTw0                                                                                                     
+[+] Correct!
+                                                                                                                  
+What is the XOR key used to encode the third password?                                                            
+> 0x13                                                                                                            
+[+] Correct!
+                                                                                                                  
+What is the third password?                                                                                       
+> ThirdAndFinal!!!                                                                                                
+[+] Correct!
+                                                                                                                  
+[+] Here is the flag: `HTB{l1c3ns3_4cquir3d-hunt1ng_t1m3!}` 
+```
+
+# Flag 
+`HTB{l1c3ns3_4cquir3d-hunt1ng_t1m3!}`
