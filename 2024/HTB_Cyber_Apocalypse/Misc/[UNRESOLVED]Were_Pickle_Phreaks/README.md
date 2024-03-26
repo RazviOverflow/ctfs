@@ -1,0 +1,1 @@
+This looks like a pickle deserialization vulnerability. Recommended article: [https://davidhamann.de/2020/04/05/exploiting-python-pickle/](https://davidhamann.de/2020/04/05/exploiting-python-pickle/)
