@@ -1,0 +1,1 @@
+Paste the long text in https://planetcalc.com/1434/. Once it finishes, CTRL+F for "utflag{". You will eventually find the flag at ROT18: `utflag{rip_dcode}`.
