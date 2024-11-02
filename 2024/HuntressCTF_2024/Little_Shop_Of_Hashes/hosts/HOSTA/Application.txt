@@ -1,0 +1,129 @@
+evtxexport 20210525
+
+Event number			: 12964
+Creation time			: Oct 01, 2024 20:26:47.888103700 UTC
+Written time			: Oct 01, 2024 20:26:47.888103700 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-3NV39E0
+Source name			: Windows Search Service Profile Notification
+Event identifier		: 0x00000005 (5)
+Number of strings		: 2
+String: 1			: EC2AMAZ-3NV39E0\DeeDee
+String: 2			: 
+
+Event number			: 12965
+Creation time			: Oct 01, 2024 20:34:38.378109700 UTC
+Written time			: Oct 01, 2024 20:34:38.378109700 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-3NV39E0
+Source name			: Software Protection Platform Service
+Event identifier		: 0x0000400a (16394)
+Number of strings		: 0
+
+Event number			: 12966
+Creation time			: Oct 01, 2024 20:35:13.456557400 UTC
+Written time			: Oct 01, 2024 20:35:13.456557400 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-3NV39E0
+Source name			: Software Protection Platform Service
+Event identifier		: 0x00004000 (16384)
+Number of strings		: 2
+String: 1			: 2024-10-08T19:45:13Z
+String: 2			: RulesEngine
+
+Event number			: 12967
+Creation time			: Oct 01, 2024 20:35:39.878413100 UTC
+Written time			: Oct 01, 2024 20:35:39.878413100 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-3NV39E0
+Source name			: Microsoft-Windows-CAPI2
+Event identifier		: 0x0000100f (4111)
+Number of strings		: 1
+String: 1			: ‎Tuesday, ‎May ‎14, ‎2024 4:23:18 PM
+
+Event number			: 12968
+Creation time			: Oct 01, 2024 20:46:15.619449300 UTC
+Written time			: Oct 01, 2024 20:46:15.619449300 UTC
+Event level			: Error (2)
+Computer name			: EC2AMAZ-3NV39E0
+Source name			: .NET Runtime
+Event identifier		: 0x00000402 (1026)
+Number of strings		: 1
+String: 1			: Application: runasc.exe
+Framework Version: v4.0.30319
+Description: The process was terminated due to an unhandled exception.
+Exception Info: System.AccessViolationException
+   at System.Runtime.InteropServices.Marshal.PtrToStructureHelper(IntPtr, System.Object, Boolean)
+   at System.Runtime.InteropServices.Marshal.PtrToStructure(IntPtr, System.Type)
+   at AccessToken.GetTokenPrivileges(IntPtr)
+   at RunasCsMainClass.DefaultCreateProcessFunction()
+   at RunasCsMainClass.RunasCsMain(System.String[])
+   at MainClass.Main(System.String[])
+
+
+
+Event number			: 12969
+Creation time			: Oct 01, 2024 20:46:15.806957100 UTC
+Written time			: Oct 01, 2024 20:46:15.806957100 UTC
+Event level			: Error (2)
+Computer name			: EC2AMAZ-3NV39E0
+Source name			: Application Error
+Event identifier		: 0x000003e8 (1000)
+Number of strings		: 15
+String: 1			: runasc.exe
+String: 2			: 1.0.0.0
+String: 3			: f95ebab5
+String: 4			: VCRUNTIME140_CLR0400.dll
+String: 5			: 14.10.25028.0
+String: 6			: 5bac17be
+String: 7			: c0000005
+String: 8			: 000000000000c447
+String: 9			: 93c
+String: 10			: 01db1442f56c4dc1
+String: 11			: C:\Users\DeeDee\Documents\runasc.exe
+String: 12			: C:\Windows\SYSTEM32\VCRUNTIME140_CLR0400.dll
+String: 13			: ab55d77f-95bf-4d85-99a2-b1c31737bae5
+String: 14			: 
+String: 15			: 
+
+Event number			: 12970
+Creation time			: Oct 01, 2024 20:51:13.201157800 UTC
+Written time			: Oct 01, 2024 20:51:13.201157800 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-3NV39E0
+Source name			: Windows Search Service Profile Notification
+Event identifier		: 0x00000005 (5)
+Number of strings		: 2
+String: 1			: EC2AMAZ-3NV39E0\Niko
+String: 2			: 
+
+Event number			: 12971
+Creation time			: Oct 01, 2024 20:52:41.685988900 UTC
+Written time			: Oct 01, 2024 20:52:41.685988900 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-3NV39E0
+Source name			: Wow64 Emulation Layer
+Event identifier		: 0x00000455 (1109)
+Number of strings		: 1
+String: 1			: \??\C:\Users\DeeDee\Documents\nc.exe
+
+Event number			: 12972
+Creation time			: Oct 01, 2024 20:52:41.764131400 UTC
+Written time			: Oct 01, 2024 20:52:41.764131400 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-3NV39E0
+Source name			: Wow64 Emulation Layer
+Event identifier		: 0x00000455 (1109)
+Number of strings		: 1
+String: 1			: \??\C:\Users\DeeDee\DOCUME~1\nc.exe
+
+Event number			: 12973
+Creation time			: Oct 01, 2024 20:52:41.842222400 UTC
+Written time			: Oct 01, 2024 20:52:41.842222400 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-3NV39E0
+Source name			: Wow64 Emulation Layer
+Event identifier		: 0x00000455 (1109)
+Number of strings		: 1
+String: 1			: \??\C:\Users\DeeDee\Documents\nc.exe
+

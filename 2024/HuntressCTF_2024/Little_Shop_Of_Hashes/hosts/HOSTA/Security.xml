@@ -1,0 +1,2779 @@
+<?xml version="1.1" encoding="utf-8" standalone="yes" ?>
+
+<Events>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Eventlog" Guid="{fc65ddd8-d6ef-4962-83d5-6e5cfe9ce148}"></Provider>
+<EventID Qualifiers="">1102</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>104</Task>
+<Opcode>0</Opcode>
+<Keywords>0x4020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:44.887217"></TimeCreated>
+<EventRecordID>232925</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="888" ThreadID="4212"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<UserData><LogFileCleared xmlns="http://manifests.microsoft.com/win/2004/08/windows/eventlog"><SubjectUserSid>S-1-5-21-312379445-3512834713-3133549549-500</SubjectUserSid>
+<SubjectUserName>Administrator</SubjectUserName>
+<SubjectDomainName>EC2AMAZ-3NV39E0</SubjectDomainName>
+<SubjectLogonId>0x00000000003beccb</SubjectLogonId>
+<ClientProcessId>500</ClientProcessId>
+<ClientProcessStartKey>134545038867697654</ClientProcessStartKey>
+</LogFileCleared>
+</UserData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4703</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13317</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:44.680487"></TimeCreated>
+<EventRecordID>232926</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">Administrator</Data>
+<Data Name="TargetDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="TargetLogonId">0x00000000003beccb</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="ProcessId">0x0000000000001058</Data>
+<Data Name="EnabledPrivilegeList">-</Data>
+<Data Name="DisabledPrivilegeList">SeBackupPrivilege</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4703</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13317</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:44.680494"></TimeCreated>
+<EventRecordID>232927</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">Administrator</Data>
+<Data Name="TargetDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="TargetLogonId">0x00000000003beccb</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="ProcessId">0x0000000000001058</Data>
+<Data Name="EnabledPrivilegeList">-</Data>
+<Data Name="DisabledPrivilegeList">SeSecurityPrivilege</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4689</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13313</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:44.681339"></TimeCreated>
+<EventRecordID>232928</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ProcessId">0x0000000000001058</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4689</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13313</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:44.682791"></TimeCreated>
+<EventRecordID>232929</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ProcessId">0x000000000000095c</Data>
+<Data Name="ProcessName">C:\Windows\System32\conhost.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4688</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>13312</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:44.685345"></TimeCreated>
+<EventRecordID>232930</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="NewProcessId">0x000000000000193c</Data>
+<Data Name="NewProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="TokenElevationType">%%1936</Data>
+<Data Name="ProcessId">0x000000000000173c</Data>
+<Data Name="CommandLine">"C:\Windows\system32\wevtutil.exe" cl RTWorkQueueTheading</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="TargetLogonId">0x0000000000000000</Data>
+<Data Name="ParentProcessName">C:\Windows\System32\wsmprovhost.exe</Data>
+<Data Name="MandatoryLabel">S-1-16-12288</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4688</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>13312</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:44.689224"></TimeCreated>
+<EventRecordID>232931</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="NewProcessId">0x0000000000000de4</Data>
+<Data Name="NewProcessName">C:\Windows\System32\conhost.exe</Data>
+<Data Name="TokenElevationType">%%1936</Data>
+<Data Name="ProcessId">0x000000000000193c</Data>
+<Data Name="CommandLine">\??\C:\Windows\system32\conhost.exe 0xffffffff -ForceV1</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="TargetLogonId">0x0000000000000000</Data>
+<Data Name="ParentProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="MandatoryLabel">S-1-16-12288</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4703</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13317</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:44.755775"></TimeCreated>
+<EventRecordID>232932</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">Administrator</Data>
+<Data Name="TargetDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="TargetLogonId">0x00000000003beccb</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="ProcessId">0x000000000000193c</Data>
+<Data Name="EnabledPrivilegeList">-</Data>
+<Data Name="DisabledPrivilegeList">SeBackupPrivilege</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4703</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13317</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:44.755779"></TimeCreated>
+<EventRecordID>232933</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">Administrator</Data>
+<Data Name="TargetDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="TargetLogonId">0x00000000003beccb</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="ProcessId">0x000000000000193c</Data>
+<Data Name="EnabledPrivilegeList">-</Data>
+<Data Name="DisabledPrivilegeList">SeSecurityPrivilege</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4689</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13313</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:44.756773"></TimeCreated>
+<EventRecordID>232934</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ProcessId">0x000000000000193c</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4689</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13313</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:44.759007"></TimeCreated>
+<EventRecordID>232935</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ProcessId">0x0000000000000de4</Data>
+<Data Name="ProcessName">C:\Windows\System32\conhost.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4688</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>13312</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:44.764421"></TimeCreated>
+<EventRecordID>232936</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="NewProcessId">0x0000000000001100</Data>
+<Data Name="NewProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="TokenElevationType">%%1936</Data>
+<Data Name="ProcessId">0x000000000000173c</Data>
+<Data Name="CommandLine">"C:\Windows\system32\wevtutil.exe" cl SMSApi</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="TargetLogonId">0x0000000000000000</Data>
+<Data Name="ParentProcessName">C:\Windows\System32\wsmprovhost.exe</Data>
+<Data Name="MandatoryLabel">S-1-16-12288</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4688</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>13312</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:44.767765"></TimeCreated>
+<EventRecordID>232937</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="NewProcessId">0x0000000000000bd8</Data>
+<Data Name="NewProcessName">C:\Windows\System32\conhost.exe</Data>
+<Data Name="TokenElevationType">%%1936</Data>
+<Data Name="ProcessId">0x0000000000001100</Data>
+<Data Name="CommandLine">\??\C:\Windows\system32\conhost.exe 0xffffffff -ForceV1</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="TargetLogonId">0x0000000000000000</Data>
+<Data Name="ParentProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="MandatoryLabel">S-1-16-12288</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4703</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13317</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:44.809389"></TimeCreated>
+<EventRecordID>232938</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">Administrator</Data>
+<Data Name="TargetDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="TargetLogonId">0x00000000003beccb</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="ProcessId">0x0000000000001100</Data>
+<Data Name="EnabledPrivilegeList">-</Data>
+<Data Name="DisabledPrivilegeList">SeBackupPrivilege</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4703</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13317</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:44.809397"></TimeCreated>
+<EventRecordID>232939</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">Administrator</Data>
+<Data Name="TargetDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="TargetLogonId">0x00000000003beccb</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="ProcessId">0x0000000000001100</Data>
+<Data Name="EnabledPrivilegeList">-</Data>
+<Data Name="DisabledPrivilegeList">SeSecurityPrivilege</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4689</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13313</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:44.810270"></TimeCreated>
+<EventRecordID>232940</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ProcessId">0x0000000000001100</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4689</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13313</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:44.811602"></TimeCreated>
+<EventRecordID>232941</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="204"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ProcessId">0x0000000000000bd8</Data>
+<Data Name="ProcessName">C:\Windows\System32\conhost.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4688</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>13312</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:44.814274"></TimeCreated>
+<EventRecordID>232942</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="204"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="NewProcessId">0x00000000000001f4</Data>
+<Data Name="NewProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="TokenElevationType">%%1936</Data>
+<Data Name="ProcessId">0x000000000000173c</Data>
+<Data Name="CommandLine">"C:\Windows\system32\wevtutil.exe" cl Security</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="TargetLogonId">0x0000000000000000</Data>
+<Data Name="ParentProcessName">C:\Windows\System32\wsmprovhost.exe</Data>
+<Data Name="MandatoryLabel">S-1-16-12288</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4688</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>13312</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:44.817606"></TimeCreated>
+<EventRecordID>232943</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="204"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="NewProcessId">0x0000000000001680</Data>
+<Data Name="NewProcessName">C:\Windows\System32\conhost.exe</Data>
+<Data Name="TokenElevationType">%%1936</Data>
+<Data Name="ProcessId">0x00000000000001f4</Data>
+<Data Name="CommandLine">\??\C:\Windows\system32\conhost.exe 0xffffffff -ForceV1</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="TargetLogonId">0x0000000000000000</Data>
+<Data Name="ParentProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="MandatoryLabel">S-1-16-12288</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4703</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13317</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:44.892197"></TimeCreated>
+<EventRecordID>232944</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="204"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">Administrator</Data>
+<Data Name="TargetDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="TargetLogonId">0x00000000003beccb</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="ProcessId">0x00000000000001f4</Data>
+<Data Name="EnabledPrivilegeList">-</Data>
+<Data Name="DisabledPrivilegeList">SeBackupPrivilege</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4703</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13317</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:44.892200"></TimeCreated>
+<EventRecordID>232945</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="204"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">Administrator</Data>
+<Data Name="TargetDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="TargetLogonId">0x00000000003beccb</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="ProcessId">0x00000000000001f4</Data>
+<Data Name="EnabledPrivilegeList">-</Data>
+<Data Name="DisabledPrivilegeList">SeSecurityPrivilege</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4689</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13313</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:44.899260"></TimeCreated>
+<EventRecordID>232946</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="204"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ProcessId">0x00000000000001f4</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4689</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13313</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:44.901941"></TimeCreated>
+<EventRecordID>232947</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="204"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ProcessId">0x0000000000001680</Data>
+<Data Name="ProcessName">C:\Windows\System32\conhost.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4688</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>13312</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:44.906990"></TimeCreated>
+<EventRecordID>232948</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="204"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="NewProcessId">0x0000000000001374</Data>
+<Data Name="NewProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="TokenElevationType">%%1936</Data>
+<Data Name="ProcessId">0x000000000000173c</Data>
+<Data Name="CommandLine">"C:\Windows\system32\wevtutil.exe" cl Setup</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="TargetLogonId">0x0000000000000000</Data>
+<Data Name="ParentProcessName">C:\Windows\System32\wsmprovhost.exe</Data>
+<Data Name="MandatoryLabel">S-1-16-12288</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4688</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>13312</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:44.918001"></TimeCreated>
+<EventRecordID>232949</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="204"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="NewProcessId">0x00000000000007e8</Data>
+<Data Name="NewProcessName">C:\Windows\System32\conhost.exe</Data>
+<Data Name="TokenElevationType">%%1936</Data>
+<Data Name="ProcessId">0x0000000000001374</Data>
+<Data Name="CommandLine">\??\C:\Windows\system32\conhost.exe 0xffffffff -ForceV1</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="TargetLogonId">0x0000000000000000</Data>
+<Data Name="ParentProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="MandatoryLabel">S-1-16-12288</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4703</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13317</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:44.977255"></TimeCreated>
+<EventRecordID>232950</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="204"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">Administrator</Data>
+<Data Name="TargetDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="TargetLogonId">0x00000000003beccb</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="ProcessId">0x0000000000001374</Data>
+<Data Name="EnabledPrivilegeList">-</Data>
+<Data Name="DisabledPrivilegeList">SeBackupPrivilege</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4703</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13317</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:44.977262"></TimeCreated>
+<EventRecordID>232951</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="204"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">Administrator</Data>
+<Data Name="TargetDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="TargetLogonId">0x00000000003beccb</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="ProcessId">0x0000000000001374</Data>
+<Data Name="EnabledPrivilegeList">-</Data>
+<Data Name="DisabledPrivilegeList">SeSecurityPrivilege</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4689</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13313</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:44.978096"></TimeCreated>
+<EventRecordID>232952</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="204"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ProcessId">0x0000000000001374</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4689</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13313</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:44.979115"></TimeCreated>
+<EventRecordID>232953</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="204"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ProcessId">0x00000000000007e8</Data>
+<Data Name="ProcessName">C:\Windows\System32\conhost.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4688</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>13312</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:44.981258"></TimeCreated>
+<EventRecordID>232954</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="204"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="NewProcessId">0x0000000000000a14</Data>
+<Data Name="NewProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="TokenElevationType">%%1936</Data>
+<Data Name="ProcessId">0x000000000000173c</Data>
+<Data Name="CommandLine">"C:\Windows\system32\wevtutil.exe" cl SmbWmiAnalytic</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="TargetLogonId">0x0000000000000000</Data>
+<Data Name="ParentProcessName">C:\Windows\System32\wsmprovhost.exe</Data>
+<Data Name="MandatoryLabel">S-1-16-12288</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4688</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>13312</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:44.984005"></TimeCreated>
+<EventRecordID>232955</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="204"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="NewProcessId">0x0000000000001a54</Data>
+<Data Name="NewProcessName">C:\Windows\System32\conhost.exe</Data>
+<Data Name="TokenElevationType">%%1936</Data>
+<Data Name="ProcessId">0x0000000000000a14</Data>
+<Data Name="CommandLine">\??\C:\Windows\system32\conhost.exe 0xffffffff -ForceV1</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="TargetLogonId">0x0000000000000000</Data>
+<Data Name="ParentProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="MandatoryLabel">S-1-16-12288</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4703</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13317</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.059502"></TimeCreated>
+<EventRecordID>232956</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">Administrator</Data>
+<Data Name="TargetDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="TargetLogonId">0x00000000003beccb</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="ProcessId">0x0000000000000a14</Data>
+<Data Name="EnabledPrivilegeList">-</Data>
+<Data Name="DisabledPrivilegeList">SeBackupPrivilege</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4703</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13317</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.059507"></TimeCreated>
+<EventRecordID>232957</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">Administrator</Data>
+<Data Name="TargetDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="TargetLogonId">0x00000000003beccb</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="ProcessId">0x0000000000000a14</Data>
+<Data Name="EnabledPrivilegeList">-</Data>
+<Data Name="DisabledPrivilegeList">SeSecurityPrivilege</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4689</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13313</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.061907"></TimeCreated>
+<EventRecordID>232958</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ProcessId">0x0000000000000a14</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4689</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13313</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.063013"></TimeCreated>
+<EventRecordID>232959</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ProcessId">0x0000000000001a54</Data>
+<Data Name="ProcessName">C:\Windows\System32\conhost.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4688</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>13312</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.065559"></TimeCreated>
+<EventRecordID>232960</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="NewProcessId">0x00000000000010e0</Data>
+<Data Name="NewProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="TokenElevationType">%%1936</Data>
+<Data Name="ProcessId">0x000000000000173c</Data>
+<Data Name="CommandLine">"C:\Windows\system32\wevtutil.exe" cl System</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="TargetLogonId">0x0000000000000000</Data>
+<Data Name="ParentProcessName">C:\Windows\System32\wsmprovhost.exe</Data>
+<Data Name="MandatoryLabel">S-1-16-12288</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4688</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>13312</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.068733"></TimeCreated>
+<EventRecordID>232961</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="NewProcessId">0x0000000000000528</Data>
+<Data Name="NewProcessName">C:\Windows\System32\conhost.exe</Data>
+<Data Name="TokenElevationType">%%1936</Data>
+<Data Name="ProcessId">0x00000000000010e0</Data>
+<Data Name="CommandLine">\??\C:\Windows\system32\conhost.exe 0xffffffff -ForceV1</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="TargetLogonId">0x0000000000000000</Data>
+<Data Name="ParentProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="MandatoryLabel">S-1-16-12288</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4703</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13317</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.105513"></TimeCreated>
+<EventRecordID>232962</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">Administrator</Data>
+<Data Name="TargetDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="TargetLogonId">0x00000000003beccb</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="ProcessId">0x00000000000010e0</Data>
+<Data Name="EnabledPrivilegeList">-</Data>
+<Data Name="DisabledPrivilegeList">SeBackupPrivilege</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4703</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13317</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.105518"></TimeCreated>
+<EventRecordID>232963</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">Administrator</Data>
+<Data Name="TargetDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="TargetLogonId">0x00000000003beccb</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="ProcessId">0x00000000000010e0</Data>
+<Data Name="EnabledPrivilegeList">-</Data>
+<Data Name="DisabledPrivilegeList">SeSecurityPrivilege</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4689</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13313</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.106655"></TimeCreated>
+<EventRecordID>232964</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ProcessId">0x00000000000010e0</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4689</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13313</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.107813"></TimeCreated>
+<EventRecordID>232965</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ProcessId">0x0000000000000528</Data>
+<Data Name="ProcessName">C:\Windows\System32\conhost.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4688</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>13312</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.110226"></TimeCreated>
+<EventRecordID>232966</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="NewProcessId">0x0000000000001ae8</Data>
+<Data Name="NewProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="TokenElevationType">%%1936</Data>
+<Data Name="ProcessId">0x000000000000173c</Data>
+<Data Name="CommandLine">"C:\Windows\system32\wevtutil.exe" cl SystemEventsBroker</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="TargetLogonId">0x0000000000000000</Data>
+<Data Name="ParentProcessName">C:\Windows\System32\wsmprovhost.exe</Data>
+<Data Name="MandatoryLabel">S-1-16-12288</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4688</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>13312</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.113155"></TimeCreated>
+<EventRecordID>232967</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="NewProcessId">0x00000000000016f8</Data>
+<Data Name="NewProcessName">C:\Windows\System32\conhost.exe</Data>
+<Data Name="TokenElevationType">%%1936</Data>
+<Data Name="ProcessId">0x0000000000001ae8</Data>
+<Data Name="CommandLine">\??\C:\Windows\system32\conhost.exe 0xffffffff -ForceV1</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="TargetLogonId">0x0000000000000000</Data>
+<Data Name="ParentProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="MandatoryLabel">S-1-16-12288</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4703</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13317</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.149778"></TimeCreated>
+<EventRecordID>232968</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">Administrator</Data>
+<Data Name="TargetDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="TargetLogonId">0x00000000003beccb</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="ProcessId">0x0000000000001ae8</Data>
+<Data Name="EnabledPrivilegeList">-</Data>
+<Data Name="DisabledPrivilegeList">SeBackupPrivilege</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4703</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13317</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.149784"></TimeCreated>
+<EventRecordID>232969</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">Administrator</Data>
+<Data Name="TargetDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="TargetLogonId">0x00000000003beccb</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="ProcessId">0x0000000000001ae8</Data>
+<Data Name="EnabledPrivilegeList">-</Data>
+<Data Name="DisabledPrivilegeList">SeSecurityPrivilege</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4689</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13313</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.150557"></TimeCreated>
+<EventRecordID>232970</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ProcessId">0x0000000000001ae8</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4689</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13313</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.151592"></TimeCreated>
+<EventRecordID>232971</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ProcessId">0x00000000000016f8</Data>
+<Data Name="ProcessName">C:\Windows\System32\conhost.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4688</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>13312</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.154482"></TimeCreated>
+<EventRecordID>232972</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="NewProcessId">0x0000000000001b90</Data>
+<Data Name="NewProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="TokenElevationType">%%1936</Data>
+<Data Name="ProcessId">0x000000000000173c</Data>
+<Data Name="CommandLine">"C:\Windows\system32\wevtutil.exe" cl TabletPC_InputPanel_Channel</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="TargetLogonId">0x0000000000000000</Data>
+<Data Name="ParentProcessName">C:\Windows\System32\wsmprovhost.exe</Data>
+<Data Name="MandatoryLabel">S-1-16-12288</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4688</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>13312</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.157270"></TimeCreated>
+<EventRecordID>232973</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="NewProcessId">0x000000000000177c</Data>
+<Data Name="NewProcessName">C:\Windows\System32\conhost.exe</Data>
+<Data Name="TokenElevationType">%%1936</Data>
+<Data Name="ProcessId">0x0000000000001b90</Data>
+<Data Name="CommandLine">\??\C:\Windows\system32\conhost.exe 0xffffffff -ForceV1</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="TargetLogonId">0x0000000000000000</Data>
+<Data Name="ParentProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="MandatoryLabel">S-1-16-12288</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4703</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13317</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.213060"></TimeCreated>
+<EventRecordID>232974</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">Administrator</Data>
+<Data Name="TargetDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="TargetLogonId">0x00000000003beccb</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="ProcessId">0x0000000000001b90</Data>
+<Data Name="EnabledPrivilegeList">-</Data>
+<Data Name="DisabledPrivilegeList">SeBackupPrivilege</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4703</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13317</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.213066"></TimeCreated>
+<EventRecordID>232975</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">Administrator</Data>
+<Data Name="TargetDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="TargetLogonId">0x00000000003beccb</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="ProcessId">0x0000000000001b90</Data>
+<Data Name="EnabledPrivilegeList">-</Data>
+<Data Name="DisabledPrivilegeList">SeSecurityPrivilege</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4689</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13313</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.215315"></TimeCreated>
+<EventRecordID>232976</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ProcessId">0x0000000000001b90</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4689</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13313</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.217735"></TimeCreated>
+<EventRecordID>232977</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ProcessId">0x000000000000177c</Data>
+<Data Name="ProcessName">C:\Windows\System32\conhost.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4688</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>13312</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.224382"></TimeCreated>
+<EventRecordID>232978</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="NewProcessId">0x0000000000000d18</Data>
+<Data Name="NewProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="TokenElevationType">%%1936</Data>
+<Data Name="ProcessId">0x000000000000173c</Data>
+<Data Name="CommandLine">"C:\Windows\system32\wevtutil.exe" cl TabletPC_InputPanel_Channel/IHM</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="TargetLogonId">0x0000000000000000</Data>
+<Data Name="ParentProcessName">C:\Windows\System32\wsmprovhost.exe</Data>
+<Data Name="MandatoryLabel">S-1-16-12288</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4688</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>13312</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.232634"></TimeCreated>
+<EventRecordID>232979</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="NewProcessId">0x00000000000011c0</Data>
+<Data Name="NewProcessName">C:\Windows\System32\conhost.exe</Data>
+<Data Name="TokenElevationType">%%1936</Data>
+<Data Name="ProcessId">0x0000000000000d18</Data>
+<Data Name="CommandLine">\??\C:\Windows\system32\conhost.exe 0xffffffff -ForceV1</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="TargetLogonId">0x0000000000000000</Data>
+<Data Name="ParentProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="MandatoryLabel">S-1-16-12288</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4703</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13317</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.281855"></TimeCreated>
+<EventRecordID>232980</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">Administrator</Data>
+<Data Name="TargetDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="TargetLogonId">0x00000000003beccb</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="ProcessId">0x0000000000000d18</Data>
+<Data Name="EnabledPrivilegeList">-</Data>
+<Data Name="DisabledPrivilegeList">SeBackupPrivilege</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4703</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13317</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.281860"></TimeCreated>
+<EventRecordID>232981</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">Administrator</Data>
+<Data Name="TargetDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="TargetLogonId">0x00000000003beccb</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="ProcessId">0x0000000000000d18</Data>
+<Data Name="EnabledPrivilegeList">-</Data>
+<Data Name="DisabledPrivilegeList">SeSecurityPrivilege</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4689</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13313</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.282560"></TimeCreated>
+<EventRecordID>232982</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ProcessId">0x0000000000000d18</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4689</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13313</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.283484"></TimeCreated>
+<EventRecordID>232983</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ProcessId">0x00000000000011c0</Data>
+<Data Name="ProcessName">C:\Windows\System32\conhost.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4688</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>13312</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.286230"></TimeCreated>
+<EventRecordID>232984</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="NewProcessId">0x0000000000000328</Data>
+<Data Name="NewProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="TokenElevationType">%%1936</Data>
+<Data Name="ProcessId">0x000000000000173c</Data>
+<Data Name="CommandLine">"C:\Windows\system32\wevtutil.exe" cl TimeBroker</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="TargetLogonId">0x0000000000000000</Data>
+<Data Name="ParentProcessName">C:\Windows\System32\wsmprovhost.exe</Data>
+<Data Name="MandatoryLabel">S-1-16-12288</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4688</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>13312</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.289019"></TimeCreated>
+<EventRecordID>232985</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="NewProcessId">0x0000000000001670</Data>
+<Data Name="NewProcessName">C:\Windows\System32\conhost.exe</Data>
+<Data Name="TokenElevationType">%%1936</Data>
+<Data Name="ProcessId">0x0000000000000328</Data>
+<Data Name="CommandLine">\??\C:\Windows\system32\conhost.exe 0xffffffff -ForceV1</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="TargetLogonId">0x0000000000000000</Data>
+<Data Name="ParentProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="MandatoryLabel">S-1-16-12288</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4703</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13317</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.343088"></TimeCreated>
+<EventRecordID>232986</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">Administrator</Data>
+<Data Name="TargetDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="TargetLogonId">0x00000000003beccb</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="ProcessId">0x0000000000000328</Data>
+<Data Name="EnabledPrivilegeList">-</Data>
+<Data Name="DisabledPrivilegeList">SeBackupPrivilege</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4703</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13317</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.343096"></TimeCreated>
+<EventRecordID>232987</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">Administrator</Data>
+<Data Name="TargetDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="TargetLogonId">0x00000000003beccb</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="ProcessId">0x0000000000000328</Data>
+<Data Name="EnabledPrivilegeList">-</Data>
+<Data Name="DisabledPrivilegeList">SeSecurityPrivilege</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4689</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13313</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.343935"></TimeCreated>
+<EventRecordID>232988</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ProcessId">0x0000000000000328</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4689</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13313</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.344835"></TimeCreated>
+<EventRecordID>232989</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ProcessId">0x0000000000001670</Data>
+<Data Name="ProcessName">C:\Windows\System32\conhost.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4688</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>13312</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.347532"></TimeCreated>
+<EventRecordID>232990</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="NewProcessId">0x0000000000001348</Data>
+<Data Name="NewProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="TokenElevationType">%%1936</Data>
+<Data Name="ProcessId">0x000000000000173c</Data>
+<Data Name="CommandLine">"C:\Windows\system32\wevtutil.exe" cl UIManager_Channel</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="TargetLogonId">0x0000000000000000</Data>
+<Data Name="ParentProcessName">C:\Windows\System32\wsmprovhost.exe</Data>
+<Data Name="MandatoryLabel">S-1-16-12288</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4688</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>13312</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.350304"></TimeCreated>
+<EventRecordID>232991</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="NewProcessId">0x0000000000000408</Data>
+<Data Name="NewProcessName">C:\Windows\System32\conhost.exe</Data>
+<Data Name="TokenElevationType">%%1936</Data>
+<Data Name="ProcessId">0x0000000000001348</Data>
+<Data Name="CommandLine">\??\C:\Windows\system32\conhost.exe 0xffffffff -ForceV1</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="TargetLogonId">0x0000000000000000</Data>
+<Data Name="ParentProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="MandatoryLabel">S-1-16-12288</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4703</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13317</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.387976"></TimeCreated>
+<EventRecordID>232992</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">Administrator</Data>
+<Data Name="TargetDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="TargetLogonId">0x00000000003beccb</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="ProcessId">0x0000000000001348</Data>
+<Data Name="EnabledPrivilegeList">-</Data>
+<Data Name="DisabledPrivilegeList">SeBackupPrivilege</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4703</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13317</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.387981"></TimeCreated>
+<EventRecordID>232993</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">Administrator</Data>
+<Data Name="TargetDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="TargetLogonId">0x00000000003beccb</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="ProcessId">0x0000000000001348</Data>
+<Data Name="EnabledPrivilegeList">-</Data>
+<Data Name="DisabledPrivilegeList">SeSecurityPrivilege</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4689</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13313</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.390327"></TimeCreated>
+<EventRecordID>232994</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ProcessId">0x0000000000001348</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4689</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13313</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.391651"></TimeCreated>
+<EventRecordID>232995</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ProcessId">0x0000000000000408</Data>
+<Data Name="ProcessName">C:\Windows\System32\conhost.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4688</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>13312</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.393915"></TimeCreated>
+<EventRecordID>232996</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="NewProcessId">0x00000000000001ec</Data>
+<Data Name="NewProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="TokenElevationType">%%1936</Data>
+<Data Name="ProcessId">0x000000000000173c</Data>
+<Data Name="CommandLine">"C:\Windows\system32\wevtutil.exe" cl Uac/Debug</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="TargetLogonId">0x0000000000000000</Data>
+<Data Name="ParentProcessName">C:\Windows\System32\wsmprovhost.exe</Data>
+<Data Name="MandatoryLabel">S-1-16-12288</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4688</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>13312</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.397034"></TimeCreated>
+<EventRecordID>232997</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="NewProcessId">0x00000000000000a8</Data>
+<Data Name="NewProcessName">C:\Windows\System32\conhost.exe</Data>
+<Data Name="TokenElevationType">%%1936</Data>
+<Data Name="ProcessId">0x00000000000001ec</Data>
+<Data Name="CommandLine">\??\C:\Windows\system32\conhost.exe 0xffffffff -ForceV1</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="TargetLogonId">0x0000000000000000</Data>
+<Data Name="ParentProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="MandatoryLabel">S-1-16-12288</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4703</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13317</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.428175"></TimeCreated>
+<EventRecordID>232998</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">Administrator</Data>
+<Data Name="TargetDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="TargetLogonId">0x00000000003beccb</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="ProcessId">0x00000000000001ec</Data>
+<Data Name="EnabledPrivilegeList">-</Data>
+<Data Name="DisabledPrivilegeList">SeBackupPrivilege</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4703</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13317</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.428183"></TimeCreated>
+<EventRecordID>232999</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">Administrator</Data>
+<Data Name="TargetDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="TargetLogonId">0x00000000003beccb</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="ProcessId">0x00000000000001ec</Data>
+<Data Name="EnabledPrivilegeList">-</Data>
+<Data Name="DisabledPrivilegeList">SeSecurityPrivilege</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4689</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13313</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.429104"></TimeCreated>
+<EventRecordID>233000</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ProcessId">0x00000000000001ec</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4689</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13313</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.435102"></TimeCreated>
+<EventRecordID>233001</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ProcessId">0x00000000000000a8</Data>
+<Data Name="ProcessName">C:\Windows\System32\conhost.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4688</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>13312</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.437607"></TimeCreated>
+<EventRecordID>233002</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="NewProcessId">0x0000000000001584</Data>
+<Data Name="NewProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="TokenElevationType">%%1936</Data>
+<Data Name="ProcessId">0x000000000000173c</Data>
+<Data Name="CommandLine">"C:\Windows\system32\wevtutil.exe" cl WINDOWS_KS_CHANNEL</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="TargetLogonId">0x0000000000000000</Data>
+<Data Name="ParentProcessName">C:\Windows\System32\wsmprovhost.exe</Data>
+<Data Name="MandatoryLabel">S-1-16-12288</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4688</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>13312</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.440687"></TimeCreated>
+<EventRecordID>233003</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="NewProcessId">0x0000000000000f6c</Data>
+<Data Name="NewProcessName">C:\Windows\System32\conhost.exe</Data>
+<Data Name="TokenElevationType">%%1936</Data>
+<Data Name="ProcessId">0x0000000000001584</Data>
+<Data Name="CommandLine">\??\C:\Windows\system32\conhost.exe 0xffffffff -ForceV1</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="TargetLogonId">0x0000000000000000</Data>
+<Data Name="ParentProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="MandatoryLabel">S-1-16-12288</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4703</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13317</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.484039"></TimeCreated>
+<EventRecordID>233004</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">Administrator</Data>
+<Data Name="TargetDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="TargetLogonId">0x00000000003beccb</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="ProcessId">0x0000000000001584</Data>
+<Data Name="EnabledPrivilegeList">-</Data>
+<Data Name="DisabledPrivilegeList">SeBackupPrivilege</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4703</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13317</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.484045"></TimeCreated>
+<EventRecordID>233005</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">Administrator</Data>
+<Data Name="TargetDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="TargetLogonId">0x00000000003beccb</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="ProcessId">0x0000000000001584</Data>
+<Data Name="EnabledPrivilegeList">-</Data>
+<Data Name="DisabledPrivilegeList">SeSecurityPrivilege</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4689</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13313</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.484932"></TimeCreated>
+<EventRecordID>233006</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="32"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ProcessId">0x0000000000001584</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4689</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13313</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.485857"></TimeCreated>
+<EventRecordID>233007</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="204"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ProcessId">0x0000000000000f6c</Data>
+<Data Name="ProcessName">C:\Windows\System32\conhost.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4688</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>13312</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.488180"></TimeCreated>
+<EventRecordID>233008</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="204"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="NewProcessId">0x0000000000001aa8</Data>
+<Data Name="NewProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="TokenElevationType">%%1936</Data>
+<Data Name="ProcessId">0x000000000000173c</Data>
+<Data Name="CommandLine">"C:\Windows\system32\wevtutil.exe" cl WINDOWS_MFH264Enc_CHANNEL</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="TargetLogonId">0x0000000000000000</Data>
+<Data Name="ParentProcessName">C:\Windows\System32\wsmprovhost.exe</Data>
+<Data Name="MandatoryLabel">S-1-16-12288</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4688</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>13312</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.491276"></TimeCreated>
+<EventRecordID>233009</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="204"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="NewProcessId">0x00000000000016c0</Data>
+<Data Name="NewProcessName">C:\Windows\System32\conhost.exe</Data>
+<Data Name="TokenElevationType">%%1936</Data>
+<Data Name="ProcessId">0x0000000000001aa8</Data>
+<Data Name="CommandLine">\??\C:\Windows\system32\conhost.exe 0xffffffff -ForceV1</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="TargetLogonId">0x0000000000000000</Data>
+<Data Name="ParentProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="MandatoryLabel">S-1-16-12288</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4703</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13317</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.524614"></TimeCreated>
+<EventRecordID>233010</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="204"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">Administrator</Data>
+<Data Name="TargetDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="TargetLogonId">0x00000000003beccb</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="ProcessId">0x0000000000001aa8</Data>
+<Data Name="EnabledPrivilegeList">-</Data>
+<Data Name="DisabledPrivilegeList">SeBackupPrivilege</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4703</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13317</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.524620"></TimeCreated>
+<EventRecordID>233011</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="204"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">Administrator</Data>
+<Data Name="TargetDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="TargetLogonId">0x00000000003beccb</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="ProcessId">0x0000000000001aa8</Data>
+<Data Name="EnabledPrivilegeList">-</Data>
+<Data Name="DisabledPrivilegeList">SeSecurityPrivilege</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4689</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13313</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.525282"></TimeCreated>
+<EventRecordID>233012</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="204"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ProcessId">0x0000000000001aa8</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4689</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13313</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.526499"></TimeCreated>
+<EventRecordID>233013</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="204"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ProcessId">0x00000000000016c0</Data>
+<Data Name="ProcessName">C:\Windows\System32\conhost.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4688</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>13312</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.528585"></TimeCreated>
+<EventRecordID>233014</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="204"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="NewProcessId">0x000000000000154c</Data>
+<Data Name="NewProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="TokenElevationType">%%1936</Data>
+<Data Name="ProcessId">0x000000000000173c</Data>
+<Data Name="CommandLine">"C:\Windows\system32\wevtutil.exe" cl WINDOWS_MP4SDECD_CHANNEL</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="TargetLogonId">0x0000000000000000</Data>
+<Data Name="ParentProcessName">C:\Windows\System32\wsmprovhost.exe</Data>
+<Data Name="MandatoryLabel">S-1-16-12288</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4688</EventID>
+<Version>2</Version>
+<Level>0</Level>
+<Task>13312</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.531771"></TimeCreated>
+<EventRecordID>233015</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="204"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="NewProcessId">0x0000000000000d1c</Data>
+<Data Name="NewProcessName">C:\Windows\System32\conhost.exe</Data>
+<Data Name="TokenElevationType">%%1936</Data>
+<Data Name="ProcessId">0x000000000000154c</Data>
+<Data Name="CommandLine">\??\C:\Windows\system32\conhost.exe 0xffffffff -ForceV1</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">-</Data>
+<Data Name="TargetDomainName">-</Data>
+<Data Name="TargetLogonId">0x0000000000000000</Data>
+<Data Name="ParentProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="MandatoryLabel">S-1-16-12288</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4703</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13317</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.576347"></TimeCreated>
+<EventRecordID>233016</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="204"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">Administrator</Data>
+<Data Name="TargetDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="TargetLogonId">0x00000000003beccb</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="ProcessId">0x000000000000154c</Data>
+<Data Name="EnabledPrivilegeList">-</Data>
+<Data Name="DisabledPrivilegeList">SeBackupPrivilege</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4703</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13317</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.576351"></TimeCreated>
+<EventRecordID>233017</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="204"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="TargetUserSid">S-1-0-0</Data>
+<Data Name="TargetUserName">Administrator</Data>
+<Data Name="TargetDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="TargetLogonId">0x00000000003beccb</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+<Data Name="ProcessId">0x000000000000154c</Data>
+<Data Name="EnabledPrivilegeList">-</Data>
+<Data Name="DisabledPrivilegeList">SeSecurityPrivilege</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4689</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13313</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.577036"></TimeCreated>
+<EventRecordID>233018</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="204"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ProcessId">0x000000000000154c</Data>
+<Data Name="ProcessName">C:\Windows\System32\wevtutil.exe</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"></Provider>
+<EventID Qualifiers="">4689</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13313</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.578239"></TimeCreated>
+<EventRecordID>233019</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="4" ThreadID="204"></Execution>
+<Channel>Security</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="SubjectUserSid">S-1-5-21-312379445-3512834713-3133549549-500</Data>
+<Data Name="SubjectUserName">Administrator</Data>
+<Data Name="SubjectDomainName">EC2AMAZ-3NV39E0</Data>
+<Data Name="SubjectLogonId">0x00000000003beccb</Data>
+<Data Name="Status">0x00000000</Data>
+<Data Name="ProcessId">0x0000000000000d1c</Data>
+<Data Name="ProcessName">C:\Windows\System32\conhost.exe</Data>
+</EventData>
+</Event>
+
+</Events>

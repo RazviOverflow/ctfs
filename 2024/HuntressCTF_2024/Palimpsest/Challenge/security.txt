@@ -1,0 +1,2853 @@
+evtxexport 20210525
+
+Event number			: 1
+Creation time			: Oct 08, 2024 20:20:13.347953400 UTC
+Written time			: Oct 08, 2024 20:20:13.347953400 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Eventlog
+Event identifier		: 0x0000044e (1102)
+Number of strings		: 4
+String: 1			: S-1-5-21-575862355-1298997956-143584457-500
+String: 2			: Administrator
+String: 3			: WIN-TU7OJ5RC88T
+String: 4			: 0x0000000000041a0b
+
+Event number			: 2
+Creation time			: Oct 08, 2024 20:24:26.632241300 UTC
+Written time			: Oct 08, 2024 20:24:26.632241300 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001278 (4728)
+Number of strings		: 10
+String: 1			: -
+String: 2			: S-1-5-21-575862355-1298997956-143584457-1000
+String: 3			: None
+String: 4			: WIN-TU7OJ5RC88T
+String: 5			: S-1-5-21-575862355-1298997956-143584457-513
+String: 6			: S-1-5-21-575862355-1298997956-143584457-500
+String: 7			: Administrator
+String: 8			: WIN-TU7OJ5RC88T
+String: 9			: 0x0000000000041a0b
+String: 10			: -
+
+Event number			: 3
+Creation time			: Oct 08, 2024 20:24:26.633483200 UTC
+Written time			: Oct 08, 2024 20:24:26.633483200 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001270 (4720)
+Number of strings		: 26
+String: 1			: EvilBob
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-1000
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: -
+String: 9			: EvilBob
+String: 10			: %%1793
+String: 11			: -
+String: 12			: %%1793
+String: 13			: %%1793
+String: 14			: %%1793
+String: 15			: %%1793
+String: 16			: %%1793
+String: 17			: %%1794
+String: 18			: %%1794
+String: 19			: 513
+String: 20			: -
+String: 21			: 0x0
+String: 22			: 0x15
+String: 23			: 
+		%%2080
+		%%2082
+		%%2084
+String: 24			: %%1793
+String: 25			: -
+String: 26			: %%1797
+
+Event number			: 4
+Creation time			: Oct 08, 2024 20:24:26.640933700 UTC
+Written time			: Oct 08, 2024 20:24:26.640933700 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001272 (4722)
+Number of strings		: 7
+String: 1			: EvilBob
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-1000
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+
+Event number			: 5
+Creation time			: Oct 08, 2024 20:24:26.641015300 UTC
+Written time			: Oct 08, 2024 20:24:26.641015300 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001282 (4738)
+Number of strings		: 27
+String: 1			: -
+String: 2			: EvilBob
+String: 3			: WIN-TU7OJ5RC88T
+String: 4			: S-1-5-21-575862355-1298997956-143584457-1000
+String: 5			: S-1-5-21-575862355-1298997956-143584457-500
+String: 6			: Administrator
+String: 7			: WIN-TU7OJ5RC88T
+String: 8			: 0x0000000000041a0b
+String: 9			: -
+String: 10			: EvilBob
+String: 11			: Evil Bob
+String: 12			: -
+String: 13			: %%1793
+String: 14			: %%1793
+String: 15			: %%1793
+String: 16			: %%1793
+String: 17			: %%1793
+String: 18			: %%1794
+String: 19			: %%1794
+String: 20			: 513
+String: 21			: -
+String: 22			: 0x15
+String: 23			: 0x14
+String: 24			: 
+		%%2048
+String: 25			: %%1793
+String: 26			: -
+String: 27			: %%1797
+
+Event number			: 6
+Creation time			: Oct 08, 2024 20:24:26.662726600 UTC
+Written time			: Oct 08, 2024 20:24:26.662726600 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001282 (4738)
+Number of strings		: 27
+String: 1			: -
+String: 2			: EvilBob
+String: 3			: WIN-TU7OJ5RC88T
+String: 4			: S-1-5-21-575862355-1298997956-143584457-1000
+String: 5			: S-1-5-21-575862355-1298997956-143584457-500
+String: 6			: Administrator
+String: 7			: WIN-TU7OJ5RC88T
+String: 8			: 0x0000000000041a0b
+String: 9			: -
+String: 10			: -
+String: 11			: -
+String: 12			: -
+String: 13			: -
+String: 14			: -
+String: 15			: -
+String: 16			: -
+String: 17			: -
+String: 18			: -
+String: 19			: -
+String: 20			: -
+String: 21			: -
+String: 22			: -
+String: 23			: -
+String: 24			: -
+String: 25			: -
+String: 26			: -
+String: 27			: -
+
+Event number			: 7
+Creation time			: Oct 08, 2024 20:24:26.662743600 UTC
+Written time			: Oct 08, 2024 20:24:26.662743600 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001274 (4724)
+Number of strings		: 7
+String: 1			: EvilBob
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-1000
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+
+Event number			: 8
+Creation time			: Oct 08, 2024 20:24:26.694404800 UTC
+Written time			: Oct 08, 2024 20:24:26.694404800 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012bf (4799)
+Number of strings		: 9
+String: 1			: Users
+String: 2			: Builtin
+String: 3			: S-1-5-32-545
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: 0x0000000000001020
+String: 9			: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+
+Event number			: 9
+Creation time			: Oct 08, 2024 20:24:26.698039400 UTC
+Written time			: Oct 08, 2024 20:24:26.698039400 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x0000127c (4732)
+Number of strings		: 10
+String: 1			: -
+String: 2			: S-1-5-21-575862355-1298997956-143584457-1000
+String: 3			: Users
+String: 4			: Builtin
+String: 5			: S-1-5-32-545
+String: 6			: S-1-5-21-575862355-1298997956-143584457-500
+String: 7			: Administrator
+String: 8			: WIN-TU7OJ5RC88T
+String: 9			: 0x0000000000041a0b
+String: 10			: -
+
+Event number			: 10
+Creation time			: Oct 08, 2024 20:24:30.843872100 UTC
+Written time			: Oct 08, 2024 20:24:30.843872100 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001210 (4624)
+Number of strings		: 27
+String: 1			: S-1-5-18
+String: 2			: WIN-TU7OJ5RC88T$
+String: 3			: WORKGROUP
+String: 4			: 0x00000000000003e7
+String: 5			: S-1-5-18
+String: 6			: SYSTEM
+String: 7			: NT AUTHORITY
+String: 8			: 0x00000000000003e7
+String: 9			: 5
+String: 10			: Advapi  
+String: 11			: Negotiate
+String: 12			: -
+String: 13			: {00000000-0000-0000-0000-000000000000}
+String: 14			: -
+String: 15			: -
+String: 16			: 0
+String: 17			: 0x0000000000000318
+String: 18			: C:\Windows\System32\services.exe
+String: 19			: -
+String: 20			: -
+String: 21			: %%1833
+String: 22			: -
+String: 23			: -
+String: 24			: -
+String: 25			: %%1843
+String: 26			: 0x0000000000000000
+String: 27			: %%1842
+
+Event number			: 11
+Creation time			: Oct 08, 2024 20:24:30.843898000 UTC
+Written time			: Oct 08, 2024 20:24:30.843898000 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001240 (4672)
+Number of strings		: 5
+String: 1			: S-1-5-18
+String: 2			: SYSTEM
+String: 3			: NT AUTHORITY
+String: 4			: 0x00000000000003e7
+String: 5			: SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege
+
+Event number			: 12
+Creation time			: Oct 08, 2024 20:24:33.174111000 UTC
+Written time			: Oct 08, 2024 20:24:33.174111000 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001210 (4624)
+Number of strings		: 27
+String: 1			: S-1-5-18
+String: 2			: WIN-TU7OJ5RC88T$
+String: 3			: WORKGROUP
+String: 4			: 0x00000000000003e7
+String: 5			: S-1-5-18
+String: 6			: SYSTEM
+String: 7			: NT AUTHORITY
+String: 8			: 0x00000000000003e7
+String: 9			: 5
+String: 10			: Advapi  
+String: 11			: Negotiate
+String: 12			: -
+String: 13			: {00000000-0000-0000-0000-000000000000}
+String: 14			: -
+String: 15			: -
+String: 16			: 0
+String: 17			: 0x0000000000000318
+String: 18			: C:\Windows\System32\services.exe
+String: 19			: -
+String: 20			: -
+String: 21			: %%1833
+String: 22			: -
+String: 23			: -
+String: 24			: -
+String: 25			: %%1843
+String: 26			: 0x0000000000000000
+String: 27			: %%1842
+
+Event number			: 13
+Creation time			: Oct 08, 2024 20:24:33.174116900 UTC
+Written time			: Oct 08, 2024 20:24:33.174116900 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001240 (4672)
+Number of strings		: 5
+String: 1			: S-1-5-18
+String: 2			: SYSTEM
+String: 3			: NT AUTHORITY
+String: 4			: 0x00000000000003e7
+String: 5			: SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege
+
+Event number			: 14
+Creation time			: Oct 08, 2024 20:24:34.294963200 UTC
+Written time			: Oct 08, 2024 20:24:34.294963200 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012be (4798)
+Number of strings		: 9
+String: 1			: Administrator
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-500
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: 0x00000000000010cc
+String: 9			: C:\Windows\explorer.exe
+
+Event number			: 15
+Creation time			: Oct 08, 2024 20:24:41.040752200 UTC
+Written time			: Oct 08, 2024 20:24:41.040752200 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012be (4798)
+Number of strings		: 9
+String: 1			: Administrator
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-500
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: 0x00000000000010cc
+String: 9			: C:\Windows\explorer.exe
+
+Event number			: 16
+Creation time			: Oct 08, 2024 20:25:05.005681500 UTC
+Written time			: Oct 08, 2024 20:25:05.005681500 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001210 (4624)
+Number of strings		: 27
+String: 1			: S-1-5-18
+String: 2			: WIN-TU7OJ5RC88T$
+String: 3			: WORKGROUP
+String: 4			: 0x00000000000003e7
+String: 5			: S-1-5-18
+String: 6			: SYSTEM
+String: 7			: NT AUTHORITY
+String: 8			: 0x00000000000003e7
+String: 9			: 5
+String: 10			: Advapi  
+String: 11			: Negotiate
+String: 12			: -
+String: 13			: {00000000-0000-0000-0000-000000000000}
+String: 14			: -
+String: 15			: -
+String: 16			: 0
+String: 17			: 0x0000000000000318
+String: 18			: C:\Windows\System32\services.exe
+String: 19			: -
+String: 20			: -
+String: 21			: %%1833
+String: 22			: -
+String: 23			: -
+String: 24			: -
+String: 25			: %%1843
+String: 26			: 0x0000000000000000
+String: 27			: %%1842
+
+Event number			: 17
+Creation time			: Oct 08, 2024 20:25:05.005687100 UTC
+Written time			: Oct 08, 2024 20:25:05.005687100 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001240 (4672)
+Number of strings		: 5
+String: 1			: S-1-5-18
+String: 2			: SYSTEM
+String: 3			: NT AUTHORITY
+String: 4			: 0x00000000000003e7
+String: 5			: SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege
+
+Event number			: 18
+Creation time			: Oct 08, 2024 20:25:44.691712900 UTC
+Written time			: Oct 08, 2024 20:25:44.691712900 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012be (4798)
+Number of strings		: 9
+String: 1			: Administrator
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-500
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: 0x00000000000010cc
+String: 9			: C:\Windows\explorer.exe
+
+Event number			: 19
+Creation time			: Oct 08, 2024 20:25:47.163115700 UTC
+Written time			: Oct 08, 2024 20:25:47.163115700 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001210 (4624)
+Number of strings		: 27
+String: 1			: S-1-5-18
+String: 2			: WIN-TU7OJ5RC88T$
+String: 3			: WORKGROUP
+String: 4			: 0x00000000000003e7
+String: 5			: S-1-5-18
+String: 6			: SYSTEM
+String: 7			: NT AUTHORITY
+String: 8			: 0x00000000000003e7
+String: 9			: 5
+String: 10			: Advapi  
+String: 11			: Negotiate
+String: 12			: -
+String: 13			: {00000000-0000-0000-0000-000000000000}
+String: 14			: -
+String: 15			: -
+String: 16			: 0
+String: 17			: 0x0000000000000318
+String: 18			: C:\Windows\System32\services.exe
+String: 19			: -
+String: 20			: -
+String: 21			: %%1833
+String: 22			: -
+String: 23			: -
+String: 24			: -
+String: 25			: %%1843
+String: 26			: 0x0000000000000000
+String: 27			: %%1842
+
+Event number			: 20
+Creation time			: Oct 08, 2024 20:25:47.163122100 UTC
+Written time			: Oct 08, 2024 20:25:47.163122100 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001240 (4672)
+Number of strings		: 5
+String: 1			: S-1-5-18
+String: 2			: SYSTEM
+String: 3			: NT AUTHORITY
+String: 4			: 0x00000000000003e7
+String: 5			: SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege
+
+Event number			: 21
+Creation time			: Oct 08, 2024 20:25:47.618274900 UTC
+Written time			: Oct 08, 2024 20:25:47.618274900 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001210 (4624)
+Number of strings		: 27
+String: 1			: S-1-5-18
+String: 2			: WIN-TU7OJ5RC88T$
+String: 3			: WORKGROUP
+String: 4			: 0x00000000000003e7
+String: 5			: S-1-5-18
+String: 6			: SYSTEM
+String: 7			: NT AUTHORITY
+String: 8			: 0x00000000000003e7
+String: 9			: 5
+String: 10			: Advapi  
+String: 11			: Negotiate
+String: 12			: -
+String: 13			: {00000000-0000-0000-0000-000000000000}
+String: 14			: -
+String: 15			: -
+String: 16			: 0
+String: 17			: 0x0000000000000318
+String: 18			: C:\Windows\System32\services.exe
+String: 19			: -
+String: 20			: -
+String: 21			: %%1833
+String: 22			: -
+String: 23			: -
+String: 24			: -
+String: 25			: %%1843
+String: 26			: 0x0000000000000000
+String: 27			: %%1842
+
+Event number			: 22
+Creation time			: Oct 08, 2024 20:25:47.618280600 UTC
+Written time			: Oct 08, 2024 20:25:47.618280600 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001240 (4672)
+Number of strings		: 5
+String: 1			: S-1-5-18
+String: 2			: SYSTEM
+String: 3			: NT AUTHORITY
+String: 4			: 0x00000000000003e7
+String: 5			: SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege
+
+Event number			: 23
+Creation time			: Oct 08, 2024 20:25:49.142991100 UTC
+Written time			: Oct 08, 2024 20:25:49.142991100 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012be (4798)
+Number of strings		: 9
+String: 1			: Administrator
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-500
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: 0x00000000000010cc
+String: 9			: C:\Windows\explorer.exe
+
+Event number			: 24
+Creation time			: Oct 08, 2024 20:25:49.421093200 UTC
+Written time			: Oct 08, 2024 20:25:49.421093200 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001210 (4624)
+Number of strings		: 27
+String: 1			: S-1-5-18
+String: 2			: WIN-TU7OJ5RC88T$
+String: 3			: WORKGROUP
+String: 4			: 0x00000000000003e7
+String: 5			: S-1-5-18
+String: 6			: SYSTEM
+String: 7			: NT AUTHORITY
+String: 8			: 0x00000000000003e7
+String: 9			: 5
+String: 10			: Advapi  
+String: 11			: Negotiate
+String: 12			: -
+String: 13			: {00000000-0000-0000-0000-000000000000}
+String: 14			: -
+String: 15			: -
+String: 16			: 0
+String: 17			: 0x0000000000000318
+String: 18			: C:\Windows\System32\services.exe
+String: 19			: -
+String: 20			: -
+String: 21			: %%1833
+String: 22			: -
+String: 23			: -
+String: 24			: -
+String: 25			: %%1843
+String: 26			: 0x0000000000000000
+String: 27			: %%1842
+
+Event number			: 25
+Creation time			: Oct 08, 2024 20:25:49.421099100 UTC
+Written time			: Oct 08, 2024 20:25:49.421099100 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001240 (4672)
+Number of strings		: 5
+String: 1			: S-1-5-18
+String: 2			: SYSTEM
+String: 3			: NT AUTHORITY
+String: 4			: 0x00000000000003e7
+String: 5			: SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege
+
+Event number			: 26
+Creation time			: Oct 08, 2024 20:25:49.454828900 UTC
+Written time			: Oct 08, 2024 20:25:49.454828900 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001503 (5379)
+Number of strings		: 11
+String: 1			: S-1-5-18
+String: 2			: WIN-TU7OJ5RC88T$
+String: 3			: WORKGROUP
+String: 4			: 0x00000000000003e7
+String: 5			: WindowsLive:(token):name=02hoxtficubihfjr;serviceuri=*
+String: 6			: 0
+String: 7			: 0
+String: 8			: %%8100
+String: 9			: 3221226021
+String: 10			: 2024-10-08T20:25:49.422309800Z
+String: 11			: 6920
+
+Event number			: 27
+Creation time			: Oct 08, 2024 20:25:49.455055600 UTC
+Written time			: Oct 08, 2024 20:25:49.455055600 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001503 (5379)
+Number of strings		: 11
+String: 1			: S-1-5-18
+String: 2			: WIN-TU7OJ5RC88T$
+String: 3			: WORKGROUP
+String: 4			: 0x00000000000003e7
+String: 5			: WindowsLive:(cert):name=02hoxtficubihfjr;serviceuri=*
+String: 6			: 0
+String: 7			: 0
+String: 8			: %%8100
+String: 9			: 3221226021
+String: 10			: 2024-10-08T20:25:49.422309800Z
+String: 11			: 6920
+
+Event number			: 28
+Creation time			: Oct 08, 2024 20:25:49.455139100 UTC
+Written time			: Oct 08, 2024 20:25:49.455139100 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001503 (5379)
+Number of strings		: 11
+String: 1			: S-1-5-18
+String: 2			: WIN-TU7OJ5RC88T$
+String: 3			: WORKGROUP
+String: 4			: 0x00000000000003e7
+String: 5			: WindowsLive:target=virtualapp/didlogical
+String: 6			: 0
+String: 7			: 1
+String: 8			: %%8100
+String: 9			: 0
+String: 10			: 2024-10-08T20:25:49.422309800Z
+String: 11			: 6920
+
+Event number			: 29
+Creation time			: Oct 08, 2024 20:25:49.457384700 UTC
+Written time			: Oct 08, 2024 20:25:49.457384700 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001503 (5379)
+Number of strings		: 11
+String: 1			: S-1-5-18
+String: 2			: WIN-TU7OJ5RC88T$
+String: 3			: WORKGROUP
+String: 4			: 0x00000000000003e7
+String: 5			: MicrosoftAccount:user=02hoxtficubihfjr
+String: 6			: 0
+String: 7			: 0
+String: 8			: %%8100
+String: 9			: 3221226021
+String: 10			: 2024-10-08T20:25:49.422309800Z
+String: 11			: 6920
+
+Event number			: 30
+Creation time			: Oct 08, 2024 20:25:49.457463200 UTC
+Written time			: Oct 08, 2024 20:25:49.457463200 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001503 (5379)
+Number of strings		: 11
+String: 1			: S-1-5-18
+String: 2			: WIN-TU7OJ5RC88T$
+String: 3			: WORKGROUP
+String: 4			: 0x00000000000003e7
+String: 5			: WindowsLive:(token):name=02hoxtficubihfjr;serviceuri=*
+String: 6			: 0
+String: 7			: 0
+String: 8			: %%8100
+String: 9			: 3221226021
+String: 10			: 2024-10-08T20:25:49.422309800Z
+String: 11			: 6920
+
+Event number			: 31
+Creation time			: Oct 08, 2024 20:25:49.457803500 UTC
+Written time			: Oct 08, 2024 20:25:49.457803500 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001503 (5379)
+Number of strings		: 11
+String: 1			: S-1-5-18
+String: 2			: WIN-TU7OJ5RC88T$
+String: 3			: WORKGROUP
+String: 4			: 0x00000000000003e7
+String: 5			: WindowsLive:(cert):name=02hoxtficubihfjr;serviceuri=*
+String: 6			: 0
+String: 7			: 0
+String: 8			: %%8100
+String: 9			: 3221226021
+String: 10			: 2024-10-08T20:25:49.422309800Z
+String: 11			: 6920
+
+Event number			: 32
+Creation time			: Oct 08, 2024 20:25:49.483213500 UTC
+Written time			: Oct 08, 2024 20:25:49.483213500 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001503 (5379)
+Number of strings		: 11
+String: 1			: S-1-5-21-575862355-1298997956-143584457-500
+String: 2			: Administrator
+String: 3			: WIN-TU7OJ5RC88T
+String: 4			: 0x0000000000041a0b
+String: 5			: WindowsLive:(token):name=02huxjgqspgqffrl;serviceuri=*
+String: 6			: 0
+String: 7			: 0
+String: 8			: %%8100
+String: 9			: 3221226021
+String: 10			: 2024-10-08T20:25:49.422309800Z
+String: 11			: 6920
+
+Event number			: 33
+Creation time			: Oct 08, 2024 20:25:49.484325200 UTC
+Written time			: Oct 08, 2024 20:25:49.484325200 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001503 (5379)
+Number of strings		: 11
+String: 1			: S-1-5-21-575862355-1298997956-143584457-500
+String: 2			: Administrator
+String: 3			: WIN-TU7OJ5RC88T
+String: 4			: 0x0000000000041a0b
+String: 5			: WindowsLive:(cert):name=02huxjgqspgqffrl;serviceuri=*
+String: 6			: 0
+String: 7			: 0
+String: 8			: %%8100
+String: 9			: 3221226021
+String: 10			: 2024-10-08T20:25:49.422309800Z
+String: 11			: 6920
+
+Event number			: 34
+Creation time			: Oct 08, 2024 20:25:49.484421400 UTC
+Written time			: Oct 08, 2024 20:25:49.484421400 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001503 (5379)
+Number of strings		: 11
+String: 1			: S-1-5-21-575862355-1298997956-143584457-500
+String: 2			: Administrator
+String: 3			: WIN-TU7OJ5RC88T
+String: 4			: 0x0000000000041a0b
+String: 5			: WindowsLive:target=virtualapp/didlogical
+String: 6			: 0
+String: 7			: 1
+String: 8			: %%8100
+String: 9			: 0
+String: 10			: 2024-10-08T20:25:49.422309800Z
+String: 11			: 6920
+
+Event number			: 35
+Creation time			: Oct 08, 2024 20:25:49.984891000 UTC
+Written time			: Oct 08, 2024 20:25:49.984891000 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001503 (5379)
+Number of strings		: 11
+String: 1			: S-1-5-18
+String: 2			: WIN-TU7OJ5RC88T$
+String: 3			: WORKGROUP
+String: 4			: 0x00000000000003e7
+String: 5			: MicrosoftAccount:user=02hoxtficubihfjr
+String: 6			: 0
+String: 7			: 0
+String: 8			: %%8100
+String: 9			: 3221226021
+String: 10			: 2024-10-08T20:25:49.422309800Z
+String: 11			: 6920
+
+Event number			: 36
+Creation time			: Oct 08, 2024 20:25:49.985587900 UTC
+Written time			: Oct 08, 2024 20:25:49.985587900 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001503 (5379)
+Number of strings		: 11
+String: 1			: S-1-5-18
+String: 2			: WIN-TU7OJ5RC88T$
+String: 3			: WORKGROUP
+String: 4			: 0x00000000000003e7
+String: 5			: MicrosoftAccount:user=02hoxtficubihfjr
+String: 6			: 0
+String: 7			: 0
+String: 8			: %%8100
+String: 9			: 3221226021
+String: 10			: 2024-10-08T20:25:49.422309800Z
+String: 11			: 6920
+
+Event number			: 37
+Creation time			: Oct 08, 2024 20:25:49.987581100 UTC
+Written time			: Oct 08, 2024 20:25:49.987581100 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001503 (5379)
+Number of strings		: 11
+String: 1			: S-1-5-18
+String: 2			: WIN-TU7OJ5RC88T$
+String: 3			: WORKGROUP
+String: 4			: 0x00000000000003e7
+String: 5			: MicrosoftAccount:user=02hoxtficubihfjr
+String: 6			: 0
+String: 7			: 0
+String: 8			: %%8100
+String: 9			: 3221226021
+String: 10			: 2024-10-08T20:25:49.422309800Z
+String: 11			: 6920
+
+Event number			: 38
+Creation time			: Oct 08, 2024 20:25:49.987636500 UTC
+Written time			: Oct 08, 2024 20:25:49.987636500 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001503 (5379)
+Number of strings		: 11
+String: 1			: S-1-5-18
+String: 2			: WIN-TU7OJ5RC88T$
+String: 3			: WORKGROUP
+String: 4			: 0x00000000000003e7
+String: 5			: MicrosoftAccount:user=02hoxtficubihfjr
+String: 6			: 0
+String: 7			: 0
+String: 8			: %%8100
+String: 9			: 3221226021
+String: 10			: 2024-10-08T20:25:49.422309800Z
+String: 11			: 6920
+
+Event number			: 39
+Creation time			: Oct 08, 2024 20:25:58.352329000 UTC
+Written time			: Oct 08, 2024 20:25:58.352329000 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012be (4798)
+Number of strings		: 9
+String: 1			: Administrator
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-500
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: 0x00000000000010cc
+String: 9			: C:\Windows\explorer.exe
+
+Event number			: 40
+Creation time			: Oct 08, 2024 20:28:59.183287100 UTC
+Written time			: Oct 08, 2024 20:28:59.183287100 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012be (4798)
+Number of strings		: 9
+String: 1			: Administrator
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-500
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: 0x00000000000010cc
+String: 9			: C:\Windows\explorer.exe
+
+Event number			: 41
+Creation time			: Oct 08, 2024 20:31:44.180598800 UTC
+Written time			: Oct 08, 2024 20:31:44.180598800 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001210 (4624)
+Number of strings		: 27
+String: 1			: S-1-5-18
+String: 2			: WIN-TU7OJ5RC88T$
+String: 3			: WORKGROUP
+String: 4			: 0x00000000000003e7
+String: 5			: S-1-5-18
+String: 6			: SYSTEM
+String: 7			: NT AUTHORITY
+String: 8			: 0x00000000000003e7
+String: 9			: 5
+String: 10			: Advapi  
+String: 11			: Negotiate
+String: 12			: -
+String: 13			: {00000000-0000-0000-0000-000000000000}
+String: 14			: -
+String: 15			: -
+String: 16			: 0
+String: 17			: 0x0000000000000318
+String: 18			: C:\Windows\System32\services.exe
+String: 19			: -
+String: 20			: -
+String: 21			: %%1833
+String: 22			: -
+String: 23			: -
+String: 24			: -
+String: 25			: %%1843
+String: 26			: 0x0000000000000000
+String: 27			: %%1842
+
+Event number			: 42
+Creation time			: Oct 08, 2024 20:31:44.180605800 UTC
+Written time			: Oct 08, 2024 20:31:44.180605800 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001240 (4672)
+Number of strings		: 5
+String: 1			: S-1-5-18
+String: 2			: SYSTEM
+String: 3			: NT AUTHORITY
+String: 4			: 0x00000000000003e7
+String: 5			: SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege
+
+Event number			: 43
+Creation time			: Oct 08, 2024 20:31:44.332196000 UTC
+Written time			: Oct 08, 2024 20:31:44.332196000 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012bf (4799)
+Number of strings		: 9
+String: 1			: Administrators
+String: 2			: Builtin
+String: 3			: S-1-5-32-544
+String: 4			: S-1-5-18
+String: 5			: WIN-TU7OJ5RC88T$
+String: 6			: WORKGROUP
+String: 7			: 0x00000000000003e7
+String: 8			: 0x0000000000001584
+String: 9			: C:\Windows\System32\svchost.exe
+
+Event number			: 44
+Creation time			: Oct 08, 2024 20:31:44.333382000 UTC
+Written time			: Oct 08, 2024 20:31:44.333382000 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012bf (4799)
+Number of strings		: 9
+String: 1			: Backup Operators
+String: 2			: Builtin
+String: 3			: S-1-5-32-551
+String: 4			: S-1-5-18
+String: 5			: WIN-TU7OJ5RC88T$
+String: 6			: WORKGROUP
+String: 7			: 0x00000000000003e7
+String: 8			: 0x0000000000001584
+String: 9			: C:\Windows\System32\svchost.exe
+
+Event number			: 45
+Creation time			: Oct 08, 2024 20:31:56.576227500 UTC
+Written time			: Oct 08, 2024 20:31:56.576227500 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012be (4798)
+Number of strings		: 9
+String: 1			: Administrator
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-500
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: 0x00000000000010cc
+String: 9			: C:\Windows\explorer.exe
+
+Event number			: 46
+Creation time			: Oct 08, 2024 20:32:00.523803300 UTC
+Written time			: Oct 08, 2024 20:32:00.523803300 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001503 (5379)
+Number of strings		: 11
+String: 1			: S-1-5-21-575862355-1298997956-143584457-500
+String: 2			: Administrator
+String: 3			: WIN-TU7OJ5RC88T
+String: 4			: 0x0000000000041a0b
+String: 5			: OneDriveCachedCredential*
+String: 6			: 0
+String: 7			: 0
+String: 8			: %%8100
+String: 9			: 3221226021
+String: 10			: 2024-10-08T20:31:45.357508800Z
+String: 11			: 6504
+
+Event number			: 47
+Creation time			: Oct 08, 2024 20:32:00.523941500 UTC
+Written time			: Oct 08, 2024 20:32:00.523941500 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001503 (5379)
+Number of strings		: 11
+String: 1			: S-1-5-21-575862355-1298997956-143584457-500
+String: 2			: Administrator
+String: 3			: WIN-TU7OJ5RC88T
+String: 4			: 0x0000000000041a0b
+String: 5			: OneDrive-INTCachedCredential*
+String: 6			: 0
+String: 7			: 0
+String: 8			: %%8100
+String: 9			: 3221226021
+String: 10			: 2024-10-08T20:31:45.357508800Z
+String: 11			: 6504
+
+Event number			: 48
+Creation time			: Oct 08, 2024 20:32:00.597437000 UTC
+Written time			: Oct 08, 2024 20:32:00.597437000 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001503 (5379)
+Number of strings		: 11
+String: 1			: S-1-5-21-575862355-1298997956-143584457-500
+String: 2			: Administrator
+String: 3			: WIN-TU7OJ5RC88T
+String: 4			: 0x0000000000041a0b
+String: 5			: OneDriveCachedCredential*
+String: 6			: 0
+String: 7			: 0
+String: 8			: %%8100
+String: 9			: 3221226021
+String: 10			: 2024-10-08T20:31:45.357508800Z
+String: 11			: 6504
+
+Event number			: 49
+Creation time			: Oct 08, 2024 20:32:00.597507400 UTC
+Written time			: Oct 08, 2024 20:32:00.597507400 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001503 (5379)
+Number of strings		: 11
+String: 1			: S-1-5-21-575862355-1298997956-143584457-500
+String: 2			: Administrator
+String: 3			: WIN-TU7OJ5RC88T
+String: 4			: 0x0000000000041a0b
+String: 5			: OneDrive-INTCachedCredential*
+String: 6			: 0
+String: 7			: 0
+String: 8			: %%8100
+String: 9			: 3221226021
+String: 10			: 2024-10-08T20:31:45.357508800Z
+String: 11			: 6504
+
+Event number			: 50
+Creation time			: Oct 08, 2024 20:32:08.383796900 UTC
+Written time			: Oct 08, 2024 20:32:08.383796900 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012be (4798)
+Number of strings		: 9
+String: 1			: Administrator
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-500
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: 0x00000000000010cc
+String: 9			: C:\Windows\explorer.exe
+
+Event number			: 51
+Creation time			: Oct 08, 2024 20:33:06.968338600 UTC
+Written time			: Oct 08, 2024 20:33:06.968338600 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001210 (4624)
+Number of strings		: 27
+String: 1			: S-1-5-18
+String: 2			: WIN-TU7OJ5RC88T$
+String: 3			: WORKGROUP
+String: 4			: 0x00000000000003e7
+String: 5			: S-1-5-18
+String: 6			: SYSTEM
+String: 7			: NT AUTHORITY
+String: 8			: 0x00000000000003e7
+String: 9			: 5
+String: 10			: Advapi  
+String: 11			: Negotiate
+String: 12			: -
+String: 13			: {00000000-0000-0000-0000-000000000000}
+String: 14			: -
+String: 15			: -
+String: 16			: 0
+String: 17			: 0x0000000000000318
+String: 18			: C:\Windows\System32\services.exe
+String: 19			: -
+String: 20			: -
+String: 21			: %%1833
+String: 22			: -
+String: 23			: -
+String: 24			: -
+String: 25			: %%1843
+String: 26			: 0x0000000000000000
+String: 27			: %%1842
+
+Event number			: 52
+Creation time			: Oct 08, 2024 20:33:06.968346000 UTC
+Written time			: Oct 08, 2024 20:33:06.968346000 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001240 (4672)
+Number of strings		: 5
+String: 1			: S-1-5-18
+String: 2			: SYSTEM
+String: 3			: NT AUTHORITY
+String: 4			: 0x00000000000003e7
+String: 5			: SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege
+
+Event number			: 53
+Creation time			: Oct 08, 2024 20:35:29.006113500 UTC
+Written time			: Oct 08, 2024 20:35:29.006113500 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001208 (4616)
+Number of strings		: 8
+String: 1			: S-1-5-19
+String: 2			: LOCAL SERVICE
+String: 3			: NT AUTHORITY
+String: 4			: 0x00000000000003e5
+String: 5			: 2024-10-08T20:35:30.773864200Z
+String: 6			: 2024-10-08T20:35:29.003391500Z
+String: 7			: 0x0000000000000ae8
+String: 8			: C:\Windows\System32\svchost.exe
+
+Event number			: 54
+Creation time			: Oct 08, 2024 20:35:29.007197800 UTC
+Written time			: Oct 08, 2024 20:35:29.007197800 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001208 (4616)
+Number of strings		: 8
+String: 1			: S-1-5-19
+String: 2			: LOCAL SERVICE
+String: 3			: NT AUTHORITY
+String: 4			: 0x00000000000003e5
+String: 5			: 2024-10-08T20:35:29.006281200Z
+String: 6			: 2024-10-08T20:35:29.006505100Z
+String: 7			: 0x0000000000000ae8
+String: 8			: C:\Windows\System32\svchost.exe
+
+Event number			: 55
+Creation time			: Oct 08, 2024 20:35:42.125326400 UTC
+Written time			: Oct 08, 2024 20:35:42.125326400 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012be (4798)
+Number of strings		: 9
+String: 1			: Administrator
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-500
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: 0x00000000000010cc
+String: 9			: C:\Windows\explorer.exe
+
+Event number			: 56
+Creation time			: Oct 08, 2024 20:36:32.937363300 UTC
+Written time			: Oct 08, 2024 20:36:32.937363300 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001210 (4624)
+Number of strings		: 27
+String: 1			: S-1-5-18
+String: 2			: WIN-TU7OJ5RC88T$
+String: 3			: WORKGROUP
+String: 4			: 0x00000000000003e7
+String: 5			: S-1-5-18
+String: 6			: SYSTEM
+String: 7			: NT AUTHORITY
+String: 8			: 0x00000000000003e7
+String: 9			: 5
+String: 10			: Advapi  
+String: 11			: Negotiate
+String: 12			: -
+String: 13			: {00000000-0000-0000-0000-000000000000}
+String: 14			: -
+String: 15			: -
+String: 16			: 0
+String: 17			: 0x0000000000000318
+String: 18			: C:\Windows\System32\services.exe
+String: 19			: -
+String: 20			: -
+String: 21			: %%1833
+String: 22			: -
+String: 23			: -
+String: 24			: -
+String: 25			: %%1843
+String: 26			: 0x0000000000000000
+String: 27			: %%1842
+
+Event number			: 57
+Creation time			: Oct 08, 2024 20:36:32.937370300 UTC
+Written time			: Oct 08, 2024 20:36:32.937370300 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001240 (4672)
+Number of strings		: 5
+String: 1			: S-1-5-18
+String: 2			: SYSTEM
+String: 3			: NT AUTHORITY
+String: 4			: 0x00000000000003e7
+String: 5			: SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege
+
+Event number			: 58
+Creation time			: Oct 08, 2024 20:36:32.960913400 UTC
+Written time			: Oct 08, 2024 20:36:32.960913400 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001210 (4624)
+Number of strings		: 27
+String: 1			: S-1-5-18
+String: 2			: WIN-TU7OJ5RC88T$
+String: 3			: WORKGROUP
+String: 4			: 0x00000000000003e7
+String: 5			: S-1-5-18
+String: 6			: SYSTEM
+String: 7			: NT AUTHORITY
+String: 8			: 0x00000000000003e7
+String: 9			: 5
+String: 10			: Advapi  
+String: 11			: Negotiate
+String: 12			: -
+String: 13			: {00000000-0000-0000-0000-000000000000}
+String: 14			: -
+String: 15			: -
+String: 16			: 0
+String: 17			: 0x0000000000000318
+String: 18			: C:\Windows\System32\services.exe
+String: 19			: -
+String: 20			: -
+String: 21			: %%1833
+String: 22			: -
+String: 23			: -
+String: 24			: -
+String: 25			: %%1843
+String: 26			: 0x0000000000000000
+String: 27			: %%1842
+
+Event number			: 59
+Creation time			: Oct 08, 2024 20:36:32.960918900 UTC
+Written time			: Oct 08, 2024 20:36:32.960918900 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001240 (4672)
+Number of strings		: 5
+String: 1			: S-1-5-18
+String: 2			: SYSTEM
+String: 3			: NT AUTHORITY
+String: 4			: 0x00000000000003e7
+String: 5			: SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege
+
+Event number			: 60
+Creation time			: Oct 08, 2024 20:36:41.465634900 UTC
+Written time			: Oct 08, 2024 20:36:41.465634900 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001210 (4624)
+Number of strings		: 27
+String: 1			: S-1-5-18
+String: 2			: WIN-TU7OJ5RC88T$
+String: 3			: WORKGROUP
+String: 4			: 0x00000000000003e7
+String: 5			: S-1-5-18
+String: 6			: SYSTEM
+String: 7			: NT AUTHORITY
+String: 8			: 0x00000000000003e7
+String: 9			: 5
+String: 10			: Advapi  
+String: 11			: Negotiate
+String: 12			: -
+String: 13			: {00000000-0000-0000-0000-000000000000}
+String: 14			: -
+String: 15			: -
+String: 16			: 0
+String: 17			: 0x0000000000000318
+String: 18			: C:\Windows\System32\services.exe
+String: 19			: -
+String: 20			: -
+String: 21			: %%1833
+String: 22			: -
+String: 23			: -
+String: 24			: -
+String: 25			: %%1843
+String: 26			: 0x0000000000000000
+String: 27			: %%1842
+
+Event number			: 61
+Creation time			: Oct 08, 2024 20:36:41.465641300 UTC
+Written time			: Oct 08, 2024 20:36:41.465641300 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001240 (4672)
+Number of strings		: 5
+String: 1			: S-1-5-18
+String: 2			: SYSTEM
+String: 3			: NT AUTHORITY
+String: 4			: 0x00000000000003e7
+String: 5			: SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege
+
+Event number			: 62
+Creation time			: Oct 08, 2024 20:37:46.496059000 UTC
+Written time			: Oct 08, 2024 20:37:46.496059000 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012be (4798)
+Number of strings		: 9
+String: 1			: Administrator
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-500
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: 0x00000000000010cc
+String: 9			: C:\Windows\explorer.exe
+
+Event number			: 63
+Creation time			: Oct 08, 2024 20:37:46.923559900 UTC
+Written time			: Oct 08, 2024 20:37:46.923559900 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012be (4798)
+Number of strings		: 9
+String: 1			: Administrator
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-500
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: 0x00000000000010cc
+String: 9			: C:\Windows\explorer.exe
+
+Event number			: 64
+Creation time			: Oct 08, 2024 20:37:49.328184200 UTC
+Written time			: Oct 08, 2024 20:37:49.328184200 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012be (4798)
+Number of strings		: 9
+String: 1			: Administrator
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-500
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: 0x00000000000010cc
+String: 9			: C:\Windows\explorer.exe
+
+Event number			: 65
+Creation time			: Oct 08, 2024 20:37:51.084166700 UTC
+Written time			: Oct 08, 2024 20:37:51.084166700 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012be (4798)
+Number of strings		: 9
+String: 1			: Administrator
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-500
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: 0x00000000000010cc
+String: 9			: C:\Windows\explorer.exe
+
+Event number			: 66
+Creation time			: Oct 08, 2024 20:37:53.179981200 UTC
+Written time			: Oct 08, 2024 20:37:53.179981200 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001210 (4624)
+Number of strings		: 27
+String: 1			: S-1-5-18
+String: 2			: WIN-TU7OJ5RC88T$
+String: 3			: WORKGROUP
+String: 4			: 0x00000000000003e7
+String: 5			: S-1-5-18
+String: 6			: SYSTEM
+String: 7			: NT AUTHORITY
+String: 8			: 0x00000000000003e7
+String: 9			: 5
+String: 10			: Advapi  
+String: 11			: Negotiate
+String: 12			: -
+String: 13			: {00000000-0000-0000-0000-000000000000}
+String: 14			: -
+String: 15			: -
+String: 16			: 0
+String: 17			: 0x0000000000000318
+String: 18			: C:\Windows\System32\services.exe
+String: 19			: -
+String: 20			: -
+String: 21			: %%1833
+String: 22			: -
+String: 23			: -
+String: 24			: -
+String: 25			: %%1843
+String: 26			: 0x0000000000000000
+String: 27			: %%1842
+
+Event number			: 67
+Creation time			: Oct 08, 2024 20:37:53.179987400 UTC
+Written time			: Oct 08, 2024 20:37:53.179987400 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001240 (4672)
+Number of strings		: 5
+String: 1			: S-1-5-18
+String: 2			: SYSTEM
+String: 3			: NT AUTHORITY
+String: 4			: 0x00000000000003e7
+String: 5			: SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege
+
+Event number			: 68
+Creation time			: Oct 08, 2024 20:37:53.308099900 UTC
+Written time			: Oct 08, 2024 20:37:53.308099900 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012bf (4799)
+Number of strings		: 9
+String: 1			: Administrators
+String: 2			: Builtin
+String: 3			: S-1-5-32-544
+String: 4			: S-1-5-18
+String: 5			: WIN-TU7OJ5RC88T$
+String: 6			: WORKGROUP
+String: 7			: 0x00000000000003e7
+String: 8			: 0x0000000000001b14
+String: 9			: C:\Windows\System32\svchost.exe
+
+Event number			: 69
+Creation time			: Oct 08, 2024 20:37:53.309052000 UTC
+Written time			: Oct 08, 2024 20:37:53.309052000 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012bf (4799)
+Number of strings		: 9
+String: 1			: Backup Operators
+String: 2			: Builtin
+String: 3			: S-1-5-32-551
+String: 4			: S-1-5-18
+String: 5			: WIN-TU7OJ5RC88T$
+String: 6			: WORKGROUP
+String: 7			: 0x00000000000003e7
+String: 8			: 0x0000000000001b14
+String: 9			: C:\Windows\System32\svchost.exe
+
+Event number			: 70
+Creation time			: Oct 08, 2024 20:38:34.119820800 UTC
+Written time			: Oct 08, 2024 20:38:34.119820800 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012be (4798)
+Number of strings		: 9
+String: 1			: Administrator
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-500
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: 0x00000000000010cc
+String: 9			: C:\Windows\explorer.exe
+
+Event number			: 71
+Creation time			: Oct 08, 2024 20:38:37.718735900 UTC
+Written time			: Oct 08, 2024 20:38:37.718735900 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012be (4798)
+Number of strings		: 9
+String: 1			: Administrator
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-500
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: 0x0000000000001774
+String: 9			: C:\Windows\explorer.exe
+
+Event number			: 72
+Creation time			: Oct 08, 2024 20:38:40.727110600 UTC
+Written time			: Oct 08, 2024 20:38:40.727110600 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012be (4798)
+Number of strings		: 9
+String: 1			: Administrator
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-500
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: 0x0000000000001774
+String: 9			: C:\Windows\explorer.exe
+
+Event number			: 73
+Creation time			: Oct 08, 2024 20:38:41.509770500 UTC
+Written time			: Oct 08, 2024 20:38:41.509770500 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012be (4798)
+Number of strings		: 9
+String: 1			: Administrator
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-500
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: 0x0000000000001cd8
+String: 9			: C:\Windows\explorer.exe
+
+Event number			: 74
+Creation time			: Oct 08, 2024 20:38:44.372762000 UTC
+Written time			: Oct 08, 2024 20:38:44.372762000 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012be (4798)
+Number of strings		: 9
+String: 1			: Administrator
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-500
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: 0x0000000000001fe4
+String: 9			: C:\Windows\explorer.exe
+
+Event number			: 75
+Creation time			: Oct 08, 2024 20:38:59.245637000 UTC
+Written time			: Oct 08, 2024 20:38:59.245637000 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012be (4798)
+Number of strings		: 9
+String: 1			: Administrator
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-500
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: 0x0000000000001d4c
+String: 9			: C:\Windows\explorer.exe
+
+Event number			: 76
+Creation time			: Oct 08, 2024 20:39:03.055492600 UTC
+Written time			: Oct 08, 2024 20:39:03.055492600 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012be (4798)
+Number of strings		: 9
+String: 1			: Administrator
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-500
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: 0x0000000000001190
+String: 9			: C:\Windows\explorer.exe
+
+Event number			: 77
+Creation time			: Oct 08, 2024 20:39:13.375560400 UTC
+Written time			: Oct 08, 2024 20:39:13.375560400 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012be (4798)
+Number of strings		: 9
+String: 1			: Administrator
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-500
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: 0x00000000000021b0
+String: 9			: C:\Windows\explorer.exe
+
+Event number			: 78
+Creation time			: Oct 08, 2024 20:39:18.156348300 UTC
+Written time			: Oct 08, 2024 20:39:18.156348300 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012be (4798)
+Number of strings		: 9
+String: 1			: Administrator
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-500
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: 0x00000000000006e4
+String: 9			: C:\Windows\explorer.exe
+
+Event number			: 79
+Creation time			: Oct 08, 2024 20:39:28.827682600 UTC
+Written time			: Oct 08, 2024 20:39:28.827682600 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012be (4798)
+Number of strings		: 9
+String: 1			: Administrator
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-500
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: 0x0000000000002080
+String: 9			: C:\Windows\explorer.exe
+
+Event number			: 80
+Creation time			: Oct 08, 2024 20:39:33.297686900 UTC
+Written time			: Oct 08, 2024 20:39:33.297686900 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012be (4798)
+Number of strings		: 9
+String: 1			: Administrator
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-500
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: 0x0000000000001fb0
+String: 9			: C:\Windows\explorer.exe
+
+Event number			: 81
+Creation time			: Oct 08, 2024 20:39:47.922685300 UTC
+Written time			: Oct 08, 2024 20:39:47.922685300 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012be (4798)
+Number of strings		: 9
+String: 1			: Administrator
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-500
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: 0x0000000000001fb0
+String: 9			: C:\Windows\explorer.exe
+
+Event number			: 82
+Creation time			: Oct 08, 2024 20:39:49.464477800 UTC
+Written time			: Oct 08, 2024 20:39:49.464477800 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012be (4798)
+Number of strings		: 9
+String: 1			: Administrator
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-500
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: 0x0000000000001fb0
+String: 9			: C:\Windows\explorer.exe
+
+Event number			: 83
+Creation time			: Oct 08, 2024 20:40:21.693540700 UTC
+Written time			: Oct 08, 2024 20:40:21.693540700 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012be (4798)
+Number of strings		: 9
+String: 1			: Administrator
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-500
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: 0x0000000000001fb0
+String: 9			: C:\Windows\explorer.exe
+
+Event number			: 84
+Creation time			: Oct 08, 2024 20:41:15.871042800 UTC
+Written time			: Oct 08, 2024 20:41:15.871042800 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012be (4798)
+Number of strings		: 9
+String: 1			: Administrator
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-500
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: 0x0000000000001fb0
+String: 9			: C:\Windows\explorer.exe
+
+Event number			: 85
+Creation time			: Oct 08, 2024 20:41:16.519767100 UTC
+Written time			: Oct 08, 2024 20:41:16.519767100 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012be (4798)
+Number of strings		: 9
+String: 1			: Administrator
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-500
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: 0x0000000000001fb0
+String: 9			: C:\Windows\explorer.exe
+
+Event number			: 86
+Creation time			: Oct 08, 2024 20:41:43.868376100 UTC
+Written time			: Oct 08, 2024 20:41:43.868376100 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012be (4798)
+Number of strings		: 9
+String: 1			: Administrator
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-500
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: 0x0000000000001fb0
+String: 9			: C:\Windows\explorer.exe
+
+Event number			: 87
+Creation time			: Oct 08, 2024 20:41:44.363072500 UTC
+Written time			: Oct 08, 2024 20:41:44.363072500 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012be (4798)
+Number of strings		: 9
+String: 1			: Administrator
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-500
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: 0x0000000000002080
+String: 9			: C:\Windows\explorer.exe
+
+Event number			: 88
+Creation time			: Oct 08, 2024 20:42:29.665973700 UTC
+Written time			: Oct 08, 2024 20:42:29.665973700 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012be (4798)
+Number of strings		: 9
+String: 1			: Administrator
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-500
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: 0x0000000000001fb0
+String: 9			: C:\Windows\explorer.exe
+
+Event number			: 89
+Creation time			: Oct 08, 2024 20:42:29.666560900 UTC
+Written time			: Oct 08, 2024 20:42:29.666560900 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012be (4798)
+Number of strings		: 9
+String: 1			: Administrator
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-500
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: 0x0000000000002080
+String: 9			: C:\Windows\explorer.exe
+
+Event number			: 90
+Creation time			: Oct 08, 2024 20:42:34.161400400 UTC
+Written time			: Oct 08, 2024 20:42:34.161400400 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012be (4798)
+Number of strings		: 9
+String: 1			: Administrator
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-500
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: 0x0000000000001fb0
+String: 9			: C:\Windows\explorer.exe
+
+Event number			: 91
+Creation time			: Oct 08, 2024 20:42:40.323516400 UTC
+Written time			: Oct 08, 2024 20:42:40.323516400 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012be (4798)
+Number of strings		: 9
+String: 1			: Administrator
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-500
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: 0x0000000000001fb0
+String: 9			: C:\Windows\explorer.exe
+
+Event number			: 92
+Creation time			: Oct 08, 2024 20:42:46.078408700 UTC
+Written time			: Oct 08, 2024 20:42:46.078408700 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012be (4798)
+Number of strings		: 9
+String: 1			: Administrator
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-500
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: 0x0000000000001fb0
+String: 9			: C:\Windows\explorer.exe
+
+Event number			: 93
+Creation time			: Oct 08, 2024 20:42:46.352088300 UTC
+Written time			: Oct 08, 2024 20:42:46.352088300 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012be (4798)
+Number of strings		: 9
+String: 1			: Administrator
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-500
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: 0x0000000000001fb0
+String: 9			: C:\Windows\explorer.exe
+
+Event number			: 94
+Creation time			: Oct 08, 2024 20:42:46.494604800 UTC
+Written time			: Oct 08, 2024 20:42:46.494604800 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012be (4798)
+Number of strings		: 9
+String: 1			: Administrator
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-500
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: 0x0000000000001fb0
+String: 9			: C:\Windows\explorer.exe
+
+Event number			: 95
+Creation time			: Oct 08, 2024 20:42:47.693657700 UTC
+Written time			: Oct 08, 2024 20:42:47.693657700 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001210 (4624)
+Number of strings		: 27
+String: 1			: S-1-5-18
+String: 2			: WIN-TU7OJ5RC88T$
+String: 3			: WORKGROUP
+String: 4			: 0x00000000000003e7
+String: 5			: S-1-5-18
+String: 6			: SYSTEM
+String: 7			: NT AUTHORITY
+String: 8			: 0x00000000000003e7
+String: 9			: 5
+String: 10			: Advapi  
+String: 11			: Negotiate
+String: 12			: -
+String: 13			: {00000000-0000-0000-0000-000000000000}
+String: 14			: -
+String: 15			: -
+String: 16			: 0
+String: 17			: 0x0000000000000318
+String: 18			: C:\Windows\System32\services.exe
+String: 19			: -
+String: 20			: -
+String: 21			: %%1833
+String: 22			: -
+String: 23			: -
+String: 24			: -
+String: 25			: %%1843
+String: 26			: 0x0000000000000000
+String: 27			: %%1842
+
+Event number			: 96
+Creation time			: Oct 08, 2024 20:42:47.693664600 UTC
+Written time			: Oct 08, 2024 20:42:47.693664600 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001240 (4672)
+Number of strings		: 5
+String: 1			: S-1-5-18
+String: 2			: SYSTEM
+String: 3			: NT AUTHORITY
+String: 4			: 0x00000000000003e7
+String: 5			: SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege
+
+Event number			: 97
+Creation time			: Oct 08, 2024 20:42:51.252927200 UTC
+Written time			: Oct 08, 2024 20:42:51.252927200 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012be (4798)
+Number of strings		: 9
+String: 1			: Administrator
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-500
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: 0x0000000000001fb0
+String: 9			: C:\Windows\explorer.exe
+
+Event number			: 98
+Creation time			: Oct 08, 2024 20:43:03.798608700 UTC
+Written time			: Oct 08, 2024 20:43:03.798608700 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001210 (4624)
+Number of strings		: 27
+String: 1			: S-1-5-18
+String: 2			: WIN-TU7OJ5RC88T$
+String: 3			: WORKGROUP
+String: 4			: 0x00000000000003e7
+String: 5			: S-1-5-18
+String: 6			: SYSTEM
+String: 7			: NT AUTHORITY
+String: 8			: 0x00000000000003e7
+String: 9			: 5
+String: 10			: Advapi  
+String: 11			: Negotiate
+String: 12			: -
+String: 13			: {00000000-0000-0000-0000-000000000000}
+String: 14			: -
+String: 15			: -
+String: 16			: 0
+String: 17			: 0x0000000000000318
+String: 18			: C:\Windows\System32\services.exe
+String: 19			: -
+String: 20			: -
+String: 21			: %%1833
+String: 22			: -
+String: 23			: -
+String: 24			: -
+String: 25			: %%1843
+String: 26			: 0x0000000000000000
+String: 27			: %%1842
+
+Event number			: 99
+Creation time			: Oct 08, 2024 20:43:03.798629800 UTC
+Written time			: Oct 08, 2024 20:43:03.798629800 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001240 (4672)
+Number of strings		: 5
+String: 1			: S-1-5-18
+String: 2			: SYSTEM
+String: 3			: NT AUTHORITY
+String: 4			: 0x00000000000003e7
+String: 5			: SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege
+
+Event number			: 100
+Creation time			: Oct 08, 2024 20:43:04.811028100 UTC
+Written time			: Oct 08, 2024 20:43:04.811028100 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001210 (4624)
+Number of strings		: 27
+String: 1			: S-1-5-18
+String: 2			: WIN-TU7OJ5RC88T$
+String: 3			: WORKGROUP
+String: 4			: 0x00000000000003e7
+String: 5			: S-1-5-18
+String: 6			: SYSTEM
+String: 7			: NT AUTHORITY
+String: 8			: 0x00000000000003e7
+String: 9			: 5
+String: 10			: Advapi  
+String: 11			: Negotiate
+String: 12			: -
+String: 13			: {00000000-0000-0000-0000-000000000000}
+String: 14			: -
+String: 15			: -
+String: 16			: 0
+String: 17			: 0x0000000000000318
+String: 18			: C:\Windows\System32\services.exe
+String: 19			: -
+String: 20			: -
+String: 21			: %%1833
+String: 22			: -
+String: 23			: -
+String: 24			: -
+String: 25			: %%1843
+String: 26			: 0x0000000000000000
+String: 27			: %%1842
+
+Event number			: 101
+Creation time			: Oct 08, 2024 20:43:04.811033000 UTC
+Written time			: Oct 08, 2024 20:43:04.811033000 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001240 (4672)
+Number of strings		: 5
+String: 1			: S-1-5-18
+String: 2			: SYSTEM
+String: 3			: NT AUTHORITY
+String: 4			: 0x00000000000003e7
+String: 5			: SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege
+
+Event number			: 102
+Creation time			: Oct 08, 2024 20:43:04.923249900 UTC
+Written time			: Oct 08, 2024 20:43:04.923249900 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001210 (4624)
+Number of strings		: 27
+String: 1			: S-1-5-18
+String: 2			: WIN-TU7OJ5RC88T$
+String: 3			: WORKGROUP
+String: 4			: 0x00000000000003e7
+String: 5			: S-1-5-18
+String: 6			: SYSTEM
+String: 7			: NT AUTHORITY
+String: 8			: 0x00000000000003e7
+String: 9			: 5
+String: 10			: Advapi  
+String: 11			: Negotiate
+String: 12			: -
+String: 13			: {00000000-0000-0000-0000-000000000000}
+String: 14			: -
+String: 15			: -
+String: 16			: 0
+String: 17			: 0x0000000000000318
+String: 18			: C:\Windows\System32\services.exe
+String: 19			: -
+String: 20			: -
+String: 21			: %%1833
+String: 22			: -
+String: 23			: -
+String: 24			: -
+String: 25			: %%1843
+String: 26			: 0x0000000000000000
+String: 27			: %%1842
+
+Event number			: 103
+Creation time			: Oct 08, 2024 20:43:04.923259000 UTC
+Written time			: Oct 08, 2024 20:43:04.923259000 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001240 (4672)
+Number of strings		: 5
+String: 1			: S-1-5-18
+String: 2			: SYSTEM
+String: 3			: NT AUTHORITY
+String: 4			: 0x00000000000003e7
+String: 5			: SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege
+
+Event number			: 104
+Creation time			: Oct 08, 2024 20:43:04.977951500 UTC
+Written time			: Oct 08, 2024 20:43:04.977951500 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001503 (5379)
+Number of strings		: 11
+String: 1			: S-1-5-18
+String: 2			: WIN-TU7OJ5RC88T$
+String: 3			: WORKGROUP
+String: 4			: 0x00000000000003e7
+String: 5			: WindowsLive:(token):name=02hoxtficubihfjr;serviceuri=*
+String: 6			: 0
+String: 7			: 0
+String: 8			: %%8100
+String: 9			: 3221226021
+String: 10			: 2024-10-08T20:43:04.925134800Z
+String: 11			: 8292
+
+Event number			: 105
+Creation time			: Oct 08, 2024 20:43:04.978201800 UTC
+Written time			: Oct 08, 2024 20:43:04.978201800 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001503 (5379)
+Number of strings		: 11
+String: 1			: S-1-5-18
+String: 2			: WIN-TU7OJ5RC88T$
+String: 3			: WORKGROUP
+String: 4			: 0x00000000000003e7
+String: 5			: WindowsLive:(cert):name=02hoxtficubihfjr;serviceuri=*
+String: 6			: 0
+String: 7			: 0
+String: 8			: %%8100
+String: 9			: 3221226021
+String: 10			: 2024-10-08T20:43:04.925134800Z
+String: 11			: 8292
+
+Event number			: 106
+Creation time			: Oct 08, 2024 20:43:04.978347600 UTC
+Written time			: Oct 08, 2024 20:43:04.978347600 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001503 (5379)
+Number of strings		: 11
+String: 1			: S-1-5-18
+String: 2			: WIN-TU7OJ5RC88T$
+String: 3			: WORKGROUP
+String: 4			: 0x00000000000003e7
+String: 5			: WindowsLive:target=virtualapp/didlogical
+String: 6			: 0
+String: 7			: 1
+String: 8			: %%8100
+String: 9			: 0
+String: 10			: 2024-10-08T20:43:04.925134800Z
+String: 11			: 8292
+
+Event number			: 107
+Creation time			: Oct 08, 2024 20:43:04.981445000 UTC
+Written time			: Oct 08, 2024 20:43:04.981445000 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001503 (5379)
+Number of strings		: 11
+String: 1			: S-1-5-21-575862355-1298997956-143584457-500
+String: 2			: Administrator
+String: 3			: WIN-TU7OJ5RC88T
+String: 4			: 0x0000000000041a0b
+String: 5			: WindowsLive:(token):name=02huxjgqspgqffrl;serviceuri=*
+String: 6			: 0
+String: 7			: 0
+String: 8			: %%8100
+String: 9			: 3221226021
+String: 10			: 2024-10-08T20:43:04.925134800Z
+String: 11			: 8292
+
+Event number			: 108
+Creation time			: Oct 08, 2024 20:43:04.981647900 UTC
+Written time			: Oct 08, 2024 20:43:04.981647900 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001503 (5379)
+Number of strings		: 11
+String: 1			: S-1-5-21-575862355-1298997956-143584457-500
+String: 2			: Administrator
+String: 3			: WIN-TU7OJ5RC88T
+String: 4			: 0x0000000000041a0b
+String: 5			: WindowsLive:(cert):name=02huxjgqspgqffrl;serviceuri=*
+String: 6			: 0
+String: 7			: 0
+String: 8			: %%8100
+String: 9			: 3221226021
+String: 10			: 2024-10-08T20:43:04.925134800Z
+String: 11			: 8292
+
+Event number			: 109
+Creation time			: Oct 08, 2024 20:43:04.981734600 UTC
+Written time			: Oct 08, 2024 20:43:04.981734600 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001503 (5379)
+Number of strings		: 11
+String: 1			: S-1-5-21-575862355-1298997956-143584457-500
+String: 2			: Administrator
+String: 3			: WIN-TU7OJ5RC88T
+String: 4			: 0x0000000000041a0b
+String: 5			: WindowsLive:target=virtualapp/didlogical
+String: 6			: 0
+String: 7			: 1
+String: 8			: %%8100
+String: 9			: 0
+String: 10			: 2024-10-08T20:43:04.925134800Z
+String: 11			: 8292
+
+Event number			: 110
+Creation time			: Oct 08, 2024 20:43:04.983459300 UTC
+Written time			: Oct 08, 2024 20:43:04.983459300 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001503 (5379)
+Number of strings		: 11
+String: 1			: S-1-5-21-575862355-1298997956-143584457-500
+String: 2			: Administrator
+String: 3			: WIN-TU7OJ5RC88T
+String: 4			: 0x0000000000041a0b
+String: 5			: MicrosoftAccount:user=02huxjgqspgqffrl
+String: 6			: 0
+String: 7			: 0
+String: 8			: %%8100
+String: 9			: 3221226021
+String: 10			: 2024-10-08T20:43:04.925134800Z
+String: 11			: 8292
+
+Event number			: 111
+Creation time			: Oct 08, 2024 20:43:04.983551300 UTC
+Written time			: Oct 08, 2024 20:43:04.983551300 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001503 (5379)
+Number of strings		: 11
+String: 1			: S-1-5-21-575862355-1298997956-143584457-500
+String: 2			: Administrator
+String: 3			: WIN-TU7OJ5RC88T
+String: 4			: 0x0000000000041a0b
+String: 5			: WindowsLive:(token):name=02huxjgqspgqffrl;serviceuri=*
+String: 6			: 0
+String: 7			: 0
+String: 8			: %%8100
+String: 9			: 3221226021
+String: 10			: 2024-10-08T20:43:04.925134800Z
+String: 11			: 8292
+
+Event number			: 112
+Creation time			: Oct 08, 2024 20:43:04.983769600 UTC
+Written time			: Oct 08, 2024 20:43:04.983769600 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001503 (5379)
+Number of strings		: 11
+String: 1			: S-1-5-21-575862355-1298997956-143584457-500
+String: 2			: Administrator
+String: 3			: WIN-TU7OJ5RC88T
+String: 4			: 0x0000000000041a0b
+String: 5			: WindowsLive:(cert):name=02huxjgqspgqffrl;serviceuri=*
+String: 6			: 0
+String: 7			: 0
+String: 8			: %%8100
+String: 9			: 3221226021
+String: 10			: 2024-10-08T20:43:04.925134800Z
+String: 11			: 8292
+
+Event number			: 113
+Creation time			: Oct 08, 2024 20:43:05.350931100 UTC
+Written time			: Oct 08, 2024 20:43:05.350931100 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001503 (5379)
+Number of strings		: 11
+String: 1			: S-1-5-21-575862355-1298997956-143584457-500
+String: 2			: Administrator
+String: 3			: WIN-TU7OJ5RC88T
+String: 4			: 0x0000000000041a0b
+String: 5			: MicrosoftAccount:user=02huxjgqspgqffrl
+String: 6			: 0
+String: 7			: 0
+String: 8			: %%8100
+String: 9			: 3221226021
+String: 10			: 2024-10-08T20:43:04.925134800Z
+String: 11			: 8292
+
+Event number			: 114
+Creation time			: Oct 08, 2024 20:43:05.354135100 UTC
+Written time			: Oct 08, 2024 20:43:05.354135100 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001503 (5379)
+Number of strings		: 11
+String: 1			: S-1-5-21-575862355-1298997956-143584457-500
+String: 2			: Administrator
+String: 3			: WIN-TU7OJ5RC88T
+String: 4			: 0x0000000000041a0b
+String: 5			: MicrosoftAccount:user=02huxjgqspgqffrl
+String: 6			: 0
+String: 7			: 0
+String: 8			: %%8100
+String: 9			: 3221226021
+String: 10			: 2024-10-08T20:43:04.925134800Z
+String: 11			: 8292
+
+Event number			: 115
+Creation time			: Oct 08, 2024 20:43:05.357440700 UTC
+Written time			: Oct 08, 2024 20:43:05.357440700 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001503 (5379)
+Number of strings		: 11
+String: 1			: S-1-5-21-575862355-1298997956-143584457-500
+String: 2			: Administrator
+String: 3			: WIN-TU7OJ5RC88T
+String: 4			: 0x0000000000041a0b
+String: 5			: MicrosoftAccount:user=02huxjgqspgqffrl
+String: 6			: 0
+String: 7			: 0
+String: 8			: %%8100
+String: 9			: 3221226021
+String: 10			: 2024-10-08T20:43:04.925134800Z
+String: 11			: 8292
+
+Event number			: 116
+Creation time			: Oct 08, 2024 20:43:05.357504300 UTC
+Written time			: Oct 08, 2024 20:43:05.357504300 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001503 (5379)
+Number of strings		: 11
+String: 1			: S-1-5-21-575862355-1298997956-143584457-500
+String: 2			: Administrator
+String: 3			: WIN-TU7OJ5RC88T
+String: 4			: 0x0000000000041a0b
+String: 5			: MicrosoftAccount:user=02huxjgqspgqffrl
+String: 6			: 0
+String: 7			: 0
+String: 8			: %%8100
+String: 9			: 3221226021
+String: 10			: 2024-10-08T20:43:04.925134800Z
+String: 11			: 8292
+
+Event number			: 117
+Creation time			: Oct 08, 2024 20:43:30.551738500 UTC
+Written time			: Oct 08, 2024 20:43:30.551738500 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012be (4798)
+Number of strings		: 9
+String: 1			: Administrator
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-500
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: 0x0000000000001fb0
+String: 9			: C:\Windows\explorer.exe
+
+Event number			: 118
+Creation time			: Oct 08, 2024 20:43:31.807365100 UTC
+Written time			: Oct 08, 2024 20:43:31.807365100 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012be (4798)
+Number of strings		: 9
+String: 1			: Administrator
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-500
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: 0x0000000000002080
+String: 9			: C:\Windows\explorer.exe
+
+Event number			: 119
+Creation time			: Oct 08, 2024 20:46:52.323383500 UTC
+Written time			: Oct 08, 2024 20:46:52.323383500 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001210 (4624)
+Number of strings		: 27
+String: 1			: S-1-5-18
+String: 2			: WIN-TU7OJ5RC88T$
+String: 3			: WORKGROUP
+String: 4			: 0x00000000000003e7
+String: 5			: S-1-5-18
+String: 6			: SYSTEM
+String: 7			: NT AUTHORITY
+String: 8			: 0x00000000000003e7
+String: 9			: 5
+String: 10			: Advapi  
+String: 11			: Negotiate
+String: 12			: -
+String: 13			: {00000000-0000-0000-0000-000000000000}
+String: 14			: -
+String: 15			: -
+String: 16			: 0
+String: 17			: 0x0000000000000318
+String: 18			: C:\Windows\System32\services.exe
+String: 19			: -
+String: 20			: -
+String: 21			: %%1833
+String: 22			: -
+String: 23			: -
+String: 24			: -
+String: 25			: %%1843
+String: 26			: 0x0000000000000000
+String: 27			: %%1842
+
+Event number			: 120
+Creation time			: Oct 08, 2024 20:46:52.323391600 UTC
+Written time			: Oct 08, 2024 20:46:52.323391600 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001240 (4672)
+Number of strings		: 5
+String: 1			: S-1-5-18
+String: 2			: SYSTEM
+String: 3			: NT AUTHORITY
+String: 4			: 0x00000000000003e7
+String: 5			: SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege
+
+Event number			: 121
+Creation time			: Oct 08, 2024 20:54:24.118260100 UTC
+Written time			: Oct 08, 2024 20:54:24.118260100 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001210 (4624)
+Number of strings		: 27
+String: 1			: S-1-5-18
+String: 2			: WIN-TU7OJ5RC88T$
+String: 3			: WORKGROUP
+String: 4			: 0x00000000000003e7
+String: 5			: S-1-5-18
+String: 6			: SYSTEM
+String: 7			: NT AUTHORITY
+String: 8			: 0x00000000000003e7
+String: 9			: 5
+String: 10			: Advapi  
+String: 11			: Negotiate
+String: 12			: -
+String: 13			: {00000000-0000-0000-0000-000000000000}
+String: 14			: -
+String: 15			: -
+String: 16			: 0
+String: 17			: 0x0000000000000318
+String: 18			: C:\Windows\System32\services.exe
+String: 19			: -
+String: 20			: -
+String: 21			: %%1833
+String: 22			: -
+String: 23			: -
+String: 24			: -
+String: 25			: %%1843
+String: 26			: 0x0000000000000000
+String: 27			: %%1842
+
+Event number			: 122
+Creation time			: Oct 08, 2024 20:54:24.118268100 UTC
+Written time			: Oct 08, 2024 20:54:24.118268100 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001240 (4672)
+Number of strings		: 5
+String: 1			: S-1-5-18
+String: 2			: SYSTEM
+String: 3			: NT AUTHORITY
+String: 4			: 0x00000000000003e7
+String: 5			: SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege
+
+Event number			: 123
+Creation time			: Oct 08, 2024 20:54:25.513034400 UTC
+Written time			: Oct 08, 2024 20:54:25.513034400 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001210 (4624)
+Number of strings		: 27
+String: 1			: S-1-5-18
+String: 2			: WIN-TU7OJ5RC88T$
+String: 3			: WORKGROUP
+String: 4			: 0x00000000000003e7
+String: 5			: S-1-5-18
+String: 6			: SYSTEM
+String: 7			: NT AUTHORITY
+String: 8			: 0x00000000000003e7
+String: 9			: 5
+String: 10			: Advapi  
+String: 11			: Negotiate
+String: 12			: -
+String: 13			: {00000000-0000-0000-0000-000000000000}
+String: 14			: -
+String: 15			: -
+String: 16			: 0
+String: 17			: 0x0000000000000318
+String: 18			: C:\Windows\System32\services.exe
+String: 19			: -
+String: 20			: -
+String: 21			: %%1833
+String: 22			: -
+String: 23			: -
+String: 24			: -
+String: 25			: %%1843
+String: 26			: 0x0000000000000000
+String: 27			: %%1842
+
+Event number			: 124
+Creation time			: Oct 08, 2024 20:54:25.513040400 UTC
+Written time			: Oct 08, 2024 20:54:25.513040400 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x00001240 (4672)
+Number of strings		: 5
+String: 1			: S-1-5-18
+String: 2			: SYSTEM
+String: 3			: NT AUTHORITY
+String: 4			: 0x00000000000003e7
+String: 5			: SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege
+
+Event number			: 125
+Creation time			: Oct 08, 2024 20:57:31.426997200 UTC
+Written time			: Oct 08, 2024 20:57:31.426997200 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012be (4798)
+Number of strings		: 9
+String: 1			: Administrator
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-500
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: 0x0000000000000e4c
+String: 9			: C:\Windows\System32\mmc.exe
+
+Event number			: 126
+Creation time			: Oct 08, 2024 20:57:43.540226500 UTC
+Written time			: Oct 08, 2024 20:57:43.540226500 UTC
+Event level			: Information (0)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Security-Auditing
+Event identifier		: 0x000012be (4798)
+Number of strings		: 9
+String: 1			: Administrator
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: S-1-5-21-575862355-1298997956-143584457-500
+String: 4			: S-1-5-21-575862355-1298997956-143584457-500
+String: 5			: Administrator
+String: 6			: WIN-TU7OJ5RC88T
+String: 7			: 0x0000000000041a0b
+String: 8			: 0x0000000000000e4c
+String: 9			: C:\Windows\System32\mmc.exe
+

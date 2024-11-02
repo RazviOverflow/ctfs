@@ -1,0 +1,403 @@
+evtxexport 20210525
+
+Event number			: 102941
+Creation time			: Oct 01, 2024 20:24:45.090342000 UTC
+Written time			: Oct 01, 2024 20:24:45.090342000 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-21-312379445-3512834713-3133549549-500
+Computer name			: EC2AMAZ-3NV39E0
+Source name			: Microsoft-Windows-Eventlog
+Event identifier		: 0x00000068 (104)
+Number of strings		: 6
+String: 1			: Administrator
+String: 2			: EC2AMAZ-3NV39E0
+String: 3			: System
+String: 4			: 
+String: 5			: 4320
+String: 6			: 134545038867697660
+
+Event number			: 102942
+Creation time			: Oct 01, 2024 20:24:45.871518900 UTC
+Written time			: Oct 01, 2024 20:24:45.871518900 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-21-312379445-3512834713-3133549549-500
+Computer name			: EC2AMAZ-3NV39E0
+Source name			: Microsoft-Windows-Eventlog
+Event identifier		: 0x00000068 (104)
+Number of strings		: 6
+String: 1			: Administrator
+String: 2			: EC2AMAZ-3NV39E0
+String: 3			: Windows Networking Vpn Plugin Platform/Operational
+String: 4			: 
+String: 5			: 584
+String: 6			: 134545038867697692
+
+Event number			: 102943
+Creation time			: Oct 01, 2024 20:24:45.902775500 UTC
+Written time			: Oct 01, 2024 20:24:45.902775500 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-21-312379445-3512834713-3133549549-500
+Computer name			: EC2AMAZ-3NV39E0
+Source name			: Microsoft-Windows-Eventlog
+Event identifier		: 0x00000068 (104)
+Number of strings		: 6
+String: 1			: Administrator
+String: 2			: EC2AMAZ-3NV39E0
+String: 3			: Windows Networking Vpn Plugin Platform/OperationalVerbose
+String: 4			: 
+String: 5			: 3820
+String: 6			: 134545038867697694
+
+Event number			: 102944
+Creation time			: Oct 01, 2024 20:24:45.949659600 UTC
+Written time			: Oct 01, 2024 20:24:45.949659600 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-21-312379445-3512834713-3133549549-500
+Computer name			: EC2AMAZ-3NV39E0
+Source name			: Microsoft-Windows-Eventlog
+Event identifier		: 0x00000068 (104)
+Number of strings		: 6
+String: 1			: Administrator
+String: 2			: EC2AMAZ-3NV39E0
+String: 3			: Windows PowerShell
+String: 4			: 
+String: 5			: 3384
+String: 6			: 134545038867697696
+
+Event number			: 102945
+Creation time			: Oct 01, 2024 20:24:59.621759500 UTC
+Written time			: Oct 01, 2024 20:24:59.621759500 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-3NV39E0
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Client License Service (ClipSVC)
+String: 2			: stopped
+String: 3			: 43006C00690070005300560043002F0031000000
+
+Event number			: 102946
+Creation time			: Oct 01, 2024 20:25:59.247488500 UTC
+Written time			: Oct 01, 2024 20:25:59.247488500 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-3NV39E0
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Microsoft Account Sign-in Assistant
+String: 2			: stopped
+String: 3			: 77006C00690064007300760063002F0031000000
+
+Event number			: 102947
+Creation time			: Oct 01, 2024 20:26:56.935698700 UTC
+Written time			: Oct 01, 2024 20:26:56.935698700 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-3NV39E0
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: AppX Deployment Service (AppXSVC)
+String: 2			: stopped
+String: 3			: 41007000700058005300760063002F0031000000
+
+Event number			: 102948
+Creation time			: Oct 01, 2024 20:29:36.671476400 UTC
+Written time			: Oct 01, 2024 20:29:36.671476400 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-3NV39E0
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Windows Update
+String: 2			: stopped
+String: 3			: 770075006100750073006500720076002F0031000000
+
+Event number			: 102949
+Creation time			: Oct 01, 2024 20:34:36.440600300 UTC
+Written time			: Oct 01, 2024 20:34:36.440600300 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-3NV39E0
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Windows Modules Installer
+String: 2			: running
+String: 3			: 540072007500730074006500640049006E007300740061006C006C00650072002F0034000000
+
+Event number			: 102950
+Creation time			: Oct 01, 2024 20:34:37.940579400 UTC
+Written time			: Oct 01, 2024 20:34:37.940579400 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-3NV39E0
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Windows Update
+String: 2			: running
+String: 3			: 770075006100750073006500720076002F0034000000
+
+Event number			: 102951
+Creation time			: Oct 01, 2024 20:34:38.221848400 UTC
+Written time			: Oct 01, 2024 20:34:38.221848400 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-3NV39E0
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Software Protection
+String: 2			: running
+String: 3			: 7300700070007300760063002F0034000000
+
+Event number			: 102952
+Creation time			: Oct 01, 2024 20:34:38.846835600 UTC
+Written time			: Oct 01, 2024 20:34:38.846835600 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-3NV39E0
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Microsoft Account Sign-in Assistant
+String: 2			: running
+String: 3			: 77006C00690064007300760063002F0034000000
+
+Event number			: 102953
+Creation time			: Oct 01, 2024 20:34:47.573482600 UTC
+Written time			: Oct 01, 2024 20:34:47.573482600 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-3NV39E0
+Source name			: Microsoft-Windows-WindowsUpdateClient
+Event identifier		: 0x0000002c (44)
+Number of strings		: 3
+String: 1			: 2024-08 Cumulative Update for Microsoft server operating system version 21H2 for x64-based Systems (KB5041160)
+String: 2			: {B78E6476-C096-40F6-967C-743397BB5FDC}
+String: 3			: 1
+
+Event number			: 102954
+Creation time			: Oct 01, 2024 20:34:49.112701600 UTC
+Written time			: Oct 01, 2024 20:34:49.112701600 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-3NV39E0
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Windows Update Medic Service
+String: 2			: running
+String: 3			: 57006100610053004D0065006400690063005300760063002F0034000000
+
+Event number			: 102955
+Creation time			: Oct 01, 2024 20:34:49.128381500 UTC
+Written time			: Oct 01, 2024 20:34:49.128381500 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-3NV39E0
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Delivery Optimization
+String: 2			: running
+String: 3			: 44006F005300760063002F0034000000
+
+Event number			: 102956
+Creation time			: Oct 01, 2024 20:35:13.472114900 UTC
+Written time			: Oct 01, 2024 20:35:13.472114900 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-3NV39E0
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Software Protection
+String: 2			: stopped
+String: 3			: 7300700070007300760063002F0031000000
+
+Event number			: 102957
+Creation time			: Oct 01, 2024 20:35:49.113426300 UTC
+Written time			: Oct 01, 2024 20:35:49.113426300 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-3NV39E0
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Windows Update Medic Service
+String: 2			: stopped
+String: 3			: 57006100610053004D0065006400690063005300760063002F0031000000
+
+Event number			: 102958
+Creation time			: Oct 01, 2024 20:35:59.066542000 UTC
+Written time			: Oct 01, 2024 20:35:59.066542000 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-3NV39E0
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: AppX Deployment Service (AppXSVC)
+String: 2			: running
+String: 3			: 41007000700058005300760063002F0034000000
+
+Event number			: 102959
+Creation time			: Oct 01, 2024 20:35:59.535353700 UTC
+Written time			: Oct 01, 2024 20:35:59.535353700 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-3NV39E0
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Client License Service (ClipSVC)
+String: 2			: running
+String: 3			: 43006C00690070005300560043002F0034000000
+
+Event number			: 102960
+Creation time			: Oct 01, 2024 20:37:12.426619200 UTC
+Written time			: Oct 01, 2024 20:37:12.426619200 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-3NV39E0
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Windows Modules Installer
+String: 2			: stopped
+String: 3			: 540072007500730074006500640049006E007300740061006C006C00650072002F0031000000
+
+Event number			: 102961
+Creation time			: Oct 01, 2024 20:37:39.207870900 UTC
+Written time			: Oct 01, 2024 20:37:39.207870900 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-3NV39E0
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Microsoft Account Sign-in Assistant
+String: 2			: stopped
+String: 3			: 77006C00690064007300760063002F0031000000
+
+Event number			: 102962
+Creation time			: Oct 01, 2024 20:39:39.224818000 UTC
+Written time			: Oct 01, 2024 20:39:39.224818000 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-3NV39E0
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: App Readiness
+String: 2			: stopped
+String: 3			: 410070007000520065006100640069006E006500730073002F0031000000
+
+Event number			: 102963
+Creation time			: Oct 01, 2024 20:39:49.178184100 UTC
+Written time			: Oct 01, 2024 20:39:49.178184100 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-3NV39E0
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Delivery Optimization
+String: 2			: stopped
+String: 3			: 44006F005300760063002F0031000000
+
+Event number			: 102964
+Creation time			: Oct 01, 2024 20:40:59.553932800 UTC
+Written time			: Oct 01, 2024 20:40:59.553932800 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-3NV39E0
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Client License Service (ClipSVC)
+String: 2			: stopped
+String: 3			: 43006C00690070005300560043002F0031000000
+
+Event number			: 102965
+Creation time			: Oct 01, 2024 20:40:59.788231500 UTC
+Written time			: Oct 01, 2024 20:40:59.788231500 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-3NV39E0
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: AppX Deployment Service (AppXSVC)
+String: 2			: stopped
+String: 3			: 41007000700058005300760063002F0031000000
+
+Event number			: 102966
+Creation time			: Oct 01, 2024 20:45:12.774402500 UTC
+Written time			: Oct 01, 2024 20:45:12.774402500 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-3NV39E0
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Windows Update
+String: 2			: stopped
+String: 3			: 770075006100750073006500720076002F0031000000
+
+Event number			: 102967
+Creation time			: Oct 01, 2024 20:46:15.697561200 UTC
+Written time			: Oct 01, 2024 20:46:15.697561200 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-3NV39E0
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Windows Error Reporting Service
+String: 2			: running
+String: 3			: 5700650072005300760063002F0034000000
+
+Event number			: 102968
+Creation time			: Oct 01, 2024 20:46:17.072589800 UTC
+Written time			: Oct 01, 2024 20:46:17.072589800 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-3NV39E0
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Diagnostic Service Host
+String: 2			: running
+String: 3			: 570064006900530065007200760069006300650048006F00730074002F0034000000
+
+Event number			: 102969
+Creation time			: Oct 01, 2024 20:47:20.182784200 UTC
+Written time			: Oct 01, 2024 20:47:20.182784200 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-3NV39E0
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Secondary Logon
+String: 2			: running
+String: 3			: 7300650063006C006F0067006F006E002F0034000000
+
+Event number			: 102970
+Creation time			: Oct 01, 2024 20:47:31.198517200 UTC
+Written time			: Oct 01, 2024 20:47:31.198517200 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-3NV39E0
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Network Setup Service
+String: 2			: running
+String: 3			: 4E0065007400530065007400750070005300760063002F0034000000
+
+Event number			: 102971
+Creation time			: Oct 01, 2024 20:48:15.699541600 UTC
+Written time			: Oct 01, 2024 20:48:15.699541600 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-3NV39E0
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Windows Error Reporting Service
+String: 2			: stopped
+String: 3			: 5700650072005300760063002F0031000000
+
+Event number			: 102972
+Creation time			: Oct 01, 2024 20:50:25.294451300 UTC
+Written time			: Oct 01, 2024 20:50:25.294451300 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-3NV39E0
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Network Setup Service
+String: 2			: stopped
+String: 3			: 4E0065007400530065007400750070005300760063002F0031000000
+

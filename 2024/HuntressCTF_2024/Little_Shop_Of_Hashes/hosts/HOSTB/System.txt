@@ -1,0 +1,246 @@
+evtxexport 20210525
+
+Event number			: 102973
+Creation time			: Oct 01, 2024 20:23:06.763917300 UTC
+Written time			: Oct 01, 2024 20:23:06.763917300 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-21-1315585081-1223704089-1502122752-500
+Computer name			: EC2AMAZ-DMS53EU
+Source name			: Microsoft-Windows-Eventlog
+Event identifier		: 0x00000068 (104)
+Number of strings		: 6
+String: 1			: Administrator
+String: 2			: EC2AMAZ-DMS53EU
+String: 3			: System
+String: 4			: 
+String: 5			: 4140
+String: 6			: 134545038867697750
+
+Event number			: 102974
+Creation time			: Oct 01, 2024 20:23:07.545246100 UTC
+Written time			: Oct 01, 2024 20:23:07.545246100 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-21-1315585081-1223704089-1502122752-500
+Computer name			: EC2AMAZ-DMS53EU
+Source name			: Microsoft-Windows-Eventlog
+Event identifier		: 0x00000068 (104)
+Number of strings		: 6
+String: 1			: Administrator
+String: 2			: EC2AMAZ-DMS53EU
+String: 3			: Windows Networking Vpn Plugin Platform/Operational
+String: 4			: 
+String: 5			: 7072
+String: 6			: 134545038867697782
+
+Event number			: 102975
+Creation time			: Oct 01, 2024 20:23:07.576499000 UTC
+Written time			: Oct 01, 2024 20:23:07.576499000 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-21-1315585081-1223704089-1502122752-500
+Computer name			: EC2AMAZ-DMS53EU
+Source name			: Microsoft-Windows-Eventlog
+Event identifier		: 0x00000068 (104)
+Number of strings		: 6
+String: 1			: Administrator
+String: 2			: EC2AMAZ-DMS53EU
+String: 3			: Windows Networking Vpn Plugin Platform/OperationalVerbose
+String: 4			: 
+String: 5			: 5652
+String: 6			: 134545038867697784
+
+Event number			: 102976
+Creation time			: Oct 01, 2024 20:23:07.623359800 UTC
+Written time			: Oct 01, 2024 20:23:07.623359800 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-21-1315585081-1223704089-1502122752-500
+Computer name			: EC2AMAZ-DMS53EU
+Source name			: Microsoft-Windows-Eventlog
+Event identifier		: 0x00000068 (104)
+Number of strings		: 6
+String: 1			: Administrator
+String: 2			: EC2AMAZ-DMS53EU
+String: 3			: Windows PowerShell
+String: 4			: 
+String: 5			: 2292
+String: 6			: 134545038867697786
+
+Event number			: 102977
+Creation time			: Oct 01, 2024 20:24:02.471533400 UTC
+Written time			: Oct 01, 2024 20:24:02.471533400 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-DMS53EU
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: AppX Deployment Service (AppXSVC)
+String: 2			: stopped
+String: 3			: 41007000700058005300760063002F0031000000
+
+Event number			: 102978
+Creation time			: Oct 01, 2024 20:25:38.680425900 UTC
+Written time			: Oct 01, 2024 20:25:38.680425900 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-DMS53EU
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Windows Update
+String: 2			: stopped
+String: 3			: 770075006100750073006500720076002F0031000000
+
+Event number			: 102979
+Creation time			: Oct 01, 2024 20:30:38.177458900 UTC
+Written time			: Oct 01, 2024 20:30:38.177458900 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-DMS53EU
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Windows Modules Installer
+String: 2			: running
+String: 3			: 540072007500730074006500640049006E007300740061006C006C00650072002F0034000000
+
+Event number			: 102980
+Creation time			: Oct 01, 2024 20:31:28.021835500 UTC
+Written time			: Oct 01, 2024 20:31:28.021835500 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-DMS53EU
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Diagnostic System Host
+String: 2			: stopped
+String: 3			: 570064006900530079007300740065006D0048006F00730074002F0031000000
+
+Event number			: 102981
+Creation time			: Oct 01, 2024 20:32:05.756959300 UTC
+Written time			: Oct 01, 2024 20:32:05.756959300 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-DMS53EU
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: AppX Deployment Service (AppXSVC)
+String: 2			: running
+String: 3			: 41007000700058005300760063002F0034000000
+
+Event number			: 102982
+Creation time			: Oct 01, 2024 20:32:06.303903900 UTC
+Written time			: Oct 01, 2024 20:32:06.303903900 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-DMS53EU
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Client License Service (ClipSVC)
+String: 2			: running
+String: 3			: 43006C00690070005300560043002F0034000000
+
+Event number			: 102983
+Creation time			: Oct 01, 2024 20:32:06.725710400 UTC
+Written time			: Oct 01, 2024 20:32:06.725710400 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-DMS53EU
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Diagnostic System Host
+String: 2			: running
+String: 3			: 570064006900530079007300740065006D0048006F00730074002F0034000000
+
+Event number			: 102984
+Creation time			: Oct 01, 2024 20:32:40.507352300 UTC
+Written time			: Oct 01, 2024 20:32:40.507352300 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-DMS53EU
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Windows Modules Installer
+String: 2			: stopped
+String: 3			: 540072007500730074006500640049006E007300740061006C006C00650072002F0031000000
+
+Event number			: 102985
+Creation time			: Oct 01, 2024 20:35:42.806403600 UTC
+Written time			: Oct 01, 2024 20:35:42.806403600 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-DMS53EU
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: App Readiness
+String: 2			: stopped
+String: 3			: 410070007000520065006100640069006E006500730073002F0031000000
+
+Event number			: 102986
+Creation time			: Oct 01, 2024 20:36:37.869520500 UTC
+Written time			: Oct 01, 2024 20:36:37.869520500 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-DMS53EU
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Network Setup Service
+String: 2			: running
+String: 3			: 4E0065007400530065007400750070005300760063002F0034000000
+
+Event number			: 102987
+Creation time			: Oct 01, 2024 20:36:47.322598700 UTC
+Written time			: Oct 01, 2024 20:36:47.322598700 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-DMS53EU
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Remote Registry
+String: 2			: running
+String: 3			: 520065006D006F0074006500520065006700690073007400720079002F0034000000
+
+Event number			: 102988
+Creation time			: Oct 01, 2024 20:36:50.853874700 UTC
+Written time			: Oct 01, 2024 20:36:50.853874700 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-DMS53EU
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Remote Registry
+String: 2			: stopped
+String: 3			: 520065006D006F0074006500520065006700690073007400720079002F0031000000
+
+Event number			: 102989
+Creation time			: Oct 01, 2024 20:37:06.338728300 UTC
+Written time			: Oct 01, 2024 20:37:06.338728300 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-DMS53EU
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Client License Service (ClipSVC)
+String: 2			: stopped
+String: 3			: 43006C00690070005300560043002F0031000000
+
+Event number			: 102990
+Creation time			: Oct 01, 2024 20:37:06.729325000 UTC
+Written time			: Oct 01, 2024 20:37:06.729325000 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-DMS53EU
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: AppX Deployment Service (AppXSVC)
+String: 2			: stopped
+String: 3			: 41007000700058005300760063002F0031000000
+
+Event number			: 102991
+Creation time			: Oct 01, 2024 20:39:29.948951800 UTC
+Written time			: Oct 01, 2024 20:39:29.948951800 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-DMS53EU
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Network Setup Service
+String: 2			: stopped
+String: 3			: 4E0065007400530065007400750070005300760063002F0031000000
+

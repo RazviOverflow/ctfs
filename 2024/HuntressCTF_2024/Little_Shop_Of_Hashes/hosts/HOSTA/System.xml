@@ -1,0 +1,692 @@
+<?xml version="1.1" encoding="utf-8" standalone="yes" ?>
+
+<Events>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Eventlog" Guid="{fc65ddd8-d6ef-4962-83d5-6e5cfe9ce148}"></Provider>
+<EventID Qualifiers="">104</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>104</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.090342"></TimeCreated>
+<EventRecordID>102941</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="888" ThreadID="4212"></Execution>
+<Channel>System</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID="S-1-5-21-312379445-3512834713-3133549549-500"></Security>
+</System>
+<UserData><LogFileCleared xmlns="http://manifests.microsoft.com/win/2004/08/windows/eventlog"><SubjectUserName>Administrator</SubjectUserName>
+<SubjectDomainName>EC2AMAZ-3NV39E0</SubjectDomainName>
+<Channel>System</Channel>
+<BackupPath></BackupPath>
+<ClientProcessId>4320</ClientProcessId>
+<ClientProcessStartKey>134545038867697660</ClientProcessStartKey>
+</LogFileCleared>
+</UserData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Eventlog" Guid="{fc65ddd8-d6ef-4962-83d5-6e5cfe9ce148}"></Provider>
+<EventID Qualifiers="">104</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>104</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.871517"></TimeCreated>
+<EventRecordID>102942</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="888" ThreadID="4212"></Execution>
+<Channel>System</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID="S-1-5-21-312379445-3512834713-3133549549-500"></Security>
+</System>
+<UserData><LogFileCleared xmlns="http://manifests.microsoft.com/win/2004/08/windows/eventlog"><SubjectUserName>Administrator</SubjectUserName>
+<SubjectDomainName>EC2AMAZ-3NV39E0</SubjectDomainName>
+<Channel>Windows Networking Vpn Plugin Platform/Operational</Channel>
+<BackupPath></BackupPath>
+<ClientProcessId>584</ClientProcessId>
+<ClientProcessStartKey>134545038867697692</ClientProcessStartKey>
+</LogFileCleared>
+</UserData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Eventlog" Guid="{fc65ddd8-d6ef-4962-83d5-6e5cfe9ce148}"></Provider>
+<EventID Qualifiers="">104</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>104</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.902775"></TimeCreated>
+<EventRecordID>102943</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="888" ThreadID="4212"></Execution>
+<Channel>System</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID="S-1-5-21-312379445-3512834713-3133549549-500"></Security>
+</System>
+<UserData><LogFileCleared xmlns="http://manifests.microsoft.com/win/2004/08/windows/eventlog"><SubjectUserName>Administrator</SubjectUserName>
+<SubjectDomainName>EC2AMAZ-3NV39E0</SubjectDomainName>
+<Channel>Windows Networking Vpn Plugin Platform/OperationalVerbose</Channel>
+<BackupPath></BackupPath>
+<ClientProcessId>3820</ClientProcessId>
+<ClientProcessStartKey>134545038867697694</ClientProcessStartKey>
+</LogFileCleared>
+</UserData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Eventlog" Guid="{fc65ddd8-d6ef-4962-83d5-6e5cfe9ce148}"></Provider>
+<EventID Qualifiers="">104</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>104</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:45.949659"></TimeCreated>
+<EventRecordID>102944</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="888" ThreadID="4212"></Execution>
+<Channel>System</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID="S-1-5-21-312379445-3512834713-3133549549-500"></Security>
+</System>
+<UserData><LogFileCleared xmlns="http://manifests.microsoft.com/win/2004/08/windows/eventlog"><SubjectUserName>Administrator</SubjectUserName>
+<SubjectDomainName>EC2AMAZ-3NV39E0</SubjectDomainName>
+<Channel>Windows PowerShell</Channel>
+<BackupPath></BackupPath>
+<ClientProcessId>3384</ClientProcessId>
+<ClientProcessStartKey>134545038867697696</ClientProcessStartKey>
+</LogFileCleared>
+</UserData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Service Control Manager" Guid="{555908d1-a6d7-4695-8e1e-26931d2012f4}" EventSourceName="Service Control Manager"></Provider>
+<EventID Qualifiers="16384">7036</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8080000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:24:59.621759"></TimeCreated>
+<EventRecordID>102945</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="636" ThreadID="1892"></Execution>
+<Channel>System</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="param1">Client License Service (ClipSVC)</Data>
+<Data Name="param2">stopped</Data>
+<Binary>QwBsAGkAcABTAFYAQwAvADEAAAA=</Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Service Control Manager" Guid="{555908d1-a6d7-4695-8e1e-26931d2012f4}" EventSourceName="Service Control Manager"></Provider>
+<EventID Qualifiers="16384">7036</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8080000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:25:59.247488"></TimeCreated>
+<EventRecordID>102946</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="636" ThreadID="6320"></Execution>
+<Channel>System</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="param1">Microsoft Account Sign-in Assistant</Data>
+<Data Name="param2">stopped</Data>
+<Binary>dwBsAGkAZABzAHYAYwAvADEAAAA=</Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Service Control Manager" Guid="{555908d1-a6d7-4695-8e1e-26931d2012f4}" EventSourceName="Service Control Manager"></Provider>
+<EventID Qualifiers="16384">7036</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8080000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:26:56.935699"></TimeCreated>
+<EventRecordID>102947</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="636" ThreadID="1892"></Execution>
+<Channel>System</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="param1">AppX Deployment Service (AppXSVC)</Data>
+<Data Name="param2">stopped</Data>
+<Binary>QQBwAHAAWABTAHYAYwAvADEAAAA=</Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Service Control Manager" Guid="{555908d1-a6d7-4695-8e1e-26931d2012f4}" EventSourceName="Service Control Manager"></Provider>
+<EventID Qualifiers="16384">7036</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8080000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:29:36.671476"></TimeCreated>
+<EventRecordID>102948</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="636" ThreadID="2560"></Execution>
+<Channel>System</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="param1">Windows Update</Data>
+<Data Name="param2">stopped</Data>
+<Binary>dwB1AGEAdQBzAGUAcgB2AC8AMQAAAA==</Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Service Control Manager" Guid="{555908d1-a6d7-4695-8e1e-26931d2012f4}" EventSourceName="Service Control Manager"></Provider>
+<EventID Qualifiers="16384">7036</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8080000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:34:36.440599"></TimeCreated>
+<EventRecordID>102949</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="636" ThreadID="1892"></Execution>
+<Channel>System</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="param1">Windows Modules Installer</Data>
+<Data Name="param2">running</Data>
+<Binary>VAByAHUAcwB0AGUAZABJAG4AcwB0AGEAbABsAGUAcgAvADQAAAA=</Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Service Control Manager" Guid="{555908d1-a6d7-4695-8e1e-26931d2012f4}" EventSourceName="Service Control Manager"></Provider>
+<EventID Qualifiers="16384">7036</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8080000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:34:37.940578"></TimeCreated>
+<EventRecordID>102950</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="636" ThreadID="1892"></Execution>
+<Channel>System</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="param1">Windows Update</Data>
+<Data Name="param2">running</Data>
+<Binary>dwB1AGEAdQBzAGUAcgB2AC8ANAAAAA==</Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Service Control Manager" Guid="{555908d1-a6d7-4695-8e1e-26931d2012f4}" EventSourceName="Service Control Manager"></Provider>
+<EventID Qualifiers="16384">7036</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8080000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:34:38.221848"></TimeCreated>
+<EventRecordID>102951</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="636" ThreadID="3200"></Execution>
+<Channel>System</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="param1">Software Protection</Data>
+<Data Name="param2">running</Data>
+<Binary>cwBwAHAAcwB2AGMALwA0AAAA</Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Service Control Manager" Guid="{555908d1-a6d7-4695-8e1e-26931d2012f4}" EventSourceName="Service Control Manager"></Provider>
+<EventID Qualifiers="16384">7036</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8080000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:34:38.846834"></TimeCreated>
+<EventRecordID>102952</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="636" ThreadID="3200"></Execution>
+<Channel>System</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="param1">Microsoft Account Sign-in Assistant</Data>
+<Data Name="param2">running</Data>
+<Binary>dwBsAGkAZABzAHYAYwAvADQAAAA=</Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-WindowsUpdateClient" Guid="{945a8954-c147-4acd-923f-40c45405a658}"></Provider>
+<EventID Qualifiers="">44</EventID>
+<Version>1</Version>
+<Level>4</Level>
+<Task>1</Task>
+<Opcode>12</Opcode>
+<Keywords>0x8000000000002004</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:34:47.573483"></TimeCreated>
+<EventRecordID>102953</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="3312" ThreadID="1212"></Execution>
+<Channel>System</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID="S-1-5-18"></Security>
+</System>
+<EventData><Data Name="updateTitle">2024-08 Cumulative Update for Microsoft server operating system version 21H2 for x64-based Systems (KB5041160)</Data>
+<Data Name="updateGuid">{b78e6476-c096-40f6-967c-743397bb5fdc}</Data>
+<Data Name="updateRevisionNumber">1</Data>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Service Control Manager" Guid="{555908d1-a6d7-4695-8e1e-26931d2012f4}" EventSourceName="Service Control Manager"></Provider>
+<EventID Qualifiers="16384">7036</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8080000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:34:49.112700"></TimeCreated>
+<EventRecordID>102954</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="636" ThreadID="1892"></Execution>
+<Channel>System</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="param1">Windows Update Medic Service</Data>
+<Data Name="param2">running</Data>
+<Binary>VwBhAGEAUwBNAGUAZABpAGMAUwB2AGMALwA0AAAA</Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Service Control Manager" Guid="{555908d1-a6d7-4695-8e1e-26931d2012f4}" EventSourceName="Service Control Manager"></Provider>
+<EventID Qualifiers="16384">7036</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8080000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:34:49.128380"></TimeCreated>
+<EventRecordID>102955</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="636" ThreadID="1892"></Execution>
+<Channel>System</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="param1">Delivery Optimization</Data>
+<Data Name="param2">running</Data>
+<Binary>RABvAFMAdgBjAC8ANAAAAA==</Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Service Control Manager" Guid="{555908d1-a6d7-4695-8e1e-26931d2012f4}" EventSourceName="Service Control Manager"></Provider>
+<EventID Qualifiers="16384">7036</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8080000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:35:13.472115"></TimeCreated>
+<EventRecordID>102956</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="636" ThreadID="1892"></Execution>
+<Channel>System</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="param1">Software Protection</Data>
+<Data Name="param2">stopped</Data>
+<Binary>cwBwAHAAcwB2AGMALwAxAAAA</Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Service Control Manager" Guid="{555908d1-a6d7-4695-8e1e-26931d2012f4}" EventSourceName="Service Control Manager"></Provider>
+<EventID Qualifiers="16384">7036</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8080000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:35:49.113424"></TimeCreated>
+<EventRecordID>102957</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="636" ThreadID="1892"></Execution>
+<Channel>System</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="param1">Windows Update Medic Service</Data>
+<Data Name="param2">stopped</Data>
+<Binary>VwBhAGEAUwBNAGUAZABpAGMAUwB2AGMALwAxAAAA</Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Service Control Manager" Guid="{555908d1-a6d7-4695-8e1e-26931d2012f4}" EventSourceName="Service Control Manager"></Provider>
+<EventID Qualifiers="16384">7036</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8080000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:35:59.066542"></TimeCreated>
+<EventRecordID>102958</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="636" ThreadID="1892"></Execution>
+<Channel>System</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="param1">AppX Deployment Service (AppXSVC)</Data>
+<Data Name="param2">running</Data>
+<Binary>QQBwAHAAWABTAHYAYwAvADQAAAA=</Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Service Control Manager" Guid="{555908d1-a6d7-4695-8e1e-26931d2012f4}" EventSourceName="Service Control Manager"></Provider>
+<EventID Qualifiers="16384">7036</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8080000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:35:59.535353"></TimeCreated>
+<EventRecordID>102959</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="636" ThreadID="1892"></Execution>
+<Channel>System</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="param1">Client License Service (ClipSVC)</Data>
+<Data Name="param2">running</Data>
+<Binary>QwBsAGkAcABTAFYAQwAvADQAAAA=</Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Service Control Manager" Guid="{555908d1-a6d7-4695-8e1e-26931d2012f4}" EventSourceName="Service Control Manager"></Provider>
+<EventID Qualifiers="16384">7036</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8080000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:37:12.426619"></TimeCreated>
+<EventRecordID>102960</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="636" ThreadID="1892"></Execution>
+<Channel>System</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="param1">Windows Modules Installer</Data>
+<Data Name="param2">stopped</Data>
+<Binary>VAByAHUAcwB0AGUAZABJAG4AcwB0AGEAbABsAGUAcgAvADEAAAA=</Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Service Control Manager" Guid="{555908d1-a6d7-4695-8e1e-26931d2012f4}" EventSourceName="Service Control Manager"></Provider>
+<EventID Qualifiers="16384">7036</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8080000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:37:39.207870"></TimeCreated>
+<EventRecordID>102961</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="636" ThreadID="3200"></Execution>
+<Channel>System</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="param1">Microsoft Account Sign-in Assistant</Data>
+<Data Name="param2">stopped</Data>
+<Binary>dwBsAGkAZABzAHYAYwAvADEAAAA=</Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Service Control Manager" Guid="{555908d1-a6d7-4695-8e1e-26931d2012f4}" EventSourceName="Service Control Manager"></Provider>
+<EventID Qualifiers="16384">7036</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8080000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:39:39.224817"></TimeCreated>
+<EventRecordID>102962</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="636" ThreadID="2840"></Execution>
+<Channel>System</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="param1">App Readiness</Data>
+<Data Name="param2">stopped</Data>
+<Binary>QQBwAHAAUgBlAGEAZABpAG4AZQBzAHMALwAxAAAA</Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Service Control Manager" Guid="{555908d1-a6d7-4695-8e1e-26931d2012f4}" EventSourceName="Service Control Manager"></Provider>
+<EventID Qualifiers="16384">7036</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8080000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:39:49.178183"></TimeCreated>
+<EventRecordID>102963</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="636" ThreadID="3200"></Execution>
+<Channel>System</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="param1">Delivery Optimization</Data>
+<Data Name="param2">stopped</Data>
+<Binary>RABvAFMAdgBjAC8AMQAAAA==</Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Service Control Manager" Guid="{555908d1-a6d7-4695-8e1e-26931d2012f4}" EventSourceName="Service Control Manager"></Provider>
+<EventID Qualifiers="16384">7036</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8080000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:40:59.553932"></TimeCreated>
+<EventRecordID>102964</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="636" ThreadID="3200"></Execution>
+<Channel>System</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="param1">Client License Service (ClipSVC)</Data>
+<Data Name="param2">stopped</Data>
+<Binary>QwBsAGkAcABTAFYAQwAvADEAAAA=</Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Service Control Manager" Guid="{555908d1-a6d7-4695-8e1e-26931d2012f4}" EventSourceName="Service Control Manager"></Provider>
+<EventID Qualifiers="16384">7036</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8080000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:40:59.788231"></TimeCreated>
+<EventRecordID>102965</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="636" ThreadID="3200"></Execution>
+<Channel>System</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="param1">AppX Deployment Service (AppXSVC)</Data>
+<Data Name="param2">stopped</Data>
+<Binary>QQBwAHAAWABTAHYAYwAvADEAAAA=</Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Service Control Manager" Guid="{555908d1-a6d7-4695-8e1e-26931d2012f4}" EventSourceName="Service Control Manager"></Provider>
+<EventID Qualifiers="16384">7036</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8080000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:45:12.774403"></TimeCreated>
+<EventRecordID>102966</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="636" ThreadID="128"></Execution>
+<Channel>System</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="param1">Windows Update</Data>
+<Data Name="param2">stopped</Data>
+<Binary>dwB1AGEAdQBzAGUAcgB2AC8AMQAAAA==</Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Service Control Manager" Guid="{555908d1-a6d7-4695-8e1e-26931d2012f4}" EventSourceName="Service Control Manager"></Provider>
+<EventID Qualifiers="16384">7036</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8080000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:46:15.697561"></TimeCreated>
+<EventRecordID>102967</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="636" ThreadID="5280"></Execution>
+<Channel>System</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="param1">Windows Error Reporting Service</Data>
+<Data Name="param2">running</Data>
+<Binary>VwBlAHIAUwB2AGMALwA0AAAA</Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Service Control Manager" Guid="{555908d1-a6d7-4695-8e1e-26931d2012f4}" EventSourceName="Service Control Manager"></Provider>
+<EventID Qualifiers="16384">7036</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8080000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:46:17.072590"></TimeCreated>
+<EventRecordID>102968</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="636" ThreadID="5280"></Execution>
+<Channel>System</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="param1">Diagnostic Service Host</Data>
+<Data Name="param2">running</Data>
+<Binary>VwBkAGkAUwBlAHIAdgBpAGMAZQBIAG8AcwB0AC8ANAAAAA==</Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Service Control Manager" Guid="{555908d1-a6d7-4695-8e1e-26931d2012f4}" EventSourceName="Service Control Manager"></Provider>
+<EventID Qualifiers="16384">7036</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8080000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:47:20.182783"></TimeCreated>
+<EventRecordID>102969</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="636" ThreadID="4248"></Execution>
+<Channel>System</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="param1">Secondary Logon</Data>
+<Data Name="param2">running</Data>
+<Binary>cwBlAGMAbABvAGcAbwBuAC8ANAAAAA==</Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Service Control Manager" Guid="{555908d1-a6d7-4695-8e1e-26931d2012f4}" EventSourceName="Service Control Manager"></Provider>
+<EventID Qualifiers="16384">7036</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8080000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:47:31.198517"></TimeCreated>
+<EventRecordID>102970</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="636" ThreadID="4248"></Execution>
+<Channel>System</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="param1">Network Setup Service</Data>
+<Data Name="param2">running</Data>
+<Binary>TgBlAHQAUwBlAHQAdQBwAFMAdgBjAC8ANAAAAA==</Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Service Control Manager" Guid="{555908d1-a6d7-4695-8e1e-26931d2012f4}" EventSourceName="Service Control Manager"></Provider>
+<EventID Qualifiers="16384">7036</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8080000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:48:15.699541"></TimeCreated>
+<EventRecordID>102971</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="636" ThreadID="4248"></Execution>
+<Channel>System</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="param1">Windows Error Reporting Service</Data>
+<Data Name="param2">stopped</Data>
+<Binary>VwBlAHIAUwB2AGMALwAxAAAA</Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Service Control Manager" Guid="{555908d1-a6d7-4695-8e1e-26931d2012f4}" EventSourceName="Service Control Manager"></Provider>
+<EventID Qualifiers="16384">7036</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8080000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:50:25.294451"></TimeCreated>
+<EventRecordID>102972</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="636" ThreadID="4248"></Execution>
+<Channel>System</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="param1">Network Setup Service</Data>
+<Data Name="param2">stopped</Data>
+<Binary>TgBlAHQAUwBlAHQAdQBwAFMAdgBjAC8AMQAAAA==</Binary>
+</EventData>
+</Event>
+
+</Events>

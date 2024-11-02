@@ -1,0 +1,1278 @@
+evtxexport 20210525
+
+Event number			: 1
+Creation time			: Oct 08, 2024 20:20:16.784092600 UTC
+Written time			: Oct 08, 2024 20:20:16.784092600 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-21-575862355-1298997956-143584457-500
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Eventlog
+Event identifier		: 0x00000068 (104)
+Number of strings		: 4
+String: 1			: Administrator
+String: 2			: WIN-TU7OJ5RC88T
+String: 3			: System
+String: 4			: 
+
+Event number			: 2
+Creation time			: Oct 08, 2024 20:22:25.939853500 UTC
+Written time			: Oct 08, 2024 20:22:25.939853500 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Software Protection
+String: 2			: running
+String: 3			: 7300700070007300760063002F0034000000
+
+Event number			: 3
+Creation time			: Oct 08, 2024 20:23:43.888276000 UTC
+Written time			: Oct 08, 2024 20:23:43.888276000 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Software Protection
+String: 2			: stopped
+String: 3			: 7300700070007300760063002F0031000000
+
+Event number			: 4
+Creation time			: Oct 08, 2024 20:24:30.858086600 UTC
+Written time			: Oct 08, 2024 20:24:30.858086600 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Diagnostic System Host
+String: 2			: running
+String: 3			: 570064006900530079007300740065006D0048006F00730074002F0034000000
+
+Event number			: 5
+Creation time			: Oct 08, 2024 20:24:33.187690500 UTC
+Written time			: Oct 08, 2024 20:24:33.187690500 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: AppX Deployment Service (AppXSVC)
+String: 2			: running
+String: 3			: 41007000700058005300760063002F0034000000
+
+Event number			: 6
+Creation time			: Oct 08, 2024 20:24:39.897156200 UTC
+Written time			: Oct 08, 2024 20:24:39.897156200 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-21-575862355-1298997956-143584457-500
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b85 (7045)
+Number of strings		: 5
+String: 1			: Mozilla Maintenance Service
+String: 2			: "C:\Program Files (x86)\Mozilla Maintenance Service\maintenanceservice.exe"
+String: 3			: user mode service
+String: 4			: demand start
+String: 5			: LocalSystem
+
+Event number			: 7
+Creation time			: Oct 08, 2024 20:25:05.019548600 UTC
+Written time			: Oct 08, 2024 20:25:05.019548600 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Windows Installer
+String: 2			: running
+String: 3			: 6D00730069007300650072007600650072002F0034000000
+
+Event number			: 8
+Creation time			: Oct 08, 2024 20:25:09.540037100 UTC
+Written time			: Oct 08, 2024 20:25:09.540037100 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b85 (7045)
+Number of strings		: 5
+String: 1			: GoogleUpdater InternalService 130.0.6679.0 (GoogleUpdaterInternalService130.0.6679.0)
+String: 2			: "C:\Program Files (x86)\Google\GoogleUpdater\130.0.6679.0\updater.exe" --system --windows-service --service=update-internal
+String: 3			: user mode service
+String: 4			: auto start
+String: 5			: LocalSystem
+
+Event number			: 9
+Creation time			: Oct 08, 2024 20:25:09.649430800 UTC
+Written time			: Oct 08, 2024 20:25:09.649430800 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: GoogleUpdater InternalService 130.0.6679.0 (GoogleUpdaterInternalService130.0.6679.0)
+String: 2			: running
+String: 3			: 47006F006F0067006C006500550070006400610074006500720049006E007400650072006E0061006C0053006500720076006900630065003100330030002E0030002E0036003600370039002E0030002F0034000000
+
+Event number			: 10
+Creation time			: Oct 08, 2024 20:25:09.696451000 UTC
+Written time			: Oct 08, 2024 20:25:09.696451000 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b85 (7045)
+Number of strings		: 5
+String: 1			: GoogleUpdater Service 130.0.6679.0 (GoogleUpdaterService130.0.6679.0)
+String: 2			: "C:\Program Files (x86)\Google\GoogleUpdater\130.0.6679.0\updater.exe" --system --windows-service --service=update
+String: 3			: user mode service
+String: 4			: auto start
+String: 5			: LocalSystem
+
+Event number			: 11
+Creation time			: Oct 08, 2024 20:25:09.914952400 UTC
+Written time			: Oct 08, 2024 20:25:09.914952400 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: GoogleUpdater Service 130.0.6679.0 (GoogleUpdaterService130.0.6679.0)
+String: 2			: running
+String: 3			: 47006F006F0067006C006500550070006400610074006500720053006500720076006900630065003100330030002E0030002E0036003600370039002E0030002F0034000000
+
+Event number			: 12
+Creation time			: Oct 08, 2024 20:25:19.601046300 UTC
+Written time			: Oct 08, 2024 20:25:19.601046300 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b85 (7045)
+Number of strings		: 5
+String: 1			: Google Chrome Elevation Service (GoogleChromeElevationService)
+String: 2			: "C:\Program Files\Google\Chrome\Application\129.0.6668.101\elevation_service.exe"
+String: 3			: user mode service
+String: 4			: demand start
+String: 5			: LocalSystem
+
+Event number			: 13
+Creation time			: Oct 08, 2024 20:25:19.867743700 UTC
+Written time			: Oct 08, 2024 20:25:19.867743700 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: GoogleUpdater InternalService 130.0.6679.0 (GoogleUpdaterInternalService130.0.6679.0)
+String: 2			: stopped
+String: 3			: 47006F006F0067006C006500550070006400610074006500720049006E007400650072006E0061006C0053006500720076006900630065003100330030002E0030002E0036003600370039002E0030002F0031000000
+
+Event number			: 14
+Creation time			: Oct 08, 2024 20:25:29.803665300 UTC
+Written time			: Oct 08, 2024 20:25:29.803665300 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: GoogleUpdater Service 130.0.6679.0 (GoogleUpdaterService130.0.6679.0)
+String: 2			: stopped
+String: 3			: 47006F006F0067006C006500550070006400610074006500720053006500720076006900630065003100330030002E0030002E0036003600370039002E0030002F0031000000
+
+Event number			: 15
+Creation time			: Oct 08, 2024 20:25:46.775291300 UTC
+Written time			: Oct 08, 2024 20:25:46.775291300 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-21-575862355-1298997956-143584457-500
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b85 (7045)
+Number of strings		: 5
+String: 1			: Everything
+String: 2			: "C:\Program Files\Everything\Everything.exe" -svc
+String: 3			: user mode service
+String: 4			: auto start
+String: 5			: LocalSystem
+
+Event number			: 16
+Creation time			: Oct 08, 2024 20:25:46.790909300 UTC
+Written time			: Oct 08, 2024 20:25:46.790909300 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Everything
+String: 2			: running
+String: 3			: 450076006500720079007400680069006E0067002F0034000000
+
+Event number			: 17
+Creation time			: Oct 08, 2024 20:25:47.181283300 UTC
+Written time			: Oct 08, 2024 20:25:47.181283300 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Optimize drives
+String: 2			: running
+String: 3			: 6400650066007200610067007300760063002F0034000000
+
+Event number			: 18
+Creation time			: Oct 08, 2024 20:25:47.573102700 UTC
+Written time			: Oct 08, 2024 20:25:47.573102700 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-21-575862355-1298997956-143584457-500
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b85 (7045)
+Number of strings		: 5
+String: 1			: Steam Client Service
+String: 2			: "C:\Program Files (x86)\Common Files\Steam\steamservice.exe" /RunAsService
+String: 3			: user mode service
+String: 4			: demand start
+String: 5			: LocalSystem
+
+Event number			: 19
+Creation time			: Oct 08, 2024 20:25:47.619558100 UTC
+Written time			: Oct 08, 2024 20:25:47.619558100 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Windows Modules Installer
+String: 2			: running
+String: 3			: 540072007500730074006500640049006E007300740061006C006C00650072002F0034000000
+
+Event number			: 20
+Creation time			: Oct 08, 2024 20:25:49.450743300 UTC
+Written time			: Oct 08, 2024 20:25:49.450743300 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Microsoft Account Sign-in Assistant
+String: 2			: running
+String: 3			: 77006C00690064007300760063002F0034000000
+
+Event number			: 21
+Creation time			: Oct 08, 2024 20:27:48.334114900 UTC
+Written time			: Oct 08, 2024 20:27:48.334114900 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Windows Modules Installer
+String: 2			: stopped
+String: 3			: 540072007500730074006500640049006E007300740061006C006C00650072002F0031000000
+
+Event number			: 22
+Creation time			: Oct 08, 2024 20:28:53.290606000 UTC
+Written time			: Oct 08, 2024 20:28:53.290606000 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Optimize drives
+String: 2			: stopped
+String: 3			: 6400650066007200610067007300760063002F0031000000
+
+Event number			: 23
+Creation time			: Oct 08, 2024 20:29:05.034522100 UTC
+Written time			: Oct 08, 2024 20:29:05.034522100 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b85 (7045)
+Number of strings		: 5
+String: 1			: RealVNC Server
+String: 2			: "C:\Program Files\RealVNC\VNC Server\vncserver.exe" -service
+String: 3			: user mode service
+String: 4			: auto start
+String: 5			: LocalSystem
+
+Event number			: 24
+Creation time			: Oct 08, 2024 20:29:05.050201900 UTC
+Written time			: Oct 08, 2024 20:29:05.050201900 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: RealVNC Server
+String: 2			: running
+String: 3			: 76006E0063007300650072007600650072002F0034000000
+
+Event number			: 25
+Creation time			: Oct 08, 2024 20:29:15.993660300 UTC
+Written time			: Oct 08, 2024 20:29:15.993660300 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-21-575862355-1298997956-143584457-500
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b85 (7045)
+Number of strings		: 5
+String: 1			: SugarSync Service
+String: 2			: C:\Program Files (x86)\SugarSync\SugarSyncSvc.exe
+String: 3			: user mode service
+String: 4			: auto start
+String: 5			: LocalSystem
+
+Event number			: 26
+Creation time			: Oct 08, 2024 20:29:16.025115800 UTC
+Written time			: Oct 08, 2024 20:29:16.025115800 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: SugarSync Service
+String: 2			: running
+String: 3			: 53007500670061007200530079006E006300200053006500720076006900630065002F0034000000
+
+Event number			: 27
+Creation time			: Oct 08, 2024 20:30:09.756806500 UTC
+Written time			: Oct 08, 2024 20:30:09.756806500 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: GoogleUpdater InternalService 130.0.6679.0 (GoogleUpdaterInternalService130.0.6679.0)
+String: 2			: running
+String: 3			: 47006F006F0067006C006500550070006400610074006500720049006E007400650072006E0061006C0053006500720076006900630065003100330030002E0030002E0036003600370039002E0030002F0034000000
+
+Event number			: 28
+Creation time			: Oct 08, 2024 20:30:09.866040300 UTC
+Written time			: Oct 08, 2024 20:30:09.866040300 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: GoogleUpdater Service 130.0.6679.0 (GoogleUpdaterService130.0.6679.0)
+String: 2			: running
+String: 3			: 47006F006F0067006C006500550070006400610074006500720053006500720076006900630065003100330030002E0030002E0036003600370039002E0030002F0034000000
+
+Event number			: 29
+Creation time			: Oct 08, 2024 20:31:06.090150100 UTC
+Written time			: Oct 08, 2024 20:31:06.090150100 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: GoogleUpdater InternalService 130.0.6679.0 (GoogleUpdaterInternalService130.0.6679.0)
+String: 2			: stopped
+String: 3			: 47006F006F0067006C006500550070006400610074006500720049006E007400650072006E0061006C0053006500720076006900630065003100330030002E0030002E0036003600370039002E0030002F0031000000
+
+Event number			: 30
+Creation time			: Oct 08, 2024 20:31:06.094163800 UTC
+Written time			: Oct 08, 2024 20:31:06.094163800 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: GoogleUpdater Service 130.0.6679.0 (GoogleUpdaterService130.0.6679.0)
+String: 2			: stopped
+String: 3			: 47006F006F0067006C006500550070006400610074006500720053006500720076006900630065003100330030002E0030002E0036003600370039002E0030002F0031000000
+
+Event number			: 31
+Creation time			: Oct 08, 2024 20:31:44.205863600 UTC
+Written time			: Oct 08, 2024 20:31:44.205863600 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b80 (7040)
+Number of strings		: 4
+String: 1			: Background Intelligent Transfer Service
+String: 2			: demand start
+String: 3			: auto start
+String: 4			: BITS
+
+Event number			: 32
+Creation time			: Oct 08, 2024 20:31:44.362234300 UTC
+Written time			: Oct 08, 2024 20:31:44.362234300 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Background Intelligent Transfer Service
+String: 2			: running
+String: 3			: 42004900540053002F0034000000
+
+Event number			: 33
+Creation time			: Oct 08, 2024 20:31:50.851276900 UTC
+Written time			: Oct 08, 2024 20:31:50.851276900 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Microsoft Account Sign-in Assistant
+String: 2			: stopped
+String: 3			: 77006C00690064007300760063002F0031000000
+
+Event number			: 34
+Creation time			: Oct 08, 2024 20:33:07.102739000 UTC
+Written time			: Oct 08, 2024 20:33:07.102739000 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Windows Update
+String: 2			: running
+String: 3			: 770075006100750073006500720076002F0034000000
+
+Event number			: 35
+Creation time			: Oct 08, 2024 20:33:45.387884500 UTC
+Written time			: Oct 08, 2024 20:33:45.387884500 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b80 (7040)
+Number of strings		: 4
+String: 1			: Background Intelligent Transfer Service
+String: 2			: auto start
+String: 3			: demand start
+String: 4			: BITS
+
+Event number			: 36
+Creation time			: Oct 08, 2024 20:33:45.544129800 UTC
+Written time			: Oct 08, 2024 20:33:45.544129800 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Background Intelligent Transfer Service
+String: 2			: stopped
+String: 3			: 42004900540053002F0031000000
+
+Event number			: 37
+Creation time			: Oct 08, 2024 20:34:06.214980200 UTC
+Written time			: Oct 08, 2024 20:34:06.214980200 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Windows Installer
+String: 2			: stopped
+String: 3			: 6D00730069007300650072007600650072002F0031000000
+
+Event number			: 38
+Creation time			: Oct 08, 2024 20:35:29.004211000 UTC
+Written time			: Oct 08, 2024 20:35:29.004211000 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-19
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Kernel-General
+Event identifier		: 0x00000018 (24)
+Number of strings		: 5
+String: 1			: 0
+String: 2			: 420
+String: 3			: 2
+String: 4			: 0
+String: 5			: 0
+
+Event number			: 39
+Creation time			: Oct 08, 2024 20:35:29.006061400 UTC
+Written time			: Oct 08, 2024 20:35:29.006061400 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-19
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Kernel-General
+Event identifier		: 0x00000001 (1)
+Number of strings		: 5
+String: 1			: 2024-10-08T20:35:29.003391500Z
+String: 2			: 2024-10-08T20:35:30.773864200Z
+String: 3			: 1
+String: 4			: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+String: 5			: 2792
+
+Event number			: 40
+Creation time			: Oct 08, 2024 20:35:29.006710500 UTC
+Written time			: Oct 08, 2024 20:35:29.006710500 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-19
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Kernel-General
+Event identifier		: 0x00000018 (24)
+Number of strings		: 5
+String: 1			: 0
+String: 2			: 420
+String: 3			: 2
+String: 4			: 0
+String: 5			: 0
+
+Event number			: 41
+Creation time			: Oct 08, 2024 20:35:29.007109500 UTC
+Written time			: Oct 08, 2024 20:35:29.007109500 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-19
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Kernel-General
+Event identifier		: 0x00000001 (1)
+Number of strings		: 5
+String: 1			: 2024-10-08T20:35:29.006505100Z
+String: 2			: 2024-10-08T20:35:29.006281200Z
+String: 3			: 1
+String: 4			: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+String: 5			: 2792
+
+Event number			: 42
+Creation time			: Oct 08, 2024 20:36:00.386698000 UTC
+Written time			: Oct 08, 2024 20:36:00.386698000 UTC
+Event level			: Warning (3)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: stornvme
+Event identifier		: 0x00000081 (129)
+Number of strings		: 2
+String: 1			: \Device\RaidPort1
+String: 2			: 0F001800010000000000000081000480010000000000000000000000000000000000000000000000000000000000000000000000810004800000000000000000
+
+Event number			: 43
+Creation time			: Oct 08, 2024 20:36:32.905082100 UTC
+Written time			: Oct 08, 2024 20:36:32.905082100 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Windows Image Acquisition (WIA)
+String: 2			: running
+String: 3			: 5300740069005300760063002F0034000000
+
+Event number			: 44
+Creation time			: Oct 08, 2024 20:36:32.983332400 UTC
+Written time			: Oct 08, 2024 20:36:32.983332400 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Device Association Service
+String: 2			: running
+String: 3			: 4400650076006900630065004100730073006F00630069006100740069006F006E0053006500720076006900630065002F0034000000
+
+Event number			: 45
+Creation time			: Oct 08, 2024 20:36:32.983332400 UTC
+Written time			: Oct 08, 2024 20:36:32.983332400 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Device Setup Manager
+String: 2			: running
+String: 3			: 440073006D005300760063002F0034000000
+
+Event number			: 46
+Creation time			: Oct 08, 2024 20:36:33.046068600 UTC
+Written time			: Oct 08, 2024 20:36:33.046068600 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-21-575862355-1298997956-143584457-500
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b85 (7045)
+Number of strings		: 5
+String: 1			: Foxit PDF Reader Update Service
+String: 2			: "C:\Program Files (x86)\Common Files\Foxit\Foxit PDF Reader\FoxitPDFReaderUpdateService.exe"
+String: 3			: user mode service
+String: 4			: auto start
+String: 5			: LocalSystem
+
+Event number			: 47
+Creation time			: Oct 08, 2024 20:36:33.046068600 UTC
+Written time			: Oct 08, 2024 20:36:33.046068600 UTC
+Event level			: Error (2)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b76 (7030)
+Number of strings		: 1
+String: 1			: Foxit PDF Reader Update Service
+
+Event number			: 48
+Creation time			: Oct 08, 2024 20:36:33.077148500 UTC
+Written time			: Oct 08, 2024 20:36:33.077148500 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Foxit PDF Reader Update Service
+String: 2			: running
+String: 3			: 46006F0078006900740052006500610064006500720055007000640061007400650053006500720076006900630065002F0034000000
+
+Event number			: 49
+Creation time			: Oct 08, 2024 20:36:41.472162900 UTC
+Written time			: Oct 08, 2024 20:36:41.472162900 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Windows Installer
+String: 2			: running
+String: 3			: 6D00730069007300650072007600650072002F0034000000
+
+Event number			: 50
+Creation time			: Oct 08, 2024 20:37:05.456325100 UTC
+Written time			: Oct 08, 2024 20:37:05.456325100 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Windows Image Acquisition (WIA)
+String: 2			: stopped
+String: 3			: 5300740069005300760063002F0031000000
+
+Event number			: 51
+Creation time			: Oct 08, 2024 20:37:23.453936900 UTC
+Written time			: Oct 08, 2024 20:37:23.453936900 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Device Setup Manager
+String: 2			: stopped
+String: 3			: 440073006D005300760063002F0031000000
+
+Event number			: 52
+Creation time			: Oct 08, 2024 20:37:43.976804100 UTC
+Written time			: Oct 08, 2024 20:37:43.976804100 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b85 (7045)
+Number of strings		: 5
+String: 1			: Zoom Sharing Service
+String: 2			: "C:\Program Files\Common Files\Zoom\Support\CptService.exe" -user_path "C:\Users\Administrator\AppData\Roaming\Zoom"
+String: 3			: user mode service
+String: 4			: auto start
+String: 5			: LocalSystem
+
+Event number			: 53
+Creation time			: Oct 08, 2024 20:37:43.992453500 UTC
+Written time			: Oct 08, 2024 20:37:43.992453500 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Zoom Sharing Service
+String: 2			: running
+String: 3			: 5A006F006F006D0043007000740053006500720076006900630065002F0034000000
+
+Event number			: 54
+Creation time			: Oct 08, 2024 20:37:48.635332900 UTC
+Written time			: Oct 08, 2024 20:37:48.635332900 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-21-575862355-1298997956-143584457-500
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b85 (7045)
+Number of strings		: 5
+String: 1			: googledrivefs31626
+String: 2			: C:\Program Files\Google\Drive File Stream\Drivers\31626\googledrivefs31626.sys
+String: 3			: kernel mode driver
+String: 4			: auto start
+String: 5			: 
+
+Event number			: 55
+Creation time			: Oct 08, 2024 20:37:51.620852300 UTC
+Written time			: Oct 08, 2024 20:37:51.620852300 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-21-575862355-1298997956-143584457-500
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b85 (7045)
+Number of strings		: 5
+String: 1			: Dropbox Update Service (dbupdate)
+String: 2			: "C:\Program Files (x86)\Dropbox\Update\DropboxUpdate.exe" /svc
+String: 3			: user mode service
+String: 4			: auto start
+String: 5			: LocalSystem
+
+Event number			: 56
+Creation time			: Oct 08, 2024 20:37:51.636074100 UTC
+Written time			: Oct 08, 2024 20:37:51.636074100 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-21-575862355-1298997956-143584457-500
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b85 (7045)
+Number of strings		: 5
+String: 1			: Dropbox Update Service (dbupdatem)
+String: 2			: "C:\Program Files (x86)\Dropbox\Update\DropboxUpdate.exe" /medsvc
+String: 3			: user mode service
+String: 4			: demand start
+String: 5			: LocalSystem
+
+Event number			: 57
+Creation time			: Oct 08, 2024 20:37:52.385773500 UTC
+Written time			: Oct 08, 2024 20:37:52.385773500 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Dropbox Update Service (dbupdate)
+String: 2			: running
+String: 3			: 640062007500700064006100740065002F0034000000
+
+Event number			: 58
+Creation time			: Oct 08, 2024 20:37:53.200371400 UTC
+Written time			: Oct 08, 2024 20:37:53.200371400 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b80 (7040)
+Number of strings		: 4
+String: 1			: Background Intelligent Transfer Service
+String: 2			: demand start
+String: 3			: auto start
+String: 4			: BITS
+
+Event number			: 59
+Creation time			: Oct 08, 2024 20:37:53.325777500 UTC
+Written time			: Oct 08, 2024 20:37:53.325777500 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Background Intelligent Transfer Service
+String: 2			: running
+String: 3			: 42004900540053002F0034000000
+
+Event number			: 60
+Creation time			: Oct 08, 2024 20:38:33.561731900 UTC
+Written time			: Oct 08, 2024 20:38:33.561731900 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-21-575862355-1298997956-143584457-500
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b85 (7045)
+Number of strings		: 5
+String: 1			: DbxSvc
+String: 2			: %SystemRoot%\system32\DbxSvc.exe
+String: 3			: user mode service
+String: 4			: auto start
+String: 5			: LocalSystem
+
+Event number			: 61
+Creation time			: Oct 08, 2024 20:38:33.561731900 UTC
+Written time			: Oct 08, 2024 20:38:33.561731900 UTC
+Event level			: Error (2)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b58 (7000)
+Number of strings		: 3
+String: 1			: DbxSvc
+String: 2			: %%2
+String: 3			: 4400620078005300760063000000
+
+Event number			: 62
+Creation time			: Oct 08, 2024 20:38:33.953157900 UTC
+Written time			: Oct 08, 2024 20:38:33.953157900 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-21-575862355-1298997956-143584457-500
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b85 (7045)
+Number of strings		: 5
+String: 1			: DbxSvc
+String: 2			: C:\Windows\System32\DbxSvc.exe
+String: 3			: user mode service
+String: 4			: auto start
+String: 5			: LocalSystem
+
+Event number			: 63
+Creation time			: Oct 08, 2024 20:38:34.031116200 UTC
+Written time			: Oct 08, 2024 20:38:34.031116200 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: DbxSvc
+String: 2			: running
+String: 3			: 4400620078005300760063002F0034000000
+
+Event number			: 64
+Creation time			: Oct 08, 2024 20:38:35.470117100 UTC
+Written time			: Oct 08, 2024 20:38:35.470117100 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Device Association Service
+String: 2			: stopped
+String: 3			: 4400650076006900630065004100730073006F00630069006100740069006F006E0053006500720076006900630065002F0031000000
+
+Event number			: 65
+Creation time			: Oct 08, 2024 20:38:35.955366100 UTC
+Written time			: Oct 08, 2024 20:38:35.955366100 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Dropbox Update Service (dbupdate)
+String: 2			: stopped
+String: 3			: 640062007500700064006100740065002F0031000000
+
+Event number			: 66
+Creation time			: Oct 08, 2024 20:39:46.804056000 UTC
+Written time			: Oct 08, 2024 20:39:46.804056000 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b85 (7045)
+Number of strings		: 5
+String: 1			: Bonjour Service
+String: 2			: "C:\Program Files\Bonjour\mDNSResponder.exe"
+String: 3			: user mode service
+String: 4			: auto start
+String: 5			: LocalSystem
+
+Event number			: 67
+Creation time			: Oct 08, 2024 20:39:46.835233200 UTC
+Written time			: Oct 08, 2024 20:39:46.835233200 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Bonjour Service
+String: 2			: running
+String: 3			: 42006F006E006A006F0075007200200053006500720076006900630065002F0034000000
+
+Event number			: 68
+Creation time			: Oct 08, 2024 20:39:51.963884300 UTC
+Written time			: Oct 08, 2024 20:39:51.963884300 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b85 (7045)
+Number of strings		: 5
+String: 1			: Apple Mobile Device Service
+String: 2			: "C:\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe"
+String: 3			: user mode service
+String: 4			: auto start
+String: 5			: NT AUTHORITY\LocalService
+
+Event number			: 69
+Creation time			: Oct 08, 2024 20:39:52.073375000 UTC
+Written time			: Oct 08, 2024 20:39:52.073375000 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Apple Mobile Device Service
+String: 2			: running
+String: 3			: 4100700070006C00650020004D006F00620069006C0065002000440065007600690063006500200053006500720076006900630065002F0034000000
+
+Event number			: 70
+Creation time			: Oct 08, 2024 20:42:33.487456800 UTC
+Written time			: Oct 08, 2024 20:42:33.487456800 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Dropbox Update Service (dbupdate)
+String: 2			: running
+String: 3			: 640062007500700064006100740065002F0034000000
+
+Event number			: 71
+Creation time			: Oct 08, 2024 20:42:33.738246000 UTC
+Written time			: Oct 08, 2024 20:42:33.738246000 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b85 (7045)
+Number of strings		: 5
+String: 1			: LibreOffice Maintenance Service
+String: 2			: "C:\Program Files\LibreOffice\program\update_service.exe"
+String: 3			: user mode service
+String: 4			: demand start
+String: 5			: LocalSystem
+
+Event number			: 72
+Creation time			: Oct 08, 2024 20:42:34.066165300 UTC
+Written time			: Oct 08, 2024 20:42:34.066165300 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Dropbox Update Service (dbupdate)
+String: 2			: stopped
+String: 3			: 640062007500700064006100740065002F0031000000
+
+Event number			: 73
+Creation time			: Oct 08, 2024 20:42:47.723838000 UTC
+Written time			: Oct 08, 2024 20:42:47.723838000 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Network Setup Service
+String: 2			: running
+String: 3			: 4E0065007400530065007400750070005300760063002F0034000000
+
+Event number			: 74
+Creation time			: Oct 08, 2024 20:43:02.856946900 UTC
+Written time			: Oct 08, 2024 20:43:02.856946900 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-21-575862355-1298997956-143584457-500
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b85 (7045)
+Number of strings		: 5
+String: 1			: TeamViewer
+String: 2			: "C:\Program Files\TeamViewer\TeamViewer_Service.exe"
+String: 3			: user mode service
+String: 4			: auto start
+String: 5			: LocalSystem
+
+Event number			: 75
+Creation time			: Oct 08, 2024 20:43:03.811453700 UTC
+Written time			: Oct 08, 2024 20:43:03.811453700 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Device Install Service
+String: 2			: running
+String: 3			: 44006500760069006300650049006E007300740061006C006C002F0034000000
+
+Event number			: 76
+Creation time			: Oct 08, 2024 20:43:04.690788200 UTC
+Written time			: Oct 08, 2024 20:43:04.690788200 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Kernel-General
+Event identifier		: 0x00000010 (16)
+Number of strings		: 4
+String: 1			: 49
+String: 2			: \??\C:\Windows\AppCompat\Programs\Amcache.hve.tmp
+String: 3			: 0
+String: 4			: 0
+
+Event number			: 77
+Creation time			: Oct 08, 2024 20:43:04.734419400 UTC
+Written time			: Oct 08, 2024 20:43:04.734419400 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Microsoft Edge Update Service (edgeupdate)
+String: 2			: running
+String: 3			: 65006400670065007500700064006100740065002F0034000000
+
+Event number			: 78
+Creation time			: Oct 08, 2024 20:43:04.828291600 UTC
+Written time			: Oct 08, 2024 20:43:04.828291600 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Windows Error Reporting Service
+String: 2			: running
+String: 3			: 5700650072005300760063002F0034000000
+
+Event number			: 79
+Creation time			: Oct 08, 2024 20:43:04.968888000 UTC
+Written time			: Oct 08, 2024 20:43:04.968888000 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Microsoft Account Sign-in Assistant
+String: 2			: running
+String: 3			: 77006C00690064007300760063002F0034000000
+
+Event number			: 80
+Creation time			: Oct 08, 2024 20:43:29.018989000 UTC
+Written time			: Oct 08, 2024 20:43:29.018989000 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: TeamViewer
+String: 2			: running
+String: 3			: 5400650061006D005600690065007700650072002F0034000000
+
+Event number			: 81
+Creation time			: Oct 08, 2024 20:43:29.128050300 UTC
+Written time			: Oct 08, 2024 20:43:29.128050300 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Microsoft Edge Update Service (edgeupdate)
+String: 2			: stopped
+String: 3			: 65006400670065007500700064006100740065002F0031000000
+
+Event number			: 82
+Creation time			: Oct 08, 2024 20:44:06.613162700 UTC
+Written time			: Oct 08, 2024 20:44:06.613162700 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Windows Update
+String: 2			: stopped
+String: 3			: 770075006100750073006500720076002F0031000000
+
+Event number			: 83
+Creation time			: Oct 08, 2024 20:45:04.855988400 UTC
+Written time			: Oct 08, 2024 20:45:04.855988400 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Windows Error Reporting Service
+String: 2			: stopped
+String: 3			: 5700650072005300760063002F0031000000
+
+Event number			: 84
+Creation time			: Oct 08, 2024 20:45:34.054499800 UTC
+Written time			: Oct 08, 2024 20:45:34.054499800 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Device Install Service
+String: 2			: stopped
+String: 3			: 44006500760069006300650049006E007300740061006C006C002F0031000000
+
+Event number			: 85
+Creation time			: Oct 08, 2024 20:45:49.075293900 UTC
+Written time			: Oct 08, 2024 20:45:49.075293900 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Network Setup Service
+String: 2			: stopped
+String: 3			: 4E0065007400530065007400750070005300760063002F0031000000
+
+Event number			: 86
+Creation time			: Oct 08, 2024 20:46:05.379982800 UTC
+Written time			: Oct 08, 2024 20:46:05.379982800 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Microsoft Account Sign-in Assistant
+String: 2			: stopped
+String: 3			: 77006C00690064007300760063002F0031000000
+
+Event number			: 87
+Creation time			: Oct 08, 2024 20:46:36.948833000 UTC
+Written time			: Oct 08, 2024 20:46:36.948833000 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b80 (7040)
+Number of strings		: 4
+String: 1			: Background Intelligent Transfer Service
+String: 2			: auto start
+String: 3			: demand start
+String: 4			: BITS
+
+Event number			: 88
+Creation time			: Oct 08, 2024 20:46:37.011800300 UTC
+Written time			: Oct 08, 2024 20:46:37.011800300 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Background Intelligent Transfer Service
+String: 2			: stopped
+String: 3			: 42004900540053002F0031000000
+
+Event number			: 89
+Creation time			: Oct 08, 2024 20:46:52.440575500 UTC
+Written time			: Oct 08, 2024 20:46:52.440575500 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Windows Update
+String: 2			: running
+String: 3			: 770075006100750073006500720076002F0034000000
+
+Event number			: 90
+Creation time			: Oct 08, 2024 20:47:51.314718500 UTC
+Written time			: Oct 08, 2024 20:47:51.314718500 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Windows Installer
+String: 2			: stopped
+String: 3			: 6D00730069007300650072007600650072002F0031000000
+
+Event number			: 91
+Creation time			: Oct 08, 2024 20:48:32.244334400 UTC
+Written time			: Oct 08, 2024 20:48:32.244334400 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: AppX Deployment Service (AppXSVC)
+String: 2			: stopped
+String: 3			: 41007000700058005300760063002F0031000000
+
+Event number			: 92
+Creation time			: Oct 08, 2024 20:52:52.163600600 UTC
+Written time			: Oct 08, 2024 20:52:52.163600600 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Kernel-Power
+Event identifier		: 0x00000236 (566)
+Number of strings		: 13
+String: 1			: 5
+String: 2			: 12
+String: 3			: 6
+String: 4			: 0
+String: 5			: 6665509987
+String: 6			: 0
+String: 7			: 0
+String: 8			: 0
+String: 9			: 0
+String: 10			: 7
+String: 11			: 1
+String: 12			: true
+String: 13			: 12
+
+Event number			: 93
+Creation time			: Oct 08, 2024 20:54:24.122929100 UTC
+Written time			: Oct 08, 2024 20:54:24.122929100 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Microsoft-Windows-Kernel-Power
+Event identifier		: 0x00000236 (566)
+Number of strings		: 13
+String: 1			: 5
+String: 2			: 32
+String: 3			: 7
+String: 4			: 1
+String: 5			: 91963759
+String: 6			: 0
+String: 7			: 0
+String: 8			: 0
+String: 9			: 0
+String: 10			: 9
+String: 11			: 0
+String: 12			: true
+String: 13			: 32
+
+Event number			: 94
+Creation time			: Oct 08, 2024 20:54:25.433867400 UTC
+Written time			: Oct 08, 2024 20:54:25.433867400 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Windows Camera Frame Server Monitor
+String: 2			: running
+String: 3			: 4600720061006D0065005300650072007600650072004D006F006E00690074006F0072002F0034000000
+
+Event number			: 95
+Creation time			: Oct 08, 2024 20:54:25.448872600 UTC
+Written time			: Oct 08, 2024 20:54:25.448872600 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Windows Camera Frame Server
+String: 2			: running
+String: 3			: 4600720061006D0065005300650072007600650072002F0034000000
+
+Event number			: 96
+Creation time			: Oct 08, 2024 20:54:25.543349300 UTC
+Written time			: Oct 08, 2024 20:54:25.543349300 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: AppX Deployment Service (AppXSVC)
+String: 2			: running
+String: 3			: 41007000700058005300760063002F0034000000
+
+Event number			: 97
+Creation time			: Oct 08, 2024 20:54:55.439686800 UTC
+Written time			: Oct 08, 2024 20:54:55.439686800 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Windows Camera Frame Server Monitor
+String: 2			: stopped
+String: 3			: 4600720061006D0065005300650072007600650072004D006F006E00690074006F0072002F0031000000
+
+Event number			: 98
+Creation time			: Oct 08, 2024 20:54:55.455035900 UTC
+Written time			: Oct 08, 2024 20:54:55.455035900 UTC
+Event level			: Information (4)
+Computer name			: WIN-TU7OJ5RC88T
+Source name			: Service Control Manager
+Event identifier		: 0x00001b7c (7036)
+Number of strings		: 3
+String: 1			: Windows Camera Frame Server
+String: 2			: stopped
+String: 3			: 4600720061006D0065005300650072007600650072002F0031000000
+

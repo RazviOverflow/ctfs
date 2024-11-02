@@ -1,0 +1,237 @@
+<?xml version="1.1" encoding="utf-8" standalone="yes" ?>
+
+<Events>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Search-ProfileNotify" Guid="{FC6F77DD-769A-470E-BCF9-1B6555A118BE}" EventSourceName="Windows Search Service Profile Notification"></Provider>
+<EventID Qualifiers="16384">5</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x0080000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:26:47.888103"></TimeCreated>
+<EventRecordID>12964</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="0" ThreadID="0"></Execution>
+<Channel>Application</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="User">EC2AMAZ-3NV39E0\DeeDee</Data>
+<Binary></Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-SPP" Guid="{E23B33B0-C8C9-472C-A5F9-F2BDFEA0F156}" EventSourceName="Software Protection Platform Service"></Provider>
+<EventID Qualifiers="49152">16394</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x0080000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:34:38.378109"></TimeCreated>
+<EventRecordID>12965</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="0" ThreadID="0"></Execution>
+<Channel>Application</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data></Data>
+<Binary></Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Security-SPP" Guid="{E23B33B0-C8C9-472C-A5F9-F2BDFEA0F156}" EventSourceName="Software Protection Platform Service"></Provider>
+<EventID Qualifiers="16384">16384</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x0080000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:35:13.456556"></TimeCreated>
+<EventRecordID>12966</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="0" ThreadID="0"></Execution>
+<Channel>Application</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data>&lt;string&gt;2024-10-08T19:45:13Z&lt;/string&gt;
+&lt;string&gt;RulesEngine&lt;/string&gt;
+</Data>
+<Binary></Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-CAPI2" Guid="{5bbca4a8-b209-48dc-a8c7-b23d3e5216fb}" EventSourceName="Microsoft-Windows-CAPI2"></Provider>
+<EventID Qualifiers="0">4111</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8080000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:35:39.878412"></TimeCreated>
+<EventRecordID>12967</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="2268" ThreadID="6364"></Execution>
+<Channel>Application</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data>&lt;string&gt;&#8206;Tuesday, &#8206;May &#8206;14, &#8206;2024 4:23:18 PM&lt;/string&gt;
+</Data>
+<Binary></Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name=".NET Runtime"></Provider>
+<EventID Qualifiers="0">1026</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x0080000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:46:15.619450"></TimeCreated>
+<EventRecordID>12968</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="0" ThreadID="0"></Execution>
+<Channel>Application</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data>&lt;string&gt;Application: runasc.exe
+Framework Version: v4.0.30319
+Description: The process was terminated due to an unhandled exception.
+Exception Info: System.AccessViolationException
+   at System.Runtime.InteropServices.Marshal.PtrToStructureHelper(IntPtr, System.Object, Boolean)
+   at System.Runtime.InteropServices.Marshal.PtrToStructure(IntPtr, System.Type)
+   at AccessToken.GetTokenPrivileges(IntPtr)
+   at RunasCsMainClass.DefaultCreateProcessFunction()
+   at RunasCsMainClass.RunasCsMain(System.String[])
+   at MainClass.Main(System.String[])
+
+&lt;/string&gt;
+</Data>
+<Binary></Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Application Error"></Provider>
+<EventID Qualifiers="0">1000</EventID>
+<Version>0</Version>
+<Level>2</Level>
+<Task>100</Task>
+<Opcode>0</Opcode>
+<Keywords>0x0080000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:46:15.806955"></TimeCreated>
+<EventRecordID>12969</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="0" ThreadID="0"></Execution>
+<Channel>Application</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data>&lt;string&gt;runasc.exe&lt;/string&gt;
+&lt;string&gt;1.0.0.0&lt;/string&gt;
+&lt;string&gt;f95ebab5&lt;/string&gt;
+&lt;string&gt;VCRUNTIME140_CLR0400.dll&lt;/string&gt;
+&lt;string&gt;14.10.25028.0&lt;/string&gt;
+&lt;string&gt;5bac17be&lt;/string&gt;
+&lt;string&gt;c0000005&lt;/string&gt;
+&lt;string&gt;000000000000c447&lt;/string&gt;
+&lt;string&gt;93c&lt;/string&gt;
+&lt;string&gt;01db1442f56c4dc1&lt;/string&gt;
+&lt;string&gt;C:\Users\DeeDee\Documents\runasc.exe&lt;/string&gt;
+&lt;string&gt;C:\Windows\SYSTEM32\VCRUNTIME140_CLR0400.dll&lt;/string&gt;
+&lt;string&gt;ab55d77f-95bf-4d85-99a2-b1c31737bae5&lt;/string&gt;
+&lt;string&gt;&lt;/string&gt;
+&lt;string&gt;&lt;/string&gt;
+</Data>
+<Binary></Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Microsoft-Windows-Search-ProfileNotify" Guid="{FC6F77DD-769A-470E-BCF9-1B6555A118BE}" EventSourceName="Windows Search Service Profile Notification"></Provider>
+<EventID Qualifiers="16384">5</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x0080000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:51:13.201159"></TimeCreated>
+<EventRecordID>12970</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="0" ThreadID="0"></Execution>
+<Channel>Application</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data Name="User">EC2AMAZ-3NV39E0\Niko</Data>
+<Binary></Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Wow64 Emulation Layer"></Provider>
+<EventID Qualifiers="16384">1109</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x0080000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:52:41.685987"></TimeCreated>
+<EventRecordID>12971</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="0" ThreadID="0"></Execution>
+<Channel>Application</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data>&lt;string&gt;\??\C:\Users\DeeDee\Documents\nc.exe&lt;/string&gt;
+</Data>
+<Binary></Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Wow64 Emulation Layer"></Provider>
+<EventID Qualifiers="16384">1109</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x0080000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:52:41.764132"></TimeCreated>
+<EventRecordID>12972</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="0" ThreadID="0"></Execution>
+<Channel>Application</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data>&lt;string&gt;\??\C:\Users\DeeDee\DOCUME~1\nc.exe&lt;/string&gt;
+</Data>
+<Binary></Binary>
+</EventData>
+</Event>
+
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Name="Wow64 Emulation Layer"></Provider>
+<EventID Qualifiers="16384">1109</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x0080000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-01 20:52:41.842222"></TimeCreated>
+<EventRecordID>12973</EventRecordID>
+<Correlation ActivityID="" RelatedActivityID=""></Correlation>
+<Execution ProcessID="0" ThreadID="0"></Execution>
+<Channel>Application</Channel>
+<Computer>EC2AMAZ-3NV39E0</Computer>
+<Security UserID=""></Security>
+</System>
+<EventData><Data>&lt;string&gt;\??\C:\Users\DeeDee\Documents\nc.exe&lt;/string&gt;
+</Data>
+<Binary></Binary>
+</EventData>
+</Event>
+
+</Events>

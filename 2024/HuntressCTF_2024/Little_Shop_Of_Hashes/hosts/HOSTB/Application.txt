@@ -1,0 +1,24 @@
+evtxexport 20210525
+
+Event number			: 12970
+Creation time			: Oct 01, 2024 20:31:12.787200400 UTC
+Written time			: Oct 01, 2024 20:31:12.787200400 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-DMS53EU
+Source name			: Windows Search Service Profile Notification
+Event identifier		: 0x00000005 (5)
+Number of strings		: 2
+String: 1			: EC2AMAZ-DMS53EU\Niko
+String: 2			: 
+
+Event number			: 12971
+Creation time			: Oct 01, 2024 20:38:51.042368100 UTC
+Written time			: Oct 01, 2024 20:38:51.042368100 UTC
+Event level			: Information (4)
+Computer name			: EC2AMAZ-DMS53EU
+Source name			: Windows Search Service Profile Notification
+Event identifier		: 0x00000005 (5)
+Number of strings		: 2
+String: 1			: EC2AMAZ-DMS53EU\DeeDee
+String: 2			: 
+
