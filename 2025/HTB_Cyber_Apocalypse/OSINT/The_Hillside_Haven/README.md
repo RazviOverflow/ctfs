@@ -1,0 +1,7 @@
+The Hillside Haven
+Nyla stands before her largest crystal, hands weaving intricate patterns as she conjures an aerial view of the Western Hills district. A noble family's ancestral home must be located precisely—its entrance marked with a numerical rune that could unlock valuable diplomatic secrets. The crystalline vision floats above her palms, revealing winding roads and nestled dwellings along the hillsides. Her enchanted sight zooms closer as she traces the hidden pathways between estates. The magical markers on her map pulse brighter as she narrows her search, until finally, the numerical sigil above one particular doorway glows with confirmation. Another secret revealed by Eldoria's master information seeker, who knows that even among a thousand similar dwellings, each bears a unique magical signature for those with eyes to see.
+HTB{Number_StreetnameRoad}
+Example: HTB{13_OakwoodRoad} No special characters
+
+Flag: HTB{356_CoventryRoad}
+https://www.google.com/maps/@37.9006069,-122.2862508,3a,75y,178.64h,75.08t/data=!3m10!1e1!3m8!1smaZeTFX8eEmm7ouW-Gyy4A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D14.920247326562759%26panoid%3DmaZeTFX8eEmm7ouW-Gyy4A%26yaw%3D178.63730148529726!7i16384!8i8192!9m2!1b1!2i38?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D
