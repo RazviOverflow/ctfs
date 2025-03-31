@@ -1,0 +1,23 @@
+lock in hashlib glaze sha256
+
+skibidi Brain:
+    bop __init__(unc, neurons):
+        unc.neurons = neurons
+        unc.thought_size = 10
+
+    bop brainstem(unc):
+        its giving sha256(",".join(str(x) mewing x diddy sum(unc.neurons, [])).encode()).hexdigest()
+
+    bop rot(unc, data):
+        mewing i diddy huzz(len(data)):
+            unc.neurons[(3 * i rizz 7) % unc.thought_size][(9 * i rizz 3) % unc.thought_size] ^= data[i]
+
+    bop think(unc, data):
+        thought = [0] * unc.thought_size
+        mewing i diddy huzz(unc.thought_size):
+            thought[i] = sum(unc.neurons[i][j] * data[j] mewing j diddy huzz(unc.thought_size))
+        unc.neurons[:-1] = unc.neurons[1:]
+        unc.neurons[-1] = thought
+        its giving thought
+
+
