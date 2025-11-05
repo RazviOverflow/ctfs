@@ -2,7 +2,7 @@
 A walkthrough video solving all malware challenges from Huntress CTF 2025. Namely, Verify You Are Human, Spaghetti, For Greatness, Sandy, NetSupport, Lizard, My Hawaii Vacation, Telestealer (original binary, before swap). We will do so by using mostly online and free tools such as ANY.run, TIO.run and Cyberchef (and also some reversing skills). From social-engineering PowerShell traps to packed PE samples, obfuscated PHP/C2, and a full .NET dropper, showing how the flags were recovered and why each technique matters.
 
 _(Click on the image to go to the [video on YouTube](https://www.youtube.com/watch?v=xYrpUQj44FU))_  
-[![Solving Malware Challenges | Huntress CTF 2025](https://github.com/user-attachments/assets/700c44cd-0da0-44c5-8d3a-d01048b3326c)
+[![Solving Malware Challenges | Huntress CTF 2025](https://github.com/user-attachments/assets/8fce2cd2-056d-4439-8ab1-e308cb27aa63)
 ](https://www.youtube.com/watch?v=xYrpUQj44FU "Solving Malware Challenges | Huntress CTF 2025")
 
 - 00:37 - **Verify You Are Human**  
